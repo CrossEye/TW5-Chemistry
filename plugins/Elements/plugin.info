@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/ScottSauyet/Chemistry/Elements",
+    "name": "Chemical Elements",
+    "description": "Data plugin containing chemical element information",
+    "author": "Scott Sauyet",
+    "version": "0.1.0",
+    "core-version": ">=5.2.5",
+    "source": "https://github.com/CrossEye/Chemistry",
+    "list": "readme license",
+    "plugin-type": "plugin"
+}

@@ -1,0 +1,20 @@
+caption: By Year
+created: 20230213005448896
+modified: 20230213013319224
+tags: TableOfContents
+title: Elements by Year
+type: text/vnd.tiddlywiki
+
+!! Prehistory
+<ul>  <!-- hacking with Antimony, as it's the only "Early historic times"  -->
+<$list filter="[all[shadows+tiddlers]tag[Chemical Element]!has[year]] -[[Antimony]] +[nsort[element]] [[Antimony]]" >
+<div class="tc-menu-list-item"><$link /> -- {{!!discoverer}}</div>
+</$list>
+</ul>
+
+!! Historical
+<ul>
+<$list filter="[all[shadows+tiddlers]tag[Chemical Element]has[year]] +[nsort[year]]" >
+<div class="tc-menu-list-item"><$link /> ({{!!year}}) <$list filter="[<currentTiddler>has[discoverer]]" variable="_">-- {{!!discoverer}}</$list></div>
+</$list>
+</ul>

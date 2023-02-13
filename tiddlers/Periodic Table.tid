@@ -1,0 +1,27 @@
+created: 20230206030709486
+modified: 20230212201015862
+tags: TableOfContents
+title: Periodic Table
+type: text/vnd.tiddlywiki
+
+<div class="periodic-table-container">
+<table class="periodic">
+<$list filter="[{$:/_/my/table}jsonindexes[]]" variable="row">
+<tr>
+<$list filter="[{$:/_/my/table}jsonget<row>]" variable="currentTiddler"> 
+<td>
+<$list filter="[<currentTiddler>is[shadow]]" variable="_">
+<$set name="className" filter="[<currentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
+<$link to=<<currentTiddler>> >
+<div>
+<$macrocall $name="tile" className=<<className>> />
+</div>
+</$link>
+</$set>
+</$list>
+</td>
+</$list>
+</tr>
+</$list>
+</table>
+</div>

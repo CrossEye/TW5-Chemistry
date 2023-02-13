@@ -1,0 +1,31 @@
+{
+  "name": "tw5-chemistry",
+  "version": "0.1.0",
+  "description": "Periodic Table and other chemistry tools",
+  "main": "index.js",
+  "scripts": {
+    "pkg": "cross-var echo Package $npm_package_version",
+    "build": "tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossEye/TW5-Chemistry.git"
+  },
+  "keywords": [
+    "TiddlyWiki",
+    "plugin"
+  ],
+  "author": "Scott Sauyet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrossEye/TW5-Chemistry/issues"
+  },
+  "homepage": "https://github.com/CrossEye/TW5-Chemistry#readme",
+  "dependencies": {
+    "tiddlywiki": "^5.2.5"
+  },
+  "devDependencies": {
+    "cross-var": "^1.1.0",
+    "shx": "^0.3.4"
+  }
+}

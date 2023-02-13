@@ -1,0 +1,23 @@
+dl.compact-excerpt {
+  column-count: 3;
+  column-rule: 1px solid #ccc;
+  margin-left: 2em;
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin-top: 2em;
+}
+.compact-excerpt dt {
+  color: steelblue;
+  font-weight: bold;
+  display: inline;
+}
+.compact-excerpt dd {
+  display: inline;
+  margin-left: 0.25em;
+  font-weight: bold;
+  color: #999;
+}
+.compact-excerpt dt::before {
+  content: "\A";
+  display: block;
+} 

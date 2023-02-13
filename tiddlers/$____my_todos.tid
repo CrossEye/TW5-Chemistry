@@ -1,0 +1,15 @@
+created: 20230207203725986
+modified: 20230211230021811
+tags: 
+title: $:/_/my/todos
+type: text/vnd.tiddlywiki
+
+* <del>Add spacers after first two columns and before last two rows.</del> ''Completed'' in v2
+* <del>Figure out complete scalability, remove hardcoded `transform: scale (0.45, 0.45);`</del>  ''Completed'' in v2
+* (Possibly) add row and column headers mentioning periods and groups
+* CSS to make the hover border not change layout --  ''Almost completed'' in v2, still need to balance left and right margins
+* Trim the tiles' atomic weight to fit better in mobile.  Five significant figures should be enough
+* Remove `$:_/my/table` and derive the layout information from the periods and groups in the elements.  The trouble is to figure out what to do with the `f-block` lines, and how to do the more complex logic necessary in wiki text.
+* Add key regarding tile information and element types.  The tile is simple, just a demonstration.  The other, ideally, is hover-able, fading those that don't match the hovered type.
+* (Possibly) add important fields just below the element page's titles in some readable format.  Symbol, Number, Weight, and Element Type
+* Generate this ui as a secondary plugin/tiddler-group.  Maybe not worth it, even if it's easy.
