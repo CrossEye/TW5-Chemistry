@@ -3,6 +3,7 @@ atomic-mass: 227
 atomic-number: 89
 atomic-radius: 
 boiling-point: 3471
+created: 20230214000311539
 density: 1.01E+01
 discoverer: Debierne/Giesel
 electronegativity: 1.1
@@ -13,6 +14,7 @@ group: 3
 melting-point: 1323.15
 metal: yes
 metalloid: 
+modified: 20230214000311539
 natural: yes
 non-metal: 
 number-of-electrons: 89

@@ -3,6 +3,7 @@ atomic-mass: 74.922
 atomic-number: 33
 atomic-radius: 1.3
 boiling-point: 887
+created: 20230214000311538
 density: 5.78E+00
 discoverer: Albertus Magnus
 electronegativity: 2.18
@@ -13,6 +14,7 @@ group: 15
 melting-point: 1090.15
 metal: 
 metalloid: yes
+modified: 20230214000311538
 natural: yes
 non-metal: 
 number-of-electrons: 33

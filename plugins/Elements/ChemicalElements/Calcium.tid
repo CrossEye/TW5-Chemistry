@@ -3,6 +3,7 @@ atomic-mass: 40.078
 atomic-number: 20
 atomic-radius: 2.2
 boiling-point: 1757
+created: 20230214000311538
 density: 1.54E+00
 discoverer: Davy
 electronegativity: 1
@@ -13,6 +14,7 @@ group: 2
 melting-point: 1112.15
 metal: yes
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: 
 number-of-electrons: 20

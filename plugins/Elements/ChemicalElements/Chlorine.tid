@@ -3,6 +3,7 @@ atomic-mass: 35.453
 atomic-number: 17
 atomic-radius: 0.97
 boiling-point: 239.11
+created: 20230214000311538
 density: 3.21E-03
 discoverer: Scheele
 electronegativity: 3.16
@@ -13,6 +14,7 @@ group: 17
 melting-point: 172.31
 metal: 
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: yes
 number-of-electrons: 17

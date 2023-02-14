@@ -3,6 +3,7 @@ atomic-mass: 167.259
 atomic-number: 68
 atomic-radius: 2.5
 boiling-point: 3503
+created: 20230214000311539
 density: 9.07E+00
 discoverer: Mosander
 electronegativity: 1.24
@@ -13,6 +14,7 @@ group:
 melting-point: 1795.15
 metal: yes
 metalloid: 
+modified: 20230214000311539
 natural: yes
 non-metal: 
 number-of-electrons: 68

@@ -3,6 +3,7 @@ atomic-mass: 168.934
 atomic-number: 69
 atomic-radius: 2.4
 boiling-point: 2223
+created: 20230214000311539
 density: 9.32E+00
 discoverer: Cleve
 electronegativity: 1.25
@@ -13,6 +14,7 @@ group:
 melting-point: 1818.15
 metal: yes
 metalloid: 
+modified: 20230214000311539
 natural: yes
 non-metal: 
 number-of-electrons: 69

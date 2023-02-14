@@ -3,6 +3,7 @@ atomic-mass: 127.6
 atomic-number: 52
 atomic-radius: 1.4
 boiling-point: 1261
+created: 20230214000311538
 density: 6.23E+00
 discoverer: von Reichenstein
 electronegativity: 2.1
@@ -13,6 +14,7 @@ group: 16
 melting-point: 722.8
 metal: 
 metalloid: yes
+modified: 20230214000311538
 natural: yes
 non-metal: 
 number-of-electrons: 52

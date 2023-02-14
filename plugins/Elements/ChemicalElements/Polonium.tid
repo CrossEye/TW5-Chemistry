@@ -3,6 +3,7 @@ atomic-mass: 210
 atomic-number: 84
 atomic-radius: 1.5
 boiling-point: 1235
+created: 20230214000311539
 density: 9.32E+00
 discoverer: Curie
 electronegativity: 2
@@ -13,6 +14,7 @@ group: 16
 melting-point: 527.15
 metal: 
 metalloid: yes
+modified: 20230214000311539
 natural: yes
 non-metal: 
 number-of-electrons: 84

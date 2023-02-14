@@ -3,6 +3,7 @@ atomic-mass: 6.941
 atomic-number: 3
 atomic-radius: 2.1
 boiling-point: 1615
+created: 20230214000311538
 density: 5.34E-01
 discoverer: Arfvedson
 electronegativity: 0.98
@@ -13,6 +14,7 @@ group: 1
 melting-point: 453.85
 metal: yes
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: 
 number-of-electrons: 3

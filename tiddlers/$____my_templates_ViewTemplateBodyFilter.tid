@@ -1,8 +1,8 @@
 created: 20230204215950643
 list-before: 
-modified: 20230212150859486
+modified: 20230213175433685
 tags: $:/tags/ViewTemplateBodyFilter
 title: $:/_/my/templates/ViewTemplateBodyFilter
 type: text/vnd.tiddlywiki
 
-[has[atomic-mass]] -[[$:/_/my/headers]] +[then[$:/_/my/templates/body]]
+[has[atomic-mass]] -[[$:/_/my/data/headers]] +[then[$:/_/my/templates/body]]

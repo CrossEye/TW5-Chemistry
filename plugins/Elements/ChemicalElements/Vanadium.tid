@@ -3,6 +3,7 @@ atomic-mass: 50.942
 atomic-number: 23
 atomic-radius: 1.9
 boiling-point: 3680
+created: 20230214000311538
 density: 6.11E+00
 discoverer: del Rio
 electronegativity: 1.63
@@ -13,6 +14,7 @@ group: 5
 melting-point: 2175.15
 metal: yes
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: 
 number-of-electrons: 23

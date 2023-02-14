@@ -3,6 +3,7 @@ atomic-mass: 14.007
 atomic-number: 7
 atomic-radius: 0.75
 boiling-point: 77.36
+created: 20230214000311538
 density: 1.25E-03
 discoverer: Rutherford
 electronegativity: 3.04
@@ -13,6 +14,7 @@ group: 15
 melting-point: 63.29
 metal: 
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: yes
 number-of-electrons: 7

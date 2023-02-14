@@ -3,6 +3,7 @@ atomic-mass: 18.998
 atomic-number: 9
 atomic-radius: 0.57
 boiling-point: 85.03
+created: 20230214000311538
 density: 1.70E-03
 discoverer: Moissan
 electronegativity: 3.98
@@ -13,6 +14,7 @@ group: 17
 melting-point: 53.63
 metal: 
 metalloid: 
+modified: 20230214000311538
 natural: yes
 non-metal: yes
 number-of-electrons: 9

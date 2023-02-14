@@ -1,14 +1,14 @@
 created: 20230206030709486
-modified: 20230212201015862
+modified: 20230213170256637
 tags: TableOfContents
 title: Periodic Table
 type: text/vnd.tiddlywiki
 
 <div class="periodic-table-container">
 <table class="periodic">
-<$list filter="[{$:/_/my/table}jsonindexes[]]" variable="row">
+<$list filter="[{$:/_/my/data/table}jsonindexes[]]" variable="row">
 <tr>
-<$list filter="[{$:/_/my/table}jsonget<row>]" variable="currentTiddler"> 
+<$list filter="[{$:/_/my/data/table}jsonget<row>]" variable="currentTiddler"> 
 <td>
 <$list filter="[<currentTiddler>is[shadow]]" variable="_">
 <$set name="className" filter="[<currentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
