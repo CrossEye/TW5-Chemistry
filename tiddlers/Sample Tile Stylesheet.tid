@@ -1,0 +1,12 @@
+created: 20230214004838274
+modified: 20230221002247064
+tags: $:/tags/Stylesheet
+title: Sample Tile Stylesheet
+type: text/vnd.tiddlywiki
+
+.holder {height: 180px; width: 135px; container-type: inline-size;} /* should work with any 4:3 h:w ratio */
+div.tile {background: #f9c; height: 133cqw; position: relative;}
+div.tile div.number {position: absolute; top: 5cqw; left: 5cqw; font-size: 20cqw;}
+div.tile div.mass {position: absolute; top: 5cqw; right: 5cqw; font-size: 12cqw;}
+div.tile div.name {position: absolute; bottom: 5cqw; text-align: center; width: 100%; font-size: 12cqw;}
+div.tile div.symbol {position: absolute; top: 55cqw; text-align: center; width: 100%; font-size: 60cqw;}

@@ -1,0 +1,21 @@
+atomic-mass: A<sub>r</sub><sup>°</sup>({{{ [<element>get[symbol]] }}}) = <<value>>
+atomic-radius: <<value>> pm
+boiling-point: <<value>> °K
+created: 20230222020301686
+electronegativity: Pauling scale: <<value>>
+group: Testing group-period: <<value>>-{{{ [<element>get[period]] }}}
+modified: 20230223004945255
+tags: $:/tags/Macro
+title: config
+type: text/vnd.tiddlywiki
+
+\define displayfield(field, current:<<currentTiddler>>)
+<$let element=$current$ >
+<$let value={{{ [{!!$field$}] }}}>
+<!--$let value={{{ [{<element>!!$field$}] }}}-->
+<$wikify name="template" text={{{ [[config]get[$field$]] }}}>
+<<template>>
+</$wikify>
+</$let>
+</$let>
+\end
