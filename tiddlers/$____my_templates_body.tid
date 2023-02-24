@@ -1,8 +1,10 @@
 created: 20230131031519944
-modified: 20230224031738598
+modified: 20230224185039187
 tags: 
 title: $:/_/my/templates/body
 type: text/vnd.tiddlywiki
+
+\define more-link() <a href={{!!wikipedia-link}} class="tc-tiddlylink-external">More info from wikipedia</a>
 
 <$list filter="[<currentTiddler>has[element]has[atomic-mass]]" variable="_">
 <$set name="className" filter="[all[current]get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
@@ -13,7 +15,7 @@ type: text/vnd.tiddlywiki
 </$list>
 <blockquote>{{!!wikipedia-extract}}
 <br/><br/>
-([[more information from Wikipedia|https://en.wikipedia.org/wiki/Copper]])
+<<more-link>>
 </blockquote>
 <div style="clear: both;"/>
 {{||$:/core/ui/ViewTemplate/body/default}}
