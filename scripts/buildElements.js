@@ -1,4 +1,4 @@
-miconst {writeFile, mkdir, rm,} = require ('fs/promises')
+const {writeFile, mkdir, rm,} = require ('fs/promises')
 const tap = (fn) => (x) => ((fn (x)), x)
 const map = (fn) => (xs) => xs .map (x => fn (x))
 const call = (fn, ...args) => fn (...args)

@@ -5,19 +5,24 @@ created: 20230222020301686
 draft.of: config
 draft.title: config
 electronegativity: Pauling scale: <<value>>
-group: Testing group-period: <<value>>-{{{ [<element>get[period]] }}}
-modified: 20230223005006391
+group: Testing group-period: <<value>>-{{{ [<element>get[period]] }}} -<<element>>
+modified: 20230224012125894
 tags: $:/tags/Macro
 title: Draft of 'config'
 type: text/vnd.tiddlywiki
 
-\define displayfield(field, current:<<currentTiddler>>)
-<$let element=$current$ >
-<$let value={{{ [{!!$field$}] }}}>
-<!--$let value={{{ [{<element>!!$field$}] }}}-->
+\define displayfield(field element:<<currentTiddler>>)
+<!--$let value={{{ [{!!$field$}] }}} -->
+<$let value={{{ {{$element$!!$field$}} }}} >
+<$log field=$field$ element=$element$ value=<<value>> />
 <$wikify name="template" text={{{ [[config]get[$field$]] }}}>
 <<template>>
 </$wikify>
 </$let>
+\end
+
+\define macro2(field, tiddler) 
+<$let value={{{ {{$tiddler$!!$field$}} }}} >
+<<value>>
 </$let>
 \end
