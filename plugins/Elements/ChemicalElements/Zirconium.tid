@@ -3,7 +3,7 @@ atomic-mass: 91.224
 atomic-number: 40
 atomic-radius: 2.2
 boiling-point: 4682
-created: 20230214000311538
+created: 20230224032618200
 density: 6.51E+00
 discoverer: Klaproth
 electronegativity: 1.33
@@ -14,7 +14,7 @@ group: 4
 melting-point: 2125.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 40
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.278
 symbol: Zr
 tags: [[Chemical Element]]
+wikipedia-extract: Zirconium is a chemical element with the symbol Zr and atomic number 40. The name zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word is related to Persian zargun. It is a lustrous, grey-white, strong transition metal that closely resembles hafnium and, to a lesser extent, titanium. Zirconium is mainly used as a refractory and opacifier, although small amounts are used as an alloying agent for its strong resistance to corrosion. Zirconium forms a variety of inorganic and organometallic compounds such as zirconium dioxide and zirconocene dichloride, respectively. Five isotopes occur naturally, four of which are stable. Zirconium compounds have no known biological role.
+wikipedia-link: https://en.wikipedia.org/wiki/Zirconium
 year: 1789
-
-> Zirconium is a chemical element with the symbol Zr and atomic number 40. The name zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word is related to Persian zargun. It is a lustrous, grey-white, strong transition metal that closely resembles hafnium and, to a lesser extent, titanium. Zirconium is mainly used as a refractory and opacifier, although small amounts are used as an alloying agent for its strong resistance to corrosion. Zirconium forms a variety of inorganic and organometallic compounds such as zirconium dioxide and zirconocene dichloride, respectively. Five isotopes occur naturally, four of which are stable. Zirconium compounds have no known biological role.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Zirconium]])

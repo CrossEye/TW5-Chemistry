@@ -3,7 +3,7 @@ atomic-mass: 226
 atomic-number: 88
 atomic-radius: 
 boiling-point: 2010
-created: 20230214000311539
+created: 20230224032618200
 density: 5.50E+00
 discoverer: Pierre and Marie Curie
 electronegativity: 0.9
@@ -14,7 +14,7 @@ group: 2
 melting-point: 973.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 88
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Ra
 tags: [[Chemical Element]]
+wikipedia-extract: Radium is a chemical element with the symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) upon exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are radioactive, the most stable isotope being radium-226 with a half-life of 1,600 years. When radium decays, it emits ionizing radiation as a by-product, which can excite fluorescent chemicals and cause radioluminescence.
+wikipedia-link: https://en.wikipedia.org/wiki/Radium
 year: 1898
-
-> Radium is a chemical element with the symbol Ra and atomic number 88. It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) upon exposure to air, forming a black surface layer of radium nitride (Ra3N2). All isotopes of radium are radioactive, the most stable isotope being radium-226 with a half-life of 1,600 years. When radium decays, it emits ionizing radiation as a by-product, which can excite fluorescent chemicals and cause radioluminescence.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Radium]])

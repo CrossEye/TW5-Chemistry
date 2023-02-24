@@ -3,7 +3,7 @@ atomic-mass: 168.934
 atomic-number: 69
 atomic-radius: 2.4
 boiling-point: 2223
-created: 20230214000311539
+created: 20230224032618200
 density: 9.32E+00
 discoverer: Cleve
 electronegativity: 1.25
@@ -14,7 +14,7 @@ group:
 melting-point: 1818.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 69
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.16
 symbol: Tm
 tags: [[Chemical Element]]
+wikipedia-extract: Thulium is a chemical element with the symbol Tm and atomic number 69. It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
+wikipedia-link: https://en.wikipedia.org/wiki/Thulium
 year: 1879
-
-> Thulium is a chemical element with the symbol Tm and atomic number 69. It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Thulium]])

@@ -3,7 +3,7 @@ atomic-mass: 264
 atomic-number: 107
 atomic-radius: 
 boiling-point: 
-created: 20230214000311539
+created: 20230224032618201
 density: 3.70E+01
 discoverer: Armbruster and Münzenberg
 electronegativity: 
@@ -14,7 +14,7 @@ group: 7
 melting-point: 
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618201
 natural: 
 non-metal: 
 number-of-electrons: 107
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Bh
 tags: [[Chemical Element]]
+wikipedia-extract: Bohrium is a synthetic chemical element with the symbol Bh and atomic number 107. It is named after Danish physicist Niels Bohr. As a synthetic element, it can be created in a laboratory but is not found in nature. All known isotopes of bohrium are highly radioactive; the most stable known isotope is 270Bh with a half-life of approximately 2.4 minutes, though the unconfirmed 278Bh may have a longer half-life of about 11.5 minutes.
+wikipedia-link: https://en.wikipedia.org/wiki/Bohrium
 year: 1981
-
-> Bohrium is a synthetic chemical element with the symbol Bh and atomic number 107. It is named after Danish physicist Niels Bohr. As a synthetic element, it can be created in a laboratory but is not found in nature. All known isotopes of bohrium are highly radioactive; the most stable known isotope is 270Bh with a half-life of approximately 2.4 minutes, though the unconfirmed 278Bh may have a longer half-life of about 11.5 minutes.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Bohrium]])

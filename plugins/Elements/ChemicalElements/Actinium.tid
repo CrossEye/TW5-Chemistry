@@ -3,7 +3,7 @@ atomic-mass: 227
 atomic-number: 89
 atomic-radius: 
 boiling-point: 3471
-created: 20230214000311539
+created: 20230224032618200
 density: 1.01E+01
 discoverer: Debierne/Giesel
 electronegativity: 1.1
@@ -14,7 +14,7 @@ group: 3
 melting-point: 1323.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 89
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 0.12
 symbol: Ac
 tags: [[Chemical Element]]
+wikipedia-extract: Actinium is a chemical element with the symbol Ac and atomic number 89. It was first isolated by Friedrich Oskar Giesel in 1902, who gave it the name emanium; the element got its name by being wrongly identified with a substance André-Louis Debierne found in 1899 and called actinium. Actinium gave the name to the actinide series, a set of 15 elements between actinium and lawrencium in the periodic table. Together with polonium, radium, and radon, actinium was one of the first non-primordial radioactive elements to be isolated.
+wikipedia-link: https://en.wikipedia.org/wiki/Actinium
 year: 1899
-
-> Actinium is a chemical element with the symbol Ac and atomic number 89. It was first isolated by Friedrich Oskar Giesel in 1902, who gave it the name emanium; the element got its name by being wrongly identified with a substance André-Louis Debierne found in 1899 and called actinium. Actinium gave the name to the actinide series, a set of 15 elements between actinium and lawrencium in the periodic table. Together with polonium, radium, and radon, actinium was one of the first non-primordial radioactive elements to be isolated.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Actinium]])

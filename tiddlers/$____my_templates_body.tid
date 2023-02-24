@@ -1,5 +1,5 @@
 created: 20230131031519944
-modified: 20230213172100060
+modified: 20230224031738598
 tags: 
 title: $:/_/my/templates/body
 type: text/vnd.tiddlywiki
@@ -11,4 +11,9 @@ type: text/vnd.tiddlywiki
 </div>
 </$set>
 </$list>
+<blockquote>{{!!wikipedia-extract}}
+<br/><br/>
+([[more information from Wikipedia|https://en.wikipedia.org/wiki/Copper]])
+</blockquote>
+<div style="clear: both;"/>
 {{||$:/core/ui/ViewTemplate/body/default}}

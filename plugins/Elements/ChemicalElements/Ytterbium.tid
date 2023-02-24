@@ -3,7 +3,7 @@ atomic-mass: 173.054
 atomic-number: 70
 atomic-radius: 2.4
 boiling-point: 1469
-created: 20230214000311539
+created: 20230224032618200
 density: 6.97E+00
 discoverer: Marignac
 electronegativity: 1.1
@@ -14,7 +14,7 @@ group:
 melting-point: 1097.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 70
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.155
 symbol: Yb
 tags: [[Chemical Element]]
+wikipedia-extract: Ytterbium is a chemical element with the symbol Yb and atomic number 70. It is a metal, the fourteenth and penultimate element in the lanthanide series, which is the basis of the relative stability of its +2 oxidation state. However, like the other lanthanides, its most common oxidation state is +3, as in its oxide, halides, and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble ytterbium compounds form complexes with nine water molecules. Because of its closed-shell electron configuration, its density and melting and boiling points differ significantly from those of most other lanthanides.
+wikipedia-link: https://en.wikipedia.org/wiki/Ytterbium
 year: 1878
-
-> Ytterbium is a chemical element with the symbol Yb and atomic number 70. It is a metal, the fourteenth and penultimate element in the lanthanide series, which is the basis of the relative stability of its +2 oxidation state. However, like the other lanthanides, its most common oxidation state is +3, as in its oxide, halides, and other compounds. In aqueous solution, like compounds of other late lanthanides, soluble ytterbium compounds form complexes with nine water molecules. Because of its closed-shell electron configuration, its density and melting and boiling points differ significantly from those of most other lanthanides.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Ytterbium]])

@@ -3,7 +3,7 @@ atomic-mass: 157.25
 atomic-number: 64
 atomic-radius: 2.5
 boiling-point: 3546
-created: 20230214000311539
+created: 20230224032618200
 density: 7.90E+00
 discoverer: de Marignac
 electronegativity: 1.2
@@ -14,7 +14,7 @@ group:
 melting-point: 1585.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 64
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.236
 symbol: Gd
 tags: [[Chemical Element]]
+wikipedia-extract: Gadolinium is a chemical element with the symbol Gd and atomic number 64. Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.
+wikipedia-link: https://en.wikipedia.org/wiki/Gadolinium
 year: 1880
-
-> Gadolinium is a chemical element with the symbol Gd and atomic number 64. Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Gadolinium]])

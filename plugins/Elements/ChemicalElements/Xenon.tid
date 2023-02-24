@@ -3,7 +3,7 @@ atomic-mass: 131.293
 atomic-number: 54
 atomic-radius: 1.2
 boiling-point: 165.03
-created: 20230214000311539
+created: 20230224032618200
 density: 5.89E-03
 discoverer: Ramsay and Travers
 electronegativity: 
@@ -14,7 +14,7 @@ group: 18
 melting-point: 161.45
 metal: 
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: yes
 number-of-electrons: 54
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.158
 symbol: Xe
 tags: [[Chemical Element]]
+wikipedia-extract: Xenon is a chemical element with the symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.
+wikipedia-link: https://en.wikipedia.org/wiki/Xenon
 year: 1898
-
-> Xenon is a chemical element with the symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Xenon]])

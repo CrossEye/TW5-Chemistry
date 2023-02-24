@@ -3,7 +3,7 @@ atomic-mass: 50.942
 atomic-number: 23
 atomic-radius: 1.9
 boiling-point: 3680
-created: 20230214000311538
+created: 20230224032618200
 density: 6.11E+00
 discoverer: del Rio
 electronegativity: 1.63
@@ -14,7 +14,7 @@ group: 5
 melting-point: 2175.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 23
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.489
 symbol: V
 tags: [[Chemical Element]]
+wikipedia-extract: Vanadium is a chemical element with the symbol V and atomic number 23. It is a hard, silvery-grey, malleable transition metal. The elemental metal is rarely found in nature, but once isolated artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.
+wikipedia-link: https://en.wikipedia.org/wiki/Vanadium
 year: 1801
-
-> Vanadium is a chemical element with the symbol V and atomic number 23. It is a hard, silvery-grey, malleable transition metal. The elemental metal is rarely found in nature, but once isolated artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Vanadium]])

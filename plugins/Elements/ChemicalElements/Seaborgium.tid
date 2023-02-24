@@ -3,7 +3,7 @@ atomic-mass: 266
 atomic-number: 106
 atomic-radius: 
 boiling-point: 
-created: 20230214000311539
+created: 20230224032618201
 density: 3.50E+01
 discoverer: Ghiorso et al.
 electronegativity: 
@@ -14,7 +14,7 @@ group: 6
 melting-point: 
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618201
 natural: 
 non-metal: 
 number-of-electrons: 106
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Sg
 tags: [[Chemical Element]]
+wikipedia-extract: Seaborgium is a synthetic chemical element with the symbol Sg and atomic number 106. It is named after the American nuclear chemist Glenn T. Seaborg. As a synthetic element, it can be created in a laboratory but is not found in nature. It is also radioactive; the most stable known isotope, 269Sg, has a half-life of approximately 14 minutes.
+wikipedia-link: https://en.wikipedia.org/wiki/Seaborgium
 year: 1974
-
-> Seaborgium is a synthetic chemical element with the symbol Sg and atomic number 106. It is named after the American nuclear chemist Glenn T. Seaborg. As a synthetic element, it can be created in a laboratory but is not found in nature. It is also radioactive; the most stable known isotope, 269Sg, has a half-life of approximately 14 minutes.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Seaborgium]])

@@ -3,7 +3,7 @@ atomic-mass: 294
 atomic-number: 118
 atomic-radius: 
 boiling-point: 
-created: 20230214000311539
+created: 20230224032618201
 density: 
 discoverer: 
 electronegativity: 
@@ -14,7 +14,7 @@ group: 18
 melting-point: 
 metal: 
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618201
 natural: 
 non-metal: yes
 number-of-electrons: 118
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Og
 tags: [[Chemical Element]]
+wikipedia-extract: Oganesson is a synthetic chemical element with the symbol Og and atomic number 118. It was first synthesized in 2002 at the Joint Institute for Nuclear Research (JINR) in Dubna, near Moscow, Russia, by a joint team of Russian and American scientists. In December 2015, it was recognized as one of four new elements by the Joint Working Party of the international scientific bodies IUPAC and IUPAP. It was formally named on 28 November 2016. The name honors the nuclear physicist Yuri Oganessian, who played a leading role in the discovery of the heaviest elements in the periodic table. It is one of only two elements named after a person who was alive at the time of naming, the other being seaborgium, and the only element whose eponym is alive today.
+wikipedia-link: https://en.wikipedia.org/wiki/Oganesson
 year: 2006
-
-> Oganesson is a synthetic chemical element with the symbol Og and atomic number 118. It was first synthesized in 2002 at the Joint Institute for Nuclear Research (JINR) in Dubna, near Moscow, Russia, by a joint team of Russian and American scientists. In December 2015, it was recognized as one of four new elements by the Joint Working Party of the international scientific bodies IUPAC and IUPAP. It was formally named on 28 November 2016. The name honors the nuclear physicist Yuri Oganessian, who played a leading role in the discovery of the heaviest elements in the periodic table. It is one of only two elements named after a person who was alive at the time of naming, the other being seaborgium, and the only element whose eponym is alive today.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Oganesson]])

@@ -3,7 +3,7 @@ atomic-mass: 55.845
 atomic-number: 26
 atomic-radius: 1.7
 boiling-point: 3134
-created: 20230214000311538
+created: 20230224032618200
 density: 7.87E+00
 discoverer: Prehistoric
 electronegativity: 1.83
@@ -14,7 +14,7 @@ group: 8
 melting-point: 1808.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 26
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.449
 symbol: Fe
 tags: [[Chemical Element]]
+wikipedia-extract: Iron is a chemical element with symbol Fe and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, just ahead of oxygen, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust, being mainly deposited by meteorites in its metallic state, with its ores also being found there.
+wikipedia-link: https://en.wikipedia.org/wiki/Iron
 year: 
-
-> Iron is a chemical element with symbol Fe and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, just ahead of oxygen, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust, being mainly deposited by meteorites in its metallic state, with its ores also being found there.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Iron]])

@@ -3,7 +3,7 @@ atomic-mass: 140.116
 atomic-number: 58
 atomic-radius: 2.7
 boiling-point: 3716
-created: 20230214000311539
+created: 20230224032618200
 density: 6.77E+00
 discoverer: Berzelius
 electronegativity: 1.12
@@ -14,7 +14,7 @@ group:
 melting-point: 1071.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 58
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.192
 symbol: Ce
 tags: [[Chemical Element]]
+wikipedia-extract: Cerium is a chemical element with the symbol Ce and atomic number 58. Cerium is a soft, ductile, and silvery-white metal that tarnishes when exposed to air. Cerium is the second element in the lanthanide series, and while it often shows the oxidation state of +3 characteristic of the series, it also has a stable +4 state that does not oxidize water. It is also considered one of the rare-earth elements. Cerium has no known biological role in humans but is not particularly toxic, except with intense or continued exposure.
+wikipedia-link: https://en.wikipedia.org/wiki/Cerium
 year: 1803
-
-> Cerium is a chemical element with the symbol Ce and atomic number 58. Cerium is a soft, ductile, and silvery-white metal that tarnishes when exposed to air. Cerium is the second element in the lanthanide series, and while it often shows the oxidation state of +3 characteristic of the series, it also has a stable +4 state that does not oxidize water. It is also considered one of the rare-earth elements. Cerium has no known biological role in humans but is not particularly toxic, except with intense or continued exposure.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Cerium]])

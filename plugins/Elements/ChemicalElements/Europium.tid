@@ -3,7 +3,7 @@ atomic-mass: 151.964
 atomic-number: 63
 atomic-radius: 2.6
 boiling-point: 1802
-created: 20230214000311539
+created: 20230224032618200
 density: 5.24E+00
 discoverer: Demarcay
 electronegativity: 1.2
@@ -14,7 +14,7 @@ group:
 melting-point: 1095.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 63
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.182
 symbol: Eu
 tags: [[Chemical Element]]
+wikipedia-extract: Europium is a chemical element with the symbol Eu and atomic number 63. Europium is the most reactive lanthanide by far, having to be stored under an inert fluid to protect it from atmospheric oxygen or moisture. Europium is also the softest lanthanide, as it can be dented with a fingernail and easily cut with a knife. When oxidation is removed a shiny-white metal is visible. Europium was isolated in 1901 and is named after the continent of Europe. Being a typical member of the lanthanide series, europium usually assumes the oxidation state +3, but the oxidation state +2 is also common. All europium compounds with oxidation state +2 are slightly reducing. Europium has no significant biological role and is relatively non-toxic as compared to other heavy metals. Most applications of europium exploit the phosphorescence of europium compounds. Europium is one of the rarest of the rare-earth elements on Earth.
+wikipedia-link: https://en.wikipedia.org/wiki/Europium
 year: 1901
-
-> Europium is a chemical element with the symbol Eu and atomic number 63. Europium is the most reactive lanthanide by far, having to be stored under an inert fluid to protect it from atmospheric oxygen or moisture. Europium is also the softest lanthanide, as it can be dented with a fingernail and easily cut with a knife. When oxidation is removed a shiny-white metal is visible. Europium was isolated in 1901 and is named after the continent of Europe. Being a typical member of the lanthanide series, europium usually assumes the oxidation state +3, but the oxidation state +2 is also common. All europium compounds with oxidation state +2 are slightly reducing. Europium has no significant biological role and is relatively non-toxic as compared to other heavy metals. Most applications of europium exploit the phosphorescence of europium compounds. Europium is one of the rarest of the rare-earth elements on Earth.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Europium]])

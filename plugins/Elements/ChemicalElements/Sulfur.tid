@@ -3,7 +3,7 @@ atomic-mass: 32.065
 atomic-number: 16
 atomic-radius: 1.1
 boiling-point: 717.8
-created: 20230214000311538
+created: 20230224032618199
 density: 2.07E+00
 discoverer: Prehistoric
 electronegativity: 2.58
@@ -14,7 +14,7 @@ group: 16
 melting-point: 388.51
 metal: 
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618199
 natural: yes
 non-metal: yes
 number-of-electrons: 16
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.71
 symbol: S
 tags: [[Chemical Element]]
+wikipedia-extract: Sulfur (or sulphur in British English) is a chemical element with the symbol S and atomic number 16. It is abundant, multivalent and nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. Elemental sulfur is a bright yellow, crystalline solid at room temperature.
+wikipedia-link: https://en.wikipedia.org/wiki/Sulfur
 year: 
-
-> Sulfur (or sulphur in British English) is a chemical element with the symbol S and atomic number 16. It is abundant, multivalent and nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. Elemental sulfur is a bright yellow, crystalline solid at room temperature.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Sulfur]])

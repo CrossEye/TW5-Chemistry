@@ -3,7 +3,7 @@ atomic-mass: 121.76
 atomic-number: 51
 atomic-radius: 1.5
 boiling-point: 1860
-created: 20230214000311538
+created: 20230224032618200
 density: 6.69E+00
 discoverer: Early historic times
 electronegativity: 2.05
@@ -14,7 +14,7 @@ group: 15
 melting-point: 904.05
 metal: 
 metalloid: yes
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 51
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.207
 symbol: Sb
 tags: [[Chemical Element]]
+wikipedia-extract: Antimony is a chemical element with the symbol Sb (from Latin: stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name kohl. The earliest known description of the metal in the West was written in 1540 by Vannoccio Biringuccio.
+wikipedia-link: https://en.wikipedia.org/wiki/Antimony
 year: 
-
-> Antimony is a chemical element with the symbol Sb (from Latin: stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name kohl. The earliest known description of the metal in the West was written in 1540 by Vannoccio Biringuccio.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Antimony]])

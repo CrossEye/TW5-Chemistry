@@ -3,7 +3,7 @@ atomic-mass: 18.998
 atomic-number: 9
 atomic-radius: 0.57
 boiling-point: 85.03
-created: 20230214000311538
+created: 20230224032618199
 density: 1.70E-03
 discoverer: Moissan
 electronegativity: 3.98
@@ -14,7 +14,7 @@ group: 17
 melting-point: 53.63
 metal: 
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618199
 natural: yes
 non-metal: yes
 number-of-electrons: 9
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.824
 symbol: F
 tags: [[Chemical Element]]
+wikipedia-extract: Fluorine is a chemical element with the symbol F and atomic number 9. It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. As the most electronegative reactive element, it is extremely reactive, as it reacts with all other elements except for the light inert gases.
+wikipedia-link: https://en.wikipedia.org/wiki/Fluorine
 year: 1886
-
-> Fluorine is a chemical element with the symbol F and atomic number 9. It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. As the most electronegative reactive element, it is extremely reactive, as it reacts with all other elements except for the light inert gases.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Fluorine]])

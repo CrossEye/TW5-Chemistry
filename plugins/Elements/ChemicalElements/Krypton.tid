@@ -3,7 +3,7 @@ atomic-mass: 83.798
 atomic-number: 36
 atomic-radius: 1
 boiling-point: 119.93
-created: 20230214000311538
+created: 20230224032618200
 density: 3.73E-03
 discoverer: Ramsay and Travers
 electronegativity: 
@@ -14,7 +14,7 @@ group: 18
 melting-point: 115.93
 metal: 
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: yes
 number-of-electrons: 36
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.248
 symbol: Kr
 tags: [[Chemical Element]]
+wikipedia-extract: Krypton is a chemical element with the symbol Kr and atomic number 36. It is a colorless, odorless, tasteless noble gas that occurs in trace amounts in the atmosphere and is often used with other rare gases in fluorescent lamps. Krypton is chemically inert.
+wikipedia-link: https://en.wikipedia.org/wiki/Krypton
 year: 1898
-
-> Krypton is a chemical element with the symbol Kr and atomic number 36. It is a colorless, odorless, tasteless noble gas that occurs in trace amounts in the atmosphere and is often used with other rare gases in fluorescent lamps. Krypton is chemically inert.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Krypton]])

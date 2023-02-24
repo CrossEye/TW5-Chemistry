@@ -3,7 +3,7 @@ atomic-mass: 69.723
 atomic-number: 31
 atomic-radius: 1.8
 boiling-point: 2477
-created: 20230214000311538
+created: 20230224032618200
 density: 5.91E+00
 discoverer: de Boisbaudran
 electronegativity: 1.81
@@ -14,7 +14,7 @@ group: 13
 melting-point: 302.91
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 31
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.371
 symbol: Ga
 tags: [[Chemical Element]]
+wikipedia-extract: Gallium is a chemical element with the symbol Ga and atomic number 31. Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, Gallium is in group 13 of the periodic table and is similar to the other metals of the group.
+wikipedia-link: https://en.wikipedia.org/wiki/Gallium
 year: 1875
-
-> Gallium is a chemical element with the symbol Ga and atomic number 31. Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, Gallium is in group 13 of the periodic table and is similar to the other metals of the group.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Gallium]])

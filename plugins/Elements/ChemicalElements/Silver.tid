@@ -3,7 +3,7 @@ atomic-mass: 107.868
 atomic-number: 47
 atomic-radius: 1.8
 boiling-point: 2435
-created: 20230214000311538
+created: 20230224032618200
 density: 1.05E+01
 discoverer: Prehistoric
 electronegativity: 1.93
@@ -14,7 +14,7 @@ group: 11
 melting-point: 1234.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 47
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.235
 symbol: Ag
 tags: [[Chemical Element]]
+wikipedia-extract: Silver is a chemical element with the symbol Ag and atomic number 47. A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form, as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.
+wikipedia-link: https://en.wikipedia.org/wiki/Silver
 year: 
-
-> Silver is a chemical element with the symbol Ag and atomic number 47. A soft, white, lustrous transition metal, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. The metal is found in the Earth's crust in the pure, free elemental form, as an alloy with gold and other metals, and in minerals such as argentite and chlorargyrite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Silver]])

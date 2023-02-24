@@ -3,7 +3,7 @@ atomic-mass: 207.2
 atomic-number: 82
 atomic-radius: 1.8
 boiling-point: 2022
-created: 20230214000311539
+created: 20230224032618200
 density: 1.13E+01
 discoverer: Prehistoric
 electronegativity: 2.33
@@ -14,7 +14,7 @@ group: 14
 melting-point: 600.75
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 82
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.129
 symbol: Pb
 tags: [[Chemical Element]]
+wikipedia-extract: Lead is a chemical element with the symbol Pb and atomic number 82. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and also has a relatively low melting point. When freshly cut, lead is a shiny gray with a hint of blue. It tarnishes to a dull gray color when exposed to air. Lead has the highest atomic number of any stable element and three of its isotopes are endpoints of major nuclear decay chains of heavier elements. Lead is toxic, even in small amounts, especially to children.
+wikipedia-link: https://en.wikipedia.org/wiki/Lead
 year: 
-
-> Lead is a chemical element with the symbol Pb and atomic number 82. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and also has a relatively low melting point. When freshly cut, lead is a shiny gray with a hint of blue. It tarnishes to a dull gray color when exposed to air. Lead has the highest atomic number of any stable element and three of its isotopes are endpoints of major nuclear decay chains of heavier elements. Lead is toxic, even in small amounts, especially to children.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Lead]])

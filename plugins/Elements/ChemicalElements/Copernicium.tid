@@ -3,7 +3,7 @@ atomic-mass: 285
 atomic-number: 112
 atomic-radius: 
 boiling-point: 
-created: 20230214000311539
+created: 20230224032618201
 density: 
 discoverer: 
 electronegativity: 
@@ -14,7 +14,7 @@ group: 12
 melting-point: 
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618201
 natural: 
 non-metal: 
 number-of-electrons: 112
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Cn
 tags: [[Chemical Element]]
+wikipedia-extract: Copernicium is a synthetic chemical element with the symbol Cn and atomic number 112. Its known isotopes are extremely radioactive, and have only been created in a laboratory. The most stable known isotope, copernicium-285, has a half-life of approximately 30 seconds. Copernicium was first created in 1996 by the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany. It was named after the astronomer Nicolaus Copernicus.
+wikipedia-link: https://en.wikipedia.org/wiki/Copernicium
 year: 1996
-
-> Copernicium is a synthetic chemical element with the symbol Cn and atomic number 112. Its known isotopes are extremely radioactive, and have only been created in a laboratory. The most stable known isotope, copernicium-285, has a half-life of approximately 30 seconds. Copernicium was first created in 1996 by the GSI Helmholtz Centre for Heavy Ion Research near Darmstadt, Germany. It was named after the astronomer Nicolaus Copernicus.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Copernicium]])

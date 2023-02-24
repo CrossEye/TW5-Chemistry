@@ -1,10 +1,16 @@
 created: 20230213164931481
-modified: 20230213175130961
+modified: 20230224032034336
 tags: $:/tags/ViewTemplate
 title: $:/_/my/templates/ElementType
 type: text/vnd.tiddlywiki
 
 <$list filter="[<currentTiddler>tag[Element Type]]" variable="_">
+
+<blockquote>{{!!wikipedia-extract}}
+<br/><br/>
+([[more information from Wikipedia|https://en.wikipedia.org/wiki/Copper]])
+</blockquote>
+<div style="clear: both;"/>
 
 !! Elements
 <ul>

@@ -3,7 +3,7 @@ atomic-mass: 85.468
 atomic-number: 37
 atomic-radius: 3
 boiling-point: 961
-created: 20230214000311538
+created: 20230224032618200
 density: 1.53E+00
 discoverer: Bunsen and Kirchoff
 electronegativity: 0.82
@@ -14,7 +14,7 @@ group: 1
 melting-point: 312.79
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 37
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.363
 symbol: Rb
 tags: [[Chemical Element]]
+wikipedia-extract: Rubidium is the chemical element with the symbol Rb and atomic number 37. It is a very soft, whitish-grey solid in the alkali metal group, similar to potassium and caesium. Rubidium is the first alkali metal in the group to have a density higher than water. On Earth, natural rubidium comprises two isotopes: 72% is a stable isotope 85Rb, and 28% is slightly radioactive 87Rb, with a half-life of 48.8 billion years—more than three times as long as the estimated age of the universe.
+wikipedia-link: https://en.wikipedia.org/wiki/Rubidium
 year: 1861
-
-> Rubidium is the chemical element with the symbol Rb and atomic number 37. It is a very soft, whitish-grey solid in the alkali metal group, similar to potassium and caesium. Rubidium is the first alkali metal in the group to have a density higher than water. On Earth, natural rubidium comprises two isotopes: 72% is a stable isotope 85Rb, and 28% is slightly radioactive 87Rb, with a half-life of 48.8 billion years—more than three times as long as the estimated age of the universe.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Rubidium]])

@@ -3,7 +3,7 @@ atomic-mass: 138.905
 atomic-number: 57
 atomic-radius: 2.7
 boiling-point: 3737
-created: 20230214000311539
+created: 20230224032618200
 density: 6.15E+00
 discoverer: Mosander
 electronegativity: 1.1
@@ -14,7 +14,7 @@ group: 3
 melting-point: 1193.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 57
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.195
 symbol: La
 tags: [[Chemical Element]]
+wikipedia-extract: Lanthanum is a chemical element with the symbol La and atomic number 57. It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air. It is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table, of which lanthanum is the first and the prototype. Lanthanum is traditionally counted among the rare earth elements. Like most other rare earth elements, the usual oxidation state is +3. Lanthanum has no biological role in humans but is essential to some bacteria. It is not particularly toxic to humans but does show some antimicrobial activity.
+wikipedia-link: https://en.wikipedia.org/wiki/Lanthanum
 year: 1839
-
-> Lanthanum is a chemical element with the symbol La and atomic number 57. It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air. It is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table, of which lanthanum is the first and the prototype. Lanthanum is traditionally counted among the rare earth elements. Like most other rare earth elements, the usual oxidation state is +3. Lanthanum has no biological role in humans but is essential to some bacteria. It is not particularly toxic to humans but does show some antimicrobial activity.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Lanthanum]])

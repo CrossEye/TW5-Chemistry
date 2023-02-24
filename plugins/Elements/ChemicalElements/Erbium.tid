@@ -3,7 +3,7 @@ atomic-mass: 167.259
 atomic-number: 68
 atomic-radius: 2.5
 boiling-point: 3503
-created: 20230214000311539
+created: 20230224032618200
 density: 9.07E+00
 discoverer: Mosander
 electronegativity: 1.24
@@ -14,7 +14,7 @@ group:
 melting-point: 1795.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 68
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.168
 symbol: Er
 tags: [[Chemical Element]]
+wikipedia-extract: Erbium is a chemical element with the symbol Er and atomic number 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements. It is a lanthanide, a rare-earth element, originally found in the gadolinite mine in Ytterby, Sweden, which is the source of the element's name.
+wikipedia-link: https://en.wikipedia.org/wiki/Erbium
 year: 1843
-
-> Erbium is a chemical element with the symbol Er and atomic number 68. A silvery-white solid metal when artificially isolated, natural erbium is always found in chemical combination with other elements. It is a lanthanide, a rare-earth element, originally found in the gadolinite mine in Ytterby, Sweden, which is the source of the element's name.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Erbium]])

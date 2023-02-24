@@ -3,7 +3,7 @@ atomic-mass: 63.546
 atomic-number: 29
 atomic-radius: 1.6
 boiling-point: 2835
-created: 20230214000311538
+created: 20230224032618200
 density: 8.96E+00
 discoverer: Prehistoric
 electronegativity: 1.9
@@ -14,7 +14,7 @@ group: 11
 melting-point: 1357.75
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 29
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.385
 symbol: Cu
 tags: [[Chemical Element]]
+wikipedia-extract: Copper is a chemical element with the symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color. Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.
+wikipedia-link: https://en.wikipedia.org/wiki/Copper
 year: 
-
-> Copper is a chemical element with the symbol Cu and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a pinkish-orange color. Copper is used as a conductor of heat and electricity, as a building material, and as a constituent of various metal alloys, such as sterling silver used in jewelry, cupronickel used to make marine hardware and coins, and constantan used in strain gauges and thermocouples for temperature measurement.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Copper]])

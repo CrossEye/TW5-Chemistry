@@ -12,9 +12,9 @@ const main = (elements) =>
     .then (() => Promise .resolve (elements))
     .then (addFields)
     .then (display ('Added title and tags'))
-    .then (map (addText))
+    .then (map (addExtract))
     .then (allPromises)
-    .then (display ('Added text from Wikipedia extracts to element tiddlers'))
+    .then (display ('Added extract from Wikipedia to element tiddlers'))
     .then (map (addTimestamps))
     .then (display ('Added created/modified timestamps'))
     .then (tap (map (writeTiddler ('ChemicalElements'))))
@@ -24,7 +24,7 @@ const main = (elements) =>
     .then (display (`Gathered element types`))
     .then (map (addTimestamps))
     .then (display (`Added created/modified timestamps`))
-    .then (map (addText))
+    .then (map (addExtract))
     .then (display (`Added text from Wikipedia extracts to element type tiddlers`))
     .then (allPromises)
     .then (map (addLinks (elements)))
@@ -43,13 +43,16 @@ const createOutputDir = () =>
 const addFields = (elements) =>
   elements .map (e => ({title: e.element, tags: '[[Chemical Element]]', ...e}))
 
-const addText = (e) => 
+const addExtract = (e) => 
   fetch (`https://en.wikipedia.org/api/rest_v1/page/summary/${wikipediaTitle (e .title)}`)
     .then(r => r.json()) 
     .then (o => ({
       ... e,
       ... (o .extract 
-        ? {text: '> ' + o.extract .split ('\n') .join ('\n> ') + `\n\n> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/${wikipediaTitle (e .title)}]])`}
+        ? {
+            'wikipedia-extract': o.extract,
+            'wikipedia-link': `https://en.wikipedia.org/wiki/${wikipediaTitle (e .title)}`
+          }
         : {}
       )
     }))
@@ -65,19 +68,21 @@ const wikipediaTitle = ((conversions = {
 const writeTiddler = (folder) => (t) => 
   writeFile (`./plugins/Elements/${folder}/${t.title}.tid`, formatTiddler (t))
 
-const formatTiddler = ({title, text, ...rest}) =>
+const formatTiddler = ({title, ...rest}) =>
    [['title', title]] .concat (Object .entries (rest) 
      .sort (([k1], [k2]) => k1 < k2 ? -1 : k1 > k2 ? +1 : 0))
      .map (([k, v]) => `${k}: ${v}`) .join ('\n') 
-     + '\n\n' + text
 
 const collectTypes = (ts) => 
   [... new Set (ts .map (t => t ['element-type']))]
     .map (t => ({title: t, tags: '[[Element Type]]'}))
 
-const addLinks = (elements) => ({text, ...rest}) => ({
+const addLinks = (elements) => ({'wikipedia-extract': extract = '', ...rest}) => ({
   ...rest,
-  text: elements .reduce ((a, {element}) => a.replaceAll (new RegExp(`\\b${element}\\b`, `gi`), (s) => `[[${s}|${element}]]`), text || '')
+  'wikipedia-extract': elements .reduce (
+    (a, {element}) => a.replaceAll (new RegExp(`\\b${element}\\b`, `gi`), (s) => `[[${s}|${element}]]`), 
+    extract
+  )
 })
    
 main (require ('./../RawData/raw.json'))

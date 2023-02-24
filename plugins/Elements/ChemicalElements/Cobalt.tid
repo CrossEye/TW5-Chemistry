@@ -3,7 +3,7 @@ atomic-mass: 58.933
 atomic-number: 27
 atomic-radius: 1.7
 boiling-point: 3200
-created: 20230214000311538
+created: 20230224032618200
 density: 8.86E+00
 discoverer: Brandt
 electronegativity: 1.88
@@ -14,7 +14,7 @@ group: 9
 melting-point: 1768.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 27
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.421
 symbol: Co
 tags: [[Chemical Element]]
+wikipedia-extract: Cobalt is a chemical element with the symbol Co and atomic number 27. As with nickel, cobalt is found in the Earth's crust only in a chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver metal.
+wikipedia-link: https://en.wikipedia.org/wiki/Cobalt
 year: 1735
-
-> Cobalt is a chemical element with the symbol Co and atomic number 27. As with nickel, cobalt is found in the Earth's crust only in a chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Cobalt]])

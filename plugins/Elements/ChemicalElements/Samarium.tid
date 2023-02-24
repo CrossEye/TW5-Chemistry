@@ -3,7 +3,7 @@ atomic-mass: 150.36
 atomic-number: 62
 atomic-radius: 2.6
 boiling-point: 2067
-created: 20230214000311539
+created: 20230224032618200
 density: 7.52E+00
 discoverer: Boisbaudran
 electronegativity: 1.17
@@ -14,7 +14,7 @@ group:
 melting-point: 1345.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 62
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.197
 symbol: Sm
 tags: [[Chemical Element]]
+wikipedia-extract: Samarium is a chemical element with symbol Sm and atomic number 62. It is a moderately hard silvery metal that slowly oxidizes in air. Being a typical member of the lanthanide series, samarium usually has the oxidation state +3. Compounds of samarium(II) are also known, most notably the monoxide SmO, monochalcogenides SmS, SmSe and SmTe, as well as samarium(II) iodide. The last compound is a common reducing agent in chemical synthesis. Samarium has no significant biological role, and some samarium salts are slightly toxic.
+wikipedia-link: https://en.wikipedia.org/wiki/Samarium
 year: 1879
-
-> Samarium is a chemical element with symbol Sm and atomic number 62. It is a moderately hard silvery metal that slowly oxidizes in air. Being a typical member of the lanthanide series, samarium usually has the oxidation state +3. Compounds of samarium(II) are also known, most notably the monoxide SmO, monochalcogenides SmS, SmSe and SmTe, as well as samarium(II) iodide. The last compound is a common reducing agent in chemical synthesis. Samarium has no significant biological role, and some samarium salts are slightly toxic.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Samarium]])

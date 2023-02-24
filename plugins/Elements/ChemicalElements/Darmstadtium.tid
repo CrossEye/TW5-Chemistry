@@ -3,7 +3,7 @@ atomic-mass: 271
 atomic-number: 110
 atomic-radius: 
 boiling-point: 
-created: 20230214000311539
+created: 20230224032618201
 density: 
 discoverer: 
 electronegativity: 
@@ -14,7 +14,7 @@ group: 10
 melting-point: 
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618201
 natural: 
 non-metal: 
 number-of-electrons: 110
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Ds
 tags: [[Chemical Element]]
+wikipedia-extract: Darmstadtium is a chemical element with the symbol Ds and atomic number 110. It is an extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of approximately 12.7 seconds. Darmstadtium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion Research in the city of Darmstadt, Germany, after which it was named.
+wikipedia-link: https://en.wikipedia.org/wiki/Darmstadtium
 year: 1994
-
-> Darmstadtium is a chemical element with the symbol Ds and atomic number 110. It is an extremely radioactive synthetic element. The most stable known isotope, darmstadtium-281, has a half-life of approximately 12.7 seconds. Darmstadtium was first created in 1994 by the GSI Helmholtz Centre for Heavy Ion Research in the city of Darmstadt, Germany, after which it was named.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Darmstadtium]])

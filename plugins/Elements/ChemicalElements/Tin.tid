@@ -3,7 +3,7 @@ atomic-mass: 118.71
 atomic-number: 50
 atomic-radius: 1.7
 boiling-point: 2875
-created: 20230214000311538
+created: 20230224032618200
 density: 7.29E+00
 discoverer: Prehistoric
 electronegativity: 1.96
@@ -14,7 +14,7 @@ group: 14
 melting-point: 505.21
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 50
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.228
 symbol: Sn
 tags: [[Chemical Element]]
+wikipedia-extract: Tin is a chemical element with the symbol Sn and atomic number 50. Tin is a silvery-coloured metal.
+wikipedia-link: https://en.wikipedia.org/wiki/Tin
 year: 
-
-> Tin is a chemical element with the symbol Sn and atomic number 50. Tin is a silvery-coloured metal.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Tin]])

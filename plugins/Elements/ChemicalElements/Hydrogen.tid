@@ -3,7 +3,7 @@ atomic-mass: 1.007
 atomic-number: 1
 atomic-radius: 0.79
 boiling-point: 20.28
-created: 20230214000311536
+created: 20230224032618199
 density: 8.99E-05
 discoverer: Cavendish
 electronegativity: 2.2
@@ -14,7 +14,7 @@ group: 1
 melting-point: 14.175
 metal: 
 metalloid: 
-modified: 20230214000311536
+modified: 20230224032618199
 natural: yes
 non-metal: yes
 number-of-electrons: 1
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 14.304
 symbol: H
 tags: [[Chemical Element]]
+wikipedia-extract: Hydrogen is the chemical element with the symbol H and atomic number 1. Hydrogen is the lightest element. At standard conditions hydrogen is a gas of diatomic molecules having the formula H2. It is colorless, odorless, tasteless, non-toxic, and highly combustible. Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter. Stars such as the Sun are mainly composed of hydrogen in the plasma state. Most of the hydrogen on Earth exists in molecular forms such as water and organic compounds. For the most common isotope of hydrogen each atom has one proton, one electron, and no neutrons.
+wikipedia-link: https://en.wikipedia.org/wiki/Hydrogen
 year: 1766
-
-> Hydrogen is the chemical element with the symbol H and atomic number 1. Hydrogen is the lightest element. At standard conditions hydrogen is a gas of diatomic molecules having the formula H2. It is colorless, odorless, tasteless, non-toxic, and highly combustible. Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter. Stars such as the Sun are mainly composed of hydrogen in the plasma state. Most of the hydrogen on Earth exists in molecular forms such as water and organic compounds. For the most common isotope of hydrogen each atom has one proton, one electron, and no neutrons.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Hydrogen]])

@@ -3,7 +3,7 @@ atomic-mass: 51.996
 atomic-number: 24
 atomic-radius: 1.9
 boiling-point: 2944
-created: 20230214000311538
+created: 20230224032618200
 density: 7.15E+00
 discoverer: Vauquelin
 electronegativity: 1.66
@@ -14,7 +14,7 @@ group: 6
 melting-point: 2130.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 24
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.449
 symbol: Cr
 tags: [[Chemical Element]]
+wikipedia-extract: Chromium is a chemical element with the symbol Cr and atomic number 24. It is the first element in group 6. It is a steely-grey, lustrous, hard, and brittle transition metal.
+wikipedia-link: https://en.wikipedia.org/wiki/Chromium
 year: 1797
-
-> Chromium is a chemical element with the symbol Cr and atomic number 24. It is the first element in group 6. It is a steely-grey, lustrous, hard, and brittle transition metal.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Chromium]])

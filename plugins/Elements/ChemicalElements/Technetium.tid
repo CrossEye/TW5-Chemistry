@@ -3,7 +3,7 @@ atomic-mass: 98
 atomic-number: 43
 atomic-radius: 2
 boiling-point: 5150
-created: 20230214000311538
+created: 20230224032618200
 density: 1.15E+01
 discoverer: Perrier and Segrè
 electronegativity: 1.9
@@ -14,7 +14,7 @@ group: 7
 melting-point: 2473.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618200
 natural: 
 non-metal: 
 number-of-electrons: 43
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Tc
 tags: [[Chemical Element]]
+wikipedia-extract: Technetium is a chemical element with the symbol Tc and atomic number 43. It is the lightest element whose isotopes are all radioactive. All available technetium is produced as a synthetic element. Naturally occurring technetium is a spontaneous fission product in uranium ore and thorium ore, the most common source, or the product of neutron capture in molybdenum ores. This silvery gray, crystalline transition metal lies between manganese and rhenium in group 7 of the periodic table, and its chemical properties are intermediate between those of both adjacent elements. The most common naturally occurring isotope is 99Tc, in traces only.
+wikipedia-link: https://en.wikipedia.org/wiki/Technetium
 year: 1937
-
-> Technetium is a chemical element with the symbol Tc and atomic number 43. It is the lightest element whose isotopes are all radioactive. All available technetium is produced as a synthetic element. Naturally occurring technetium is a spontaneous fission product in uranium ore and thorium ore, the most common source, or the product of neutron capture in molybdenum ores. This silvery gray, crystalline transition metal lies between manganese and rhenium in group 7 of the periodic table, and its chemical properties are intermediate between those of both adjacent elements. The most common naturally occurring isotope is 99Tc, in traces only.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Technetium]])

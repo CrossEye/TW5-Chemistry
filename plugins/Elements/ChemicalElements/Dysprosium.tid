@@ -3,7 +3,7 @@ atomic-mass: 162.5
 atomic-number: 66
 atomic-radius: 2.5
 boiling-point: 2840
-created: 20230214000311539
+created: 20230224032618200
 density: 8.55E+00
 discoverer: de Boisbaudran
 electronegativity: 1.22
@@ -14,7 +14,7 @@ group:
 melting-point: 1680.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 66
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.17
 symbol: Dy
 tags: [[Chemical Element]]
+wikipedia-extract: Dysprosium is the chemical element with the symbol Dy and atomic number 66. It is a rare-earth element in the lanthanide series with a metallic silver luster. Dysprosium is never found in nature as a free element, though, like other lanthanides, it is found in various minerals, such as xenotime. Naturally occurring dysprosium is composed of seven isotopes, the most abundant of which is 164Dy.
+wikipedia-link: https://en.wikipedia.org/wiki/Dysprosium
 year: 1886
-
-> Dysprosium is the chemical element with the symbol Dy and atomic number 66. It is a rare-earth element in the lanthanide series with a metallic silver luster. Dysprosium is never found in nature as a free element, though, like other lanthanides, it is found in various minerals, such as xenotime. Naturally occurring dysprosium is composed of seven isotopes, the most abundant of which is 164Dy.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Dysprosium]])

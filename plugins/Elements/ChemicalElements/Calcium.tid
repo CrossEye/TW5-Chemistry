@@ -3,7 +3,7 @@ atomic-mass: 40.078
 atomic-number: 20
 atomic-radius: 2.2
 boiling-point: 1757
-created: 20230214000311538
+created: 20230224032618199
 density: 1.54E+00
 discoverer: Davy
 electronegativity: 1
@@ -14,7 +14,7 @@ group: 2
 melting-point: 1112.15
 metal: yes
 metalloid: 
-modified: 20230214000311538
+modified: 20230224032618199
 natural: yes
 non-metal: 
 number-of-electrons: 20
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.647
 symbol: Ca
 tags: [[Chemical Element]]
+wikipedia-extract: Calcium is a chemical element with the symbol Ca and atomic number 20. As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossilised remnants of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name derives from Latin calx "lime", which was obtained from heating limestone.
+wikipedia-link: https://en.wikipedia.org/wiki/Calcium
 year: 1808
-
-> Calcium is a chemical element with the symbol Ca and atomic number 20. As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossilised remnants of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name derives from Latin calx "lime", which was obtained from heating limestone.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Calcium]])

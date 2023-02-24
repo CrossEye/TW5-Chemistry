@@ -3,7 +3,7 @@ atomic-mass: 183.84
 atomic-number: 74
 atomic-radius: 2
 boiling-point: 5828
-created: 20230214000311539
+created: 20230224032618200
 density: 1.93E+01
 discoverer: J. and F. d'Elhuyar
 electronegativity: 2.36
@@ -14,7 +14,7 @@ group: 6
 melting-point: 3680.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 74
@@ -29,8 +29,6 @@ radioactive:
 specific-heat: 0.132
 symbol: W
 tags: [[Chemical Element]]
+wikipedia-extract: Tungsten, or wolfram, is a chemical element with the symbol W and atomic number 74. Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name.
+wikipedia-link: https://en.wikipedia.org/wiki/Tungsten
 year: 1783
-
-> Tungsten, or wolfram, is a chemical element with the symbol W and atomic number 74. Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Tungsten]])

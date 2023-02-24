@@ -3,7 +3,7 @@ atomic-mass: 222
 atomic-number: 86
 atomic-radius: 1.3
 boiling-point: 211.3
-created: 20230214000311539
+created: 20230224032618200
 density: 9.73E-03
 discoverer: Dorn
 electronegativity: 
@@ -14,7 +14,7 @@ group: 18
 melting-point: 202.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: yes
 non-metal: 
 number-of-electrons: 86
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 0.094
 symbol: Rn
 tags: [[Chemical Element]]
+wikipedia-extract: Radon is a chemical element with the symbol Rn and atomic number 86. It is a radioactive, colourless, odourless, tasteless noble gas. It occurs naturally in minute quantities as an intermediate step in the normal radioactive decay chains through which thorium and uranium slowly decay into various short-lived radioactive elements and lead. Radon itself is the immediate decay product of radium. Its most stable isotope, 222Rn, has a half-life of only 3.8 days, making it one of the rarest elements. Since thorium and uranium are two of the most common radioactive elements on Earth, while also having three isotopes with half-lives on the order of several billion years, radon will be present on Earth long into the future despite its short half-life. The decay of radon produces many other short-lived nuclides, known as "radon daughters", ending at stable isotopes of lead.
+wikipedia-link: https://en.wikipedia.org/wiki/Radon
 year: 1900
-
-> Radon is a chemical element with the symbol Rn and atomic number 86. It is a radioactive, colourless, odourless, tasteless noble gas. It occurs naturally in minute quantities as an intermediate step in the normal radioactive decay chains through which thorium and uranium slowly decay into various short-lived radioactive elements and lead. Radon itself is the immediate decay product of radium. Its most stable isotope, 222Rn, has a half-life of only 3.8 days, making it one of the rarest elements. Since thorium and uranium are two of the most common radioactive elements on Earth, while also having three isotopes with half-lives on the order of several billion years, radon will be present on Earth long into the future despite its short half-life. The decay of radon produces many other short-lived nuclides, known as "radon daughters", ending at stable isotopes of lead.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Radon]])

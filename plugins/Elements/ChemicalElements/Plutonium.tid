@@ -3,7 +3,7 @@ atomic-mass: 244
 atomic-number: 94
 atomic-radius: 
 boiling-point: 3501
-created: 20230214000311539
+created: 20230224032618200
 density: 1.98E+01
 discoverer: Seaborg et al.
 electronegativity: 1.28
@@ -14,7 +14,7 @@ group:
 melting-point: 913.15
 metal: yes
 metalloid: 
-modified: 20230214000311539
+modified: 20230224032618200
 natural: 
 non-metal: 
 number-of-electrons: 94
@@ -29,8 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Pu
 tags: [[Chemical Element]]
+wikipedia-extract: Plutonium is a radioactive chemical element with the symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon, and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.
+wikipedia-link: https://en.wikipedia.org/wiki/Plutonium
 year: 1940
-
-> Plutonium is a radioactive chemical element with the symbol Pu and atomic number 94. It is an actinide metal of silvery-gray appearance that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon, and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.
-
-> ([[more information from Wikipedia|https://en.wikipedia.org/wiki/Plutonium]])
