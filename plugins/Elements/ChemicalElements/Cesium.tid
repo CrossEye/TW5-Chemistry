@@ -3,7 +3,7 @@ atomic-mass: 132.905
 atomic-number: 55
 atomic-radius: 3.3
 boiling-point: 944
-created: 20230224032618200
+created: 20230225002355046
 density: 1.87E+00
 discoverer: Bunsen and Kirchoff
 electronegativity: 0.79
@@ -14,7 +14,7 @@ group: 1
 melting-point: 301.7
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 55
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.242
 symbol: Cs
 tags: [[Chemical Element]]
-wikipedia-extract: Caesium is a chemical element with the symbol Cs and atomic number 55. It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of rubidium and potassium. It is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of 0.79 on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite. The element has 40 known isotopes, making it, along with barium and mercury, one of the elements with the most isotopes. Caesium-137, a fission product, is extracted from waste produced by nuclear reactors.
+wikipedia-extract: Caesium is a chemical element with the symbol Cs and atomic number 55. It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of [[rubidium|Rubidium]] and [[potassium|Potassium]]. It is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of 0.79 on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite. The element has 40 known isotopes, making it, along with [[barium|Barium]] and [[mercury|Mercury]], one of the elements with the most isotopes. Caesium-137, a fission product, is extracted from waste produced by nuclear reactors.
 wikipedia-link: https://en.wikipedia.org/wiki/Cesium
 year: 1860

@@ -3,7 +3,7 @@ atomic-mass: 237
 atomic-number: 93
 atomic-radius: 
 boiling-point: 4273
-created: 20230224032618200
+created: 20230225002355047
 density: 2.05E+01
 discoverer: McMillan and Abelson
 electronegativity: 1.36
@@ -14,7 +14,7 @@ group:
 melting-point: 913.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355047
 natural: 
 non-metal: 
 number-of-electrons: 93
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Np
 tags: [[Chemical Element]]
-wikipedia-extract: Neptunium is a chemical element with the symbol Np and atomic number 93. A radioactive actinide metal, neptunium is the first transuranic element. Its position in the periodic table just after uranium, named after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus. A neptunium atom has 93 protons and 93 electrons, of which seven are valence electrons. Neptunium metal is silvery and tarnishes when exposed to air. The element occurs in three allotropic forms and it normally exhibits five oxidation states, ranging from +3 to +7. It is radioactive, poisonous, pyrophoric, and capable of accumulating in bones, which makes the handling of neptunium dangerous.
+wikipedia-extract: Neptunium is a chemical element with the symbol Np and atomic number 93. A radioactive actinide metal, neptunium is the first transuranic element. Its position in the periodic table just after [[uranium|Uranium]], named after the planet Uranus, led to it being named after Neptune, the next planet beyond Uranus. A neptunium atom has 93 protons and 93 electrons, of which seven are valence electrons. Neptunium metal is silvery and tarnishes when exposed to air. The element occurs in three allotropic forms and it normally exhibits five oxidation states, ranging from +3 to +7. It is radioactive, poisonous, pyrophoric, and capable of accumulating in bones, which makes the handling of neptunium dangerous.
 wikipedia-link: https://en.wikipedia.org/wiki/Neptunium
 year: 1940

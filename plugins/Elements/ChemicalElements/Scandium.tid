@@ -3,7 +3,7 @@ atomic-mass: 44.956
 atomic-number: 21
 atomic-radius: 2.1
 boiling-point: 3109
-created: 20230224032618200
+created: 20230225002355045
 density: 2.99E+00
 discoverer: Nilson
 electronegativity: 1.36
@@ -14,7 +14,7 @@ group: 3
 melting-point: 1812.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 21
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.568
 symbol: Sc
 tags: [[Chemical Element]]
-wikipedia-extract: Scandium is a chemical element with the symbol Sc and atomic number 21. It is a silvery-white metallic d-block element. Historically, it has been classified as a rare-earth element, together with yttrium and the lanthanides. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.
+wikipedia-extract: Scandium is a chemical element with the symbol Sc and atomic number 21. It is a silvery-white metallic d-block element. Historically, it has been classified as a rare-earth element, together with [[yttrium|Yttrium]] and the lanthanides. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.
 wikipedia-link: https://en.wikipedia.org/wiki/Scandium
 year: 1878

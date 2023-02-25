@@ -3,7 +3,7 @@ atomic-mass: 158.925
 atomic-number: 65
 atomic-radius: 2.5
 boiling-point: 3503
-created: 20230224032618200
+created: 20230225002355046
 density: 8.23E+00
 discoverer: Mosander
 electronegativity: 1.2
@@ -14,7 +14,7 @@ group:
 melting-point: 1630.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 65
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.182
 symbol: Tb
 tags: [[Chemical Element]]
-wikipedia-extract: Terbium is a chemical element with the symbol Tb and atomic number 65. It is a silvery-white, rare earth metal that is malleable, and ductile. The ninth member of the lanthanide series, terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. Terbium is never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite, monazite, xenotime and euxenite.
+wikipedia-extract: Terbium is a chemical element with the symbol Tb and atomic number 65. It is a silvery-white, rare earth metal that is malleable, and ductile. The ninth member of the lanthanide series, terbium is a fairly electropositive metal that reacts with water, evolving [[hydrogen|Hydrogen]] gas. Terbium is never found in nature as a free element, but it is contained in many minerals, including cerite, gadolinite, monazite, xenotime and euxenite.
 wikipedia-link: https://en.wikipedia.org/wiki/Terbium
 year: 1843

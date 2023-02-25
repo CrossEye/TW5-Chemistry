@@ -3,7 +3,7 @@ atomic-mass: 247
 atomic-number: 97
 atomic-radius: 
 boiling-point: 983
-created: 20230224032618200
+created: 20230225002355047
 density: 1.48E+01
 discoverer: Seaborg et al.
 electronegativity: 1.3
@@ -14,7 +14,7 @@ group:
 melting-point: 1259.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355047
 natural: 
 non-metal: 
 number-of-electrons: 97
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Bk
 tags: [[Chemical Element]]
-wikipedia-extract: Berkelium is a transuranic radioactive chemical element with the symbol Bk and atomic number 97. It is a member of the actinide and transuranium element series. It is named after the city of Berkeley, California, the location of the Lawrence Berkeley National Laboratory where it was discovered in December 1949. Berkelium was the fifth transuranium element discovered after neptunium, plutonium, curium and americium.
+wikipedia-extract: Berkelium is a transuranic radioactive chemical element with the symbol Bk and atomic number 97. It is a member of the actinide and transuranium element series. It is named after the city of Berkeley, California, the location of the Lawrence Berkeley National Laboratory where it was discovered in December 1949. Berkelium was the fifth transuranium element discovered after [[neptunium|Neptunium]], [[plutonium|Plutonium]], [[curium|Curium]] and [[americium|Americium]].
 wikipedia-link: https://en.wikipedia.org/wiki/Berkelium
 year: 1949

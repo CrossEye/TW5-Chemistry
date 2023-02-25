@@ -3,7 +3,7 @@ atomic-mass: 28.086
 atomic-number: 14
 atomic-radius: 1.5
 boiling-point: 3538
-created: 20230224032618199
+created: 20230225002355045
 density: 2.33E+00
 discoverer: Berzelius
 electronegativity: 1.9
@@ -14,7 +14,7 @@ group: 14
 melting-point: 1683.15
 metal: 
 metalloid: yes
-modified: 20230224032618199
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 14
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.705
 symbol: Si
 tags: [[Chemical Element]]
-wikipedia-extract: Silicon is a chemical element with the symbol Si and atomic number 14. It is a hard, brittle crystalline solid with a blue-grey metallic luster, and is a tetravalent metalloid and semiconductor. It is a member of group 14 in the periodic table: carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.
+wikipedia-extract: Silicon is a chemical element with the symbol Si and atomic number 14. It is a hard, brittle crystalline solid with a blue-grey metallic luster, and is a tetravalent metalloid and semiconductor. It is a member of group 14 in the periodic table: [[carbon|Carbon]] is above it; and [[germanium|Germanium]], [[tin|Tin]], [[lead|Lead]], and [[flerovium|Flerovium]] are below it. It is relatively unreactive.
 wikipedia-link: https://en.wikipedia.org/wiki/Silicon
 year: 1824

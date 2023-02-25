@@ -3,7 +3,7 @@ atomic-mass: 204.383
 atomic-number: 81
 atomic-radius: 2.1
 boiling-point: 1746
-created: 20230224032618200
+created: 20230225002355046
 density: 1.19E+01
 discoverer: Crookes
 electronegativity: 2.04
@@ -14,7 +14,7 @@ group: 13
 melting-point: 577.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 81
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.129
 symbol: Tl
 tags: [[Chemical Element]]
-wikipedia-extract: Thallium  is a chemical element with the symbol Tl and atomic number 81. It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles tin, but discolors when exposed to air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium produces a notable green spectral line. Thallium, from Greek θαλλός, thallós, meaning "green shoot" or "twig", was named by Crookes. It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated by zinc at the international exhibition, which opened on 1 May that year.
+wikipedia-extract: Thallium  is a chemical element with the symbol Tl and atomic number 81. It is a gray post-transition metal that is not found free in nature. When isolated, thallium resembles [[tin|Tin]], but discolors when exposed to air. Chemists William Crookes and Claude-Auguste Lamy discovered thallium independently in 1861, in residues of sulfuric acid production. Both used the newly developed method of flame spectroscopy, in which thallium produces a notable green spectral line. Thallium, from Greek θαλλός, thallós, meaning "green shoot" or "twig", was named by Crookes. It was isolated by both Lamy and Crookes in 1862; Lamy by electrolysis, and Crookes by precipitation and melting of the resultant powder. Crookes exhibited it as a powder precipitated by [[zinc|Zinc]] at the international exhibition, which opened on 1 May that year.
 wikipedia-link: https://en.wikipedia.org/wiki/Thallium
 year: 1861

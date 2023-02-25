@@ -3,7 +3,7 @@ atomic-mass: 87.62
 atomic-number: 38
 atomic-radius: 2.5
 boiling-point: 1655
-created: 20230224032618200
+created: 20230225002355045
 density: 2.64E+00
 discoverer: Davy
 electronegativity: 0.95
@@ -14,7 +14,7 @@ group: 2
 melting-point: 1042.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 38
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.301
 symbol: Sr
 tags: [[Chemical Element]]
-wikipedia-extract: Strontium is the chemical element with the symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft silver-white yellowish metallic element that is highly chemically reactive. The metal forms a dark oxide layer when it is exposed to air. Strontium has physical and chemical properties similar to those of its two vertical neighbors in the periodic table, calcium and barium. It occurs naturally mainly in the minerals celestine and strontianite, and is mostly mined from these.
+wikipedia-extract: Strontium is the chemical element with the symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft [[silver|Silver]]-white yellowish metallic element that is highly chemically reactive. The metal forms a dark oxide layer when it is exposed to air. Strontium has physical and chemical properties similar to those of its two vertical neighbors in the periodic table, [[calcium|Calcium]] and [[barium|Barium]]. It occurs naturally mainly in the minerals celestine and strontianite, and is mostly mined from these.
 wikipedia-link: https://en.wikipedia.org/wiki/Strontium
 year: 1808

@@ -3,7 +3,7 @@ atomic-mass: 145
 atomic-number: 61
 atomic-radius: 2.6
 boiling-point: 3273
-created: 20230224032618200
+created: 20230225002355046
 density: 7.26E+00
 discoverer: Marinsky et al.
 electronegativity: 1.13
@@ -14,7 +14,7 @@ group:
 melting-point: 1204.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: 
 non-metal: 
 number-of-electrons: 61
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Pm
 tags: [[Chemical Element]]
-wikipedia-extract: Promethium is a chemical element with the symbol Pm and atomic number 61. All of its isotopes are radioactive; it is extremely rare, with only about 500–600 grams naturally occurring in Earth's crust at any given time. Promethium is one of only two radioactive elements that are followed in the periodic table by elements with stable forms, the other being technetium. Chemically, promethium is a lanthanide. Promethium shows only one stable oxidation state of +3.
+wikipedia-extract: Promethium is a chemical element with the symbol Pm and atomic number 61. All of its isotopes are radioactive; it is extremely rare, with only about 500–600 grams naturally occurring in Earth's crust at any given time. Promethium is one of only two radioactive elements that are followed in the periodic table by elements with stable forms, the other being [[technetium|Technetium]]. Chemically, promethium is a lanthanide. Promethium shows only one stable oxidation state of +3.
 wikipedia-link: https://en.wikipedia.org/wiki/Promethium
 year: 1945

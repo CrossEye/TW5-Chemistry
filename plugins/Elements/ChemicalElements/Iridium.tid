@@ -3,7 +3,7 @@ atomic-mass: 192.217
 atomic-number: 77
 atomic-radius: 1.9
 boiling-point: 4701
-created: 20230224032618200
+created: 20230225002355046
 density: 2.26E+01
 discoverer: Tennant
 electronegativity: 2.2
@@ -14,7 +14,7 @@ group: 9
 melting-point: 2716.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 77
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.131
 symbol: Ir
 tags: [[Chemical Element]]
-wikipedia-extract: Iridium is a chemical element with the symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the platinum group, it is considered the second-densest naturally occurring metal with a density of 22.56 g/cm3 (0.815 lb/cu in) as defined by experimental X-ray crystallography. It is one of the most corrosion-resistant metals, even at temperatures as high as 2,000 °C (3,630 °F). However, corrosion-resistance is not quantifiable in absolute terms; although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable, whereas gold dust is not flammable but can be attacked by substances that iridium resists, such as aqua regia.
+wikipedia-extract: Iridium is a chemical element with the symbol Ir and atomic number 77. A very hard, brittle, silvery-white transition metal of the [[platinum|Platinum]] group, it is considered the second-densest naturally occurring metal with a density of 22.56 g/cm3 (0.815 lb/cu in) as defined by experimental X-ray crystallography. It is one of the most corrosion-resistant metals, even at temperatures as high as 2,000 °C (3,630 °F). However, corrosion-resistance is not quantifiable in absolute terms; although only certain molten salts and halogens are corrosive to solid iridium, finely divided iridium dust is much more reactive and can be flammable, whereas [[gold|Gold]] dust is not flammable but can be attacked by substances that iridium resists, such as aqua regia.
 wikipedia-link: https://en.wikipedia.org/wiki/Iridium
 year: 1804

@@ -3,7 +3,7 @@ atomic-mass: 39.098
 atomic-number: 19
 atomic-radius: 2.8
 boiling-point: 1032
-created: 20230224032618199
+created: 20230225002355045
 density: 8.62E-01
 discoverer: Davy
 electronegativity: 0.82
@@ -14,7 +14,7 @@ group: 1
 melting-point: 336.5
 metal: yes
 metalloid: 
-modified: 20230224032618199
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 19
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.757
 symbol: K
 tags: [[Chemical Element]]
-wikipedia-extract: Potassium is the chemical element with the symbol K and atomic number 19. It is a silvery white metal that is soft enough to easily cut with a knife. Potassium metal reacts rapidly with atmospheric oxygen to form flaky white potassium peroxide in only seconds of exposure. It was first isolated from potash, the ashes of plants, from which its name derives. In the periodic table, potassium is one of the alkali metals, all of which have a single valence electron in the outer electron shell, which is easily removed to create an ion with a positive charge. In nature, potassium occurs only in ionic salts. Elemental potassium reacts vigorously with water, generating sufficient heat to ignite hydrogen emitted in the reaction, and burning with a lilac-colored flame. It is found dissolved in seawater, and occurs in many minerals such as orthoclase, a common constituent of granites and other igneous rocks.
+wikipedia-extract: Potassium is the chemical element with the symbol K and atomic number 19. It is a silvery white metal that is soft enough to easily cut with a knife. Potassium metal reacts rapidly with atmospheric [[oxygen|Oxygen]] to form flaky white potassium peroxide in only seconds of exposure. It was first isolated from potash, the ashes of plants, from which its name derives. In the periodic table, potassium is one of the alkali metals, all of which have a single valence electron in the outer electron shell, which is easily removed to create an ion with a positive charge. In nature, potassium occurs only in ionic salts. Elemental potassium reacts vigorously with water, generating sufficient heat to ignite [[hydrogen|Hydrogen]] emitted in the reaction, and burning with a lilac-colored flame. It is found dissolved in seawater, and occurs in many minerals such as orthoclase, a common constituent of granites and other igneous rocks.
 wikipedia-link: https://en.wikipedia.org/wiki/Potassium
 year: 1807

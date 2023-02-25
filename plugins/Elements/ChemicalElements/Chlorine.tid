@@ -3,7 +3,7 @@ atomic-mass: 35.453
 atomic-number: 17
 atomic-radius: 0.97
 boiling-point: 239.11
-created: 20230224032618199
+created: 20230225002355045
 density: 3.21E-03
 discoverer: Scheele
 electronegativity: 3.16
@@ -14,7 +14,7 @@ group: 17
 melting-point: 172.31
 metal: 
 metalloid: 
-modified: 20230224032618199
+modified: 20230225002355045
 natural: yes
 non-metal: yes
 number-of-electrons: 17
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.479
 symbol: Cl
 tags: [[Chemical Element]]
-wikipedia-extract: Chlorine is a chemical element with the symbol Cl and atomic number 17. The second-lightest of the halogens, it appears between fluorine and bromine in the periodic table and its properties are mostly intermediate between them. Chlorine is a yellow-green gas at room temperature. It is an extremely reactive element and a strong oxidising agent: among the elements, it has the highest electron affinity and the third-highest electronegativity on the revised Pauling scale, behind only oxygen and fluorine.
+wikipedia-extract: Chlorine is a chemical element with the symbol Cl and atomic number 17. The second-lightest of the halogens, it appears between [[fluorine|Fluorine]] and [[bromine|Bromine]] in the periodic table and its properties are mostly intermediate between them. Chlorine is a yellow-green gas at room temperature. It is an extremely reactive element and a strong oxidising agent: among the elements, it has the highest electron affinity and the third-highest electronegativity on the revised Pauling scale, behind only [[oxygen|Oxygen]] and [[fluorine|Fluorine]].
 wikipedia-link: https://en.wikipedia.org/wiki/Chlorine
 year: 1774

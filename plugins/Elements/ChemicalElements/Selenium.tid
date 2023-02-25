@@ -3,7 +3,7 @@ atomic-mass: 78.96
 atomic-number: 34
 atomic-radius: 1.2
 boiling-point: 958
-created: 20230224032618200
+created: 20230225002355045
 density: 4.81E+00
 discoverer: Berzelius
 electronegativity: 2.55
@@ -14,7 +14,7 @@ group: 16
 melting-point: 494.15
 metal: 
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: yes
 number-of-electrons: 34
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.321
 symbol: Se
 tags: [[Chemical Element]]
-wikipedia-extract: Selenium is a chemical element with the symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between the elements above and below in the periodic table, sulfur and tellurium, and also has similarities to arsenic. It seldom occurs in its elemental state or as pure ore compounds in the Earth's crust. Selenium – from Greek selḗnē – was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered tellurium.
+wikipedia-extract: Selenium is a chemical element with the symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between the elements above and below in the periodic table, [[sulfur|Sulfur]] and [[tellurium|Tellurium]], and also has similarities to [[arsenic|Arsenic]]. It seldom occurs in its elemental state or as pure ore compounds in the Earth's crust. Selenium – from Greek selḗnē – was discovered in 1817 by Jöns Jacob Berzelius, who noted the similarity of the new element to the previously discovered [[tellurium|Tellurium]].
 wikipedia-link: https://en.wikipedia.org/wiki/Selenium
 year: 1817

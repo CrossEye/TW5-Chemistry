@@ -3,7 +3,7 @@ atomic-mass: 22.99
 atomic-number: 11
 atomic-radius: 2.2
 boiling-point: 1156
-created: 20230224032618199
+created: 20230225002355045
 density: 9.71E-01
 discoverer: Davy
 electronegativity: 0.93
@@ -14,7 +14,7 @@ group: 1
 melting-point: 371.15
 metal: yes
 metalloid: 
-modified: 20230224032618199
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 11
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 1.228
 symbol: Na
 tags: [[Chemical Element]]
-wikipedia-extract: Sodium is a chemical element with the symbol Na and atomic number 11. It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table. Its only stable isotope is 23Na. The free metal does not occur in nature, and must be prepared from compounds. Sodium is the sixth most abundant element in the Earth's crust and exists in numerous minerals such as feldspars, sodalite, and halite (NaCl). Many salts of sodium are highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over eons, and thus sodium and chlorine are the most common dissolved elements by weight in the oceans.
+wikipedia-extract: Sodium is a chemical element with the symbol Na and atomic number 11. It is a soft, silvery-white, highly reactive metal. Sodium is an alkali metal, being in group 1 of the periodic table. Its only stable isotope is 23Na. The free metal does not occur in nature, and must be prepared from compounds. Sodium is the sixth most abundant element in the Earth's crust and exists in numerous minerals such as feldspars, sodalite, and halite (NaCl). Many salts of sodium are highly water-soluble: sodium ions have been leached by the action of water from the Earth's minerals over eons, and thus sodium and [[chlorine|Chlorine]] are the most common dissolved elements by weight in the oceans.
 wikipedia-link: https://en.wikipedia.org/wiki/Sodium
 year: 1807

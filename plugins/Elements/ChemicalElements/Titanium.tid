@@ -3,7 +3,7 @@ atomic-mass: 47.867
 atomic-number: 22
 atomic-radius: 2
 boiling-point: 3560
-created: 20230224032618200
+created: 20230225002355045
 density: 4.54E+00
 discoverer: Gregor
 electronegativity: 1.54
@@ -14,7 +14,7 @@ group: 4
 melting-point: 1933.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 22
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.523
 symbol: Ti
 tags: [[Chemical Element]]
-wikipedia-extract: Titanium is a chemical element with the symbol Ti and atomic number 22. Found in nature only as an oxide, it can be reduced to produce a lustrous transition metal with a silver color, low density, and high strength, resistant to corrosion in sea water, aqua regia, and chlorine.
+wikipedia-extract: Titanium is a chemical element with the symbol Ti and atomic number 22. Found in nature only as an oxide, it can be reduced to produce a lustrous transition metal with a [[silver|Silver]] color, low density, and high strength, resistant to corrosion in sea water, aqua regia, and [[chlorine|Chlorine]].
 wikipedia-link: https://en.wikipedia.org/wiki/Titanium
 year: 1791

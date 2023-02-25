@@ -3,7 +3,7 @@ atomic-mass: 92.906
 atomic-number: 41
 atomic-radius: 2.1
 boiling-point: 5017
-created: 20230224032618200
+created: 20230225002355045
 density: 8.57E+00
 discoverer: Hatchett
 electronegativity: 1.6
@@ -14,7 +14,7 @@ group: 5
 melting-point: 2741.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 41
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.265
 symbol: Nb
 tags: [[Chemical Element]]
-wikipedia-extract: Niobium is a chemical element with chemical symbol Nb and atomic number 41. It is a light grey, crystalline, and ductile transition metal. Pure niobium has a Mohs hardness rating similar to pure titanium, and it has similar ductility to iron. Niobium oxidizes in Earth's atmosphere very slowly, hence its application in jewelry as a hypoallergenic alternative to nickel. Niobium is often found in the minerals pyrochlore and columbite, hence the former name "columbium". Its name comes from Greek mythology: Niobe, daughter of Tantalus, the namesake of tantalum. The name reflects the great similarity between the two elements in their physical and chemical properties, which makes them difficult to distinguish.
+wikipedia-extract: Niobium is a chemical element with chemical symbol Nb and atomic number 41. It is a light grey, crystalline, and ductile transition metal. Pure niobium has a Mohs hardness rating similar to pure [[titanium|Titanium]], and it has similar ductility to [[iron|Iron]]. Niobium oxidizes in Earth's atmosphere very slowly, hence its application in jewelry as a hypoallergenic alternative to [[nickel|Nickel]]. Niobium is often found in the minerals pyrochlore and columbite, hence the former name "columbium". Its name comes from Greek mythology: Niobe, daughter of Tantalus, the namesake of [[tantalum|Tantalum]]. The name reflects the great similarity between the two elements in their physical and chemical properties, which makes them difficult to distinguish.
 wikipedia-link: https://en.wikipedia.org/wiki/Niobium
 year: 1801

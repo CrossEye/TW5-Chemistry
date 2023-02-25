@@ -3,7 +3,7 @@ atomic-mass: 54.938
 atomic-number: 25
 atomic-radius: 1.8
 boiling-point: 2334
-created: 20230224032618200
+created: 20230225002355045
 density: 7.44E+00
 discoverer: Gahn, Scheele
 electronegativity: 1.55
@@ -14,7 +14,7 @@ group: 7
 melting-point: 1519.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 25
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.479
 symbol: Mn
 tags: [[Chemical Element]]
-wikipedia-extract: Manganese is a chemical element with the symbol Mn and atomic number 25. It is a hard, brittle, silvery metal, often found in minerals in combination with iron. Manganese is a transition metal with a multifaceted array of industrial alloy uses, particularly in stainless steels. It improves strength, workability, and resistance to wear. Manganese oxide is used as an oxidising agent; as a rubber additive; and in glass making, fertilisers, and ceramics. Manganese sulfate can be used as a fungicide.
+wikipedia-extract: Manganese is a chemical element with the symbol Mn and atomic number 25. It is a hard, brittle, silvery metal, often found in minerals in combination with [[iron|Iron]]. Manganese is a transition metal with a multifaceted array of industrial alloy uses, particularly in stainless steels. It improves strength, workability, and resistance to wear. Manganese oxide is used as an oxidising agent; as a rubber additive; and in glass making, fertilisers, and ceramics. Manganese sulfate can be used as a fungicide.
 wikipedia-link: https://en.wikipedia.org/wiki/Manganese
 year: 1774

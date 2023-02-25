@@ -3,7 +3,7 @@ atomic-mass: 186.207
 atomic-number: 75
 atomic-radius: 2
 boiling-point: 5869
-created: 20230224032618200
+created: 20230225002355046
 density: 2.10E+01
 discoverer: Noddack, Berg, and Tacke
 electronegativity: 1.9
@@ -14,7 +14,7 @@ group: 7
 melting-point: 3453.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 75
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.137
 symbol: Re
 tags: [[Chemical Element]]
-wikipedia-extract: Rhenium is a chemical element with the symbol Re and atomic number 75. It is a silvery-gray, heavy, third-row transition metal in group 7 of the periodic table. With an estimated average concentration of 1 part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust. Rhenium has the third-highest melting point and second-highest boiling point of any element at 5869 K. Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.
+wikipedia-extract: Rhenium is a chemical element with the symbol Re and atomic number 75. It is a silvery-gray, heavy, third-row transition metal in group 7 of the periodic table. With an estimated average concentration of 1 part per billion (ppb), rhenium is one of the rarest elements in the Earth's crust. Rhenium has the third-highest melting point and second-highest boiling point of any element at 5869 K. Rhenium resembles [[manganese|Manganese]] and [[technetium|Technetium]] chemically and is mainly obtained as a by-product of the extraction and refinement of [[molybdenum|Molybdenum]] and [[copper|Copper]] ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.
 wikipedia-link: https://en.wikipedia.org/wiki/Rhenium
 year: 1925

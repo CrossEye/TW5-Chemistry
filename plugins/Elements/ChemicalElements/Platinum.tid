@@ -3,7 +3,7 @@ atomic-mass: 195.084
 atomic-number: 78
 atomic-radius: 1.8
 boiling-point: 4098
-created: 20230224032618200
+created: 20230225002355046
 density: 2.15E+01
 discoverer: Ulloa/Wood
 electronegativity: 2.28
@@ -14,7 +14,7 @@ group: 10
 melting-point: 2045.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 78
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.133
 symbol: Pt
 tags: [[Chemical Element]]
-wikipedia-extract: Platinum is a chemical element with the symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name originates from Spanish platina, a diminutive of plata "silver".
+wikipedia-extract: Platinum is a chemical element with the symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. Its name originates from Spanish platina, a diminutive of plata "[[silver|Silver]]".
 wikipedia-link: https://en.wikipedia.org/wiki/Platinum
 year: 1735

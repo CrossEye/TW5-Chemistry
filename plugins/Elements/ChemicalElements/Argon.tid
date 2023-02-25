@@ -3,7 +3,7 @@ atomic-mass: 39.948
 atomic-number: 18
 atomic-radius: 0.88
 boiling-point: 87.3
-created: 20230224032618199
+created: 20230225002355045
 density: 1.78E-03
 discoverer: Rayleigh and Ramsay
 electronegativity: 
@@ -14,7 +14,7 @@ group: 18
 melting-point: 83.96
 metal: 
 metalloid: 
-modified: 20230224032618199
+modified: 20230225002355045
 natural: yes
 non-metal: yes
 number-of-electrons: 18
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.52
 symbol: Ar
 tags: [[Chemical Element]]
-wikipedia-extract: Argon is a chemical element with the symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third-most abundant gas in Earth's atmosphere, at 0.934%. It is more than twice as abundant as water vapor, 23 times as abundant as carbon dioxide, and more than 500 times as abundant as neon. Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
+wikipedia-extract: Argon is a chemical element with the symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third-most abundant gas in Earth's atmosphere, at 0.934%. It is more than twice as abundant as water vapor, 23 times as abundant as [[carbon|Carbon]] dioxide, and more than 500 times as abundant as [[neon|Neon]]. Argon is the most abundant noble gas in Earth's crust, comprising 0.00015% of the crust.
 wikipedia-link: https://en.wikipedia.org/wiki/Argon
 year: 1894

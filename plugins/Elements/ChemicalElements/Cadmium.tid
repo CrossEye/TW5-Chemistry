@@ -3,7 +3,7 @@ atomic-mass: 112.411
 atomic-number: 48
 atomic-radius: 1.7
 boiling-point: 1040
-created: 20230224032618200
+created: 20230225002355045
 density: 8.69E+00
 discoverer: Stromeyer
 electronegativity: 1.69
@@ -14,7 +14,7 @@ group: 12
 melting-point: 594.33
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 48
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.232
 symbol: Cd
 tags: [[Chemical Element]]
-wikipedia-extract: Cadmium is a chemical element with the symbol Cd and atomic number 48. This soft, silvery-white metal is chemically similar to the two other stable metals in group 12, zinc and mercury. Like zinc, it demonstrates oxidation state +2 in most of its compounds, and like mercury, it has a lower melting point than the transition metals in groups 3 through 11. Cadmium and its congeners in group 12 are often not considered transition metals, in that they do not have partly filled d or f electron shells in the elemental or common oxidation states. The average concentration of cadmium in Earth's crust is between 0.1 and 0.5 parts per million (ppm). It was discovered in 1817 simultaneously by Stromeyer and Hermann, both in Germany, as an impurity in zinc carbonate.
+wikipedia-extract: Cadmium is a chemical element with the symbol Cd and atomic number 48. This soft, silvery-white metal is chemically similar to the two other stable metals in group 12, [[zinc|Zinc]] and [[mercury|Mercury]]. Like [[zinc|Zinc]], it demonstrates oxidation state +2 in most of its compounds, and like [[mercury|Mercury]], it has a lower melting point than the transition metals in groups 3 through 11. Cadmium and its congeners in group 12 are often not considered transition metals, in that they do not have partly filled d or f electron shells in the elemental or common oxidation states. The average concentration of cadmium in Earth's crust is between 0.1 and 0.5 parts per million (ppm). It was discovered in 1817 simultaneously by Stromeyer and Hermann, both in Germany, as an impurity in [[zinc|Zinc]] carbonate.
 wikipedia-link: https://en.wikipedia.org/wiki/Cadmium
 year: 1817

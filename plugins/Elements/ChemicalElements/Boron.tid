@@ -3,7 +3,7 @@ atomic-mass: 10.811
 atomic-number: 5
 atomic-radius: 1.2
 boiling-point: 4200
-created: 20230224032618199
+created: 20230225002355044
 density: 2.34E+00
 discoverer: Gay-Lussac
 electronegativity: 2.04
@@ -14,7 +14,7 @@ group: 13
 melting-point: 2573.15
 metal: 
 metalloid: yes
-modified: 20230224032618199
+modified: 20230225002355044
 natural: yes
 non-metal: 
 number-of-electrons: 5
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 1.026
 symbol: B
 tags: [[Chemical Element]]
-wikipedia-extract: Boron is a chemical element with the symbol B and atomic number 5. In its crystalline form it is a brittle, dark, lustrous metalloid; in its amorphous form it is a brown powder. As the lightest element of the boron group it has three valence electrons for forming covalent bonds, resulting in many compounds such as boric acid, the mineral sodium borate, and the ultra-hard crystals of boron carbide and boron nitride.
+wikipedia-extract: Boron is a chemical element with the symbol B and atomic number 5. In its crystalline form it is a brittle, dark, lustrous metalloid; in its amorphous form it is a brown powder. As the lightest element of the boron group it has three valence electrons for forming covalent bonds, resulting in many compounds such as boric acid, the mineral [[sodium|Sodium]] borate, and the ultra-hard crystals of boron carbide and boron nitride.
 wikipedia-link: https://en.wikipedia.org/wiki/Boron
 year: 1808

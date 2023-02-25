@@ -3,7 +3,7 @@ atomic-mass: 200.59
 atomic-number: 80
 atomic-radius: 1.8
 boiling-point: 630
-created: 20230224032618200
+created: 20230225002355046
 density: 1.35E+01
 discoverer: Prehistoric
 electronegativity: 2
@@ -14,7 +14,7 @@ group: 12
 melting-point: 234.43
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355046
 natural: yes
 non-metal: 
 number-of-electrons: 80
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.14
 symbol: Hg
 tags: [[Chemical Element]]
-wikipedia-extract: Mercury is a chemical element with the symbol Hg and atomic number 80. It is also known as quicksilver and was formerly named hydrargyrum from the Greek words hydorcode: ell promoted to code: el  (water) and argyroscode: ell promoted to code: el  (silver). A heavy, silvery d-block element, mercury is the only metallic element that is known to be liquid at standard temperature and pressure; the only other element that is liquid under these conditions is the halogen bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.
+wikipedia-extract: Mercury is a chemical element with the symbol Hg and atomic number 80. It is also known as quicksilver and was formerly named hydrargyrum from the Greek words hydorcode: ell promoted to code: el  (water) and argyroscode: ell promoted to code: el  ([[silver|Silver]]). A heavy, silvery d-block element, mercury is the only metallic element that is known to be liquid at standard temperature and pressure; the only other element that is liquid under these conditions is the halogen [[bromine|Bromine]], though metals such as caesium, [[gallium|Gallium]], and [[rubidium|Rubidium]] melt just above room temperature.
 wikipedia-link: https://en.wikipedia.org/wiki/Mercury_(element)
 year: 

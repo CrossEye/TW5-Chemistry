@@ -3,7 +3,7 @@ atomic-mass: 106.42
 atomic-number: 46
 atomic-radius: 1.8
 boiling-point: 3236
-created: 20230224032618200
+created: 20230225002355045
 density: 1.20E+01
 discoverer: Wollaston
 electronegativity: 2.2
@@ -14,7 +14,7 @@ group: 10
 melting-point: 1825.15
 metal: yes
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: 
 number-of-electrons: 46
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.244
 symbol: Pd
 tags: [[Chemical Element]]
-wikipedia-extract: Palladium is a chemical element with the symbol Pd and atomic number 46. It is a rare and lustrous silvery-white metal discovered in 1803 by the English chemist William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas. Palladium, platinum, rhodium, ruthenium, iridium and osmium form a group of elements referred to as the platinum group metals (PGMs). They have similar chemical properties, but palladium has the lowest melting point and is the least dense of them.
+wikipedia-extract: Palladium is a chemical element with the symbol Pd and atomic number 46. It is a rare and lustrous silvery-white metal discovered in 1803 by the English chemist William Hyde Wollaston. He named it after the asteroid Pallas, which was itself named after the epithet of the Greek goddess Athena, acquired by her when she slew Pallas. Palladium, [[platinum|Platinum]], [[rhodium|Rhodium]], [[ruthenium|Ruthenium]], [[iridium|Iridium]] and [[osmium|Osmium]] form a group of elements referred to as the [[platinum|Platinum]] group metals (PGMs). They have similar chemical properties, but palladium has the lowest melting point and is the least dense of them.
 wikipedia-link: https://en.wikipedia.org/wiki/Palladium
 year: 1803

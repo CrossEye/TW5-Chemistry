@@ -3,7 +3,7 @@ atomic-mass: 79.904
 atomic-number: 35
 atomic-radius: 1.1
 boiling-point: 332
-created: 20230224032618200
+created: 20230225002355045
 density: 3.12E+00
 discoverer: Balard
 electronegativity: 2.96
@@ -14,7 +14,7 @@ group: 17
 melting-point: 266.05
 metal: 
 metalloid: 
-modified: 20230224032618200
+modified: 20230225002355045
 natural: yes
 non-metal: yes
 number-of-electrons: 35
@@ -29,6 +29,6 @@ radioactive:
 specific-heat: 0.474
 symbol: Br
 tags: [[Chemical Element]]
-wikipedia-extract: Bromine is a chemical element with the symbol Br and atomic number 35. It is a volatile red-brown liquid at room temperature that evaporates readily to form a similarly coloured vapour. Its properties are intermediate between those of chlorine and iodine. Isolated independently by two chemists, Carl Jacob Löwig and Antoine Jérôme Balard, its name was derived from the Ancient Greek βρῶμος (bromos) meaning "stench", referring to its sharp and pungent smell.
+wikipedia-extract: Bromine is a chemical element with the symbol Br and atomic number 35. It is a volatile red-brown liquid at room temperature that evaporates readily to form a similarly coloured vapour. Its properties are intermediate between those of [[chlorine|Chlorine]] and [[iodine|Iodine]]. Isolated independently by two chemists, Carl Jacob Löwig and Antoine Jérôme Balard, its name was derived from the Ancient Greek βρῶμος (bromos) meaning "stench", referring to its sharp and pungent smell.
 wikipedia-link: https://en.wikipedia.org/wiki/Bromine
 year: 1826

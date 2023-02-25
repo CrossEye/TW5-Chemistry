@@ -15,6 +15,9 @@ const main = (elements) =>
     .then (map (addExtract))
     .then (allPromises)
     .then (display ('Added extract from Wikipedia to element tiddlers'))
+    .then (allPromises)
+    .then (map (addLinks (elements)))
+    .then (display (`Added text links to other elements`))
     .then (map (addTimestamps))
     .then (display ('Added created/modified timestamps'))
     .then (tap (map (writeTiddler ('ChemicalElements'))))
@@ -48,9 +51,9 @@ const addExtract = (e) =>
     .then(r => r.json()) 
     .then (o => ({
       ... e,
-      ... (o .extract 
+      ... (o .extract
         ? {
-            'wikipedia-extract': o.extract,
+            'wikipedia-extract': o.extract .trim (),
             'wikipedia-link': `https://en.wikipedia.org/wiki/${wikipediaTitle (e .title)}`
           }
         : {}
@@ -77,10 +80,11 @@ const collectTypes = (ts) =>
   [... new Set (ts .map (t => t ['element-type']))]
     .map (t => ({title: t, tags: '[[Element Type]]'}))
 
-const addLinks = (elements) => ({'wikipedia-extract': extract = '', ...rest}) => ({
+const addLinks = (elements) => ({'wikipedia-extract': extract = '', title, ...rest}) => ({
+  title,
   ...rest,
   'wikipedia-extract': elements .reduce (
-    (a, {element}) => a.replaceAll (new RegExp(`\\b${element}\\b`, `gi`), (s) => `[[${s}|${element}]]`), 
+    (a, {element}) => element == title ? a : a.replaceAll (new RegExp(`\\b${element}\\b`, `gi`), (s) => `[[${s}|${element}]]`), 
     extract
   )
 })
