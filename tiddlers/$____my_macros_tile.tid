@@ -1,16 +1,14 @@
-created: 20230205133949953
-modified: 20230227185809389
+created: 20230227003859199
+modified: 20230228190758665
 tags: $:/tags/Macro
 title: $:/_/my/macros/tile
 type: text/vnd.tiddlywiki
 
 \define tile(className)
 <div class="element $className$">
-  <div class="info">
-    <div class="number">{{!!atomic-number}}</div>
-    <div class="mass"><$text text={{{ [<currentTiddler>get[atomic-mass]round[]] }}} /></div>
-  </div>
-  <div class="abbreviation">{{!!symbol}}</div>
+  <div class="number">{{!!atomic-number}}</div>
+  <div class="mass"><$text text={{{ [<currentTiddler>get[atomic-mass]round[]] }}} /></div>
+  <div class="symbol">{{!!symbol}}</div>
   <div class="name">{{!!element}}</div>
 </div>
 \end

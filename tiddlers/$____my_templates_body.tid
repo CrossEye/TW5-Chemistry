@@ -1,5 +1,5 @@
 created: 20230131031519944
-modified: 20230224185039187
+modified: 20230228193059813
 tags: 
 title: $:/_/my/templates/body
 type: text/vnd.tiddlywiki
@@ -8,8 +8,10 @@ type: text/vnd.tiddlywiki
 
 <$list filter="[<currentTiddler>has[element]has[atomic-mass]]" variable="_">
 <$set name="className" filter="[all[current]get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
-<div style="float: right; margin-left: .5em; ">
+<div style="float: right; margin-left: .5em; width: 6em; height: 8em;">
+<div class="tile">
 <$macrocall $name="tile" className=<<className>> />
+</div>
 </div>
 </$set>
 </$list>
