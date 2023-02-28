@@ -3,8 +3,8 @@ atomic-mass: 20.18
 atomic-number: 10
 atomic-radius: 0.51
 boiling-point: 27.07
-created: 20230225002355045
-density: 9.00E-04
+created: 20230227152240597
+density: 0.0009
 discoverer: Ramsay and Travers
 electronegativity: 
 element: Neon
@@ -12,9 +12,9 @@ element-type: Noble Gas
 first-ionization: 21.5645
 group: 18
 melting-point: 24.703
-metal: 
-metalloid: 
-modified: 20230225002355045
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 10

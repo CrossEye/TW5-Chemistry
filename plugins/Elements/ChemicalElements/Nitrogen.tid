@@ -3,8 +3,8 @@ atomic-mass: 14.007
 atomic-number: 7
 atomic-radius: 0.75
 boiling-point: 77.36
-created: 20230225002355044
-density: 1.25E-03
+created: 20230227152240597
+density: 0.00125
 discoverer: Rutherford
 electronegativity: 3.04
 element: Nitrogen
@@ -12,9 +12,9 @@ element-type: Nonmetal
 first-ionization: 14.5341
 group: 15
 melting-point: 63.29
-metal: 
-metalloid: 
-modified: 20230225002355044
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 7

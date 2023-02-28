@@ -3,8 +3,8 @@ atomic-mass: 101.07
 atomic-number: 44
 atomic-radius: 1.9
 boiling-point: 4423
-created: 20230225002355045
-density: 1.24E+01
+created: 20230227152240597
+density: 12.4
 discoverer: Klaus
 electronegativity: 2.2
 element: Ruthenium
@@ -13,10 +13,10 @@ first-ionization: 7.3605
 group: 8
 melting-point: 2523.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 44
 number-of-isotopes: 16
 number-of-neutrons: 57

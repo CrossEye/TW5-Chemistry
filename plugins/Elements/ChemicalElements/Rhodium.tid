@@ -3,8 +3,8 @@ atomic-mass: 102.906
 atomic-number: 45
 atomic-radius: 1.8
 boiling-point: 3968
-created: 20230225002355045
-density: 1.24E+01
+created: 20230227152240597
+density: 12.4
 discoverer: Wollaston
 electronegativity: 2.28
 element: Rhodium
@@ -13,10 +13,10 @@ first-ionization: 7.4589
 group: 9
 melting-point: 2239.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 45
 number-of-isotopes: 20
 number-of-neutrons: 58

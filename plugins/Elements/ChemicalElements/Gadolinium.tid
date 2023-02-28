@@ -3,8 +3,8 @@ atomic-mass: 157.25
 atomic-number: 64
 atomic-radius: 2.5
 boiling-point: 3546
-created: 20230225002355046
-density: 7.90E+00
+created: 20230227152240597
+density: 7.9
 discoverer: de Marignac
 electronegativity: 1.2
 element: Gadolinium
@@ -13,10 +13,10 @@ first-ionization: 6.1501
 group: 
 melting-point: 1585.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 64
 number-of-isotopes: 17
 number-of-neutrons: 93

@@ -3,8 +3,8 @@ atomic-mass: 210
 atomic-number: 84
 atomic-radius: 1.5
 boiling-point: 1235
-created: 20230225002355046
-density: 9.32E+00
+created: 20230227152240598
+density: 9.32
 discoverer: Curie
 electronegativity: 2
 element: Polonium
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 8.417
 group: 16
 melting-point: 527.15
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355046
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 84
 number-of-isotopes: 34
 number-of-neutrons: 126
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Po
 tags: [[Chemical Element]]
-wikipedia-extract: Polonium is a chemical element with the symbol Po and atomic number 84. A rare and highly radioactive metal with no stable isotopes, polonium is a chalcogen and is chemically similar to [[selenium|Selenium]] and [[tellurium|Tellurium]], though its metallic character resembles that of its horizontal neighbors in the periodic table: [[thallium|Thallium]], [[lead|Lead]], and [[bismuth|Bismuth]]. Due to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting polonium-210 in [[uranium|Uranium]] ores, as it is the penultimate daughter of natural [[uranium|Uranium]]-238. Though slightly longer-lived isotopes exist, they are much more difficult to produce. Today, polonium is usually produced in milligram quantities by the neutron irradiation of [[bismuth|Bismuth]]. Due to its intense radioactivity, which results in the radiolysis of chemical bonds and radioactive self-heating, its chemistry has mostly been investigated on the trace scale only .It is a metalloid
+wikipedia-extract: Polonium is a chemical element with the symbol Po and atomic number 84. A rare and highly radioactive metal with no stable isotopes, polonium is a chalcogen and is chemically similar to [[selenium|Selenium]] and [[tellurium|Tellurium]], though its metallic character resembles that of its horizontal neighbors in the periodic table: [[thallium|Thallium]], [[lead|Lead]], and [[bismuth|Bismuth]]. Due to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting polonium-210 in [[uranium|Uranium]] ores, as it is the penultimate daughter of natural [[uranium|Uranium]]-238. Though slightly longer-lived isotopes exist, they are much more difficult to produce. Today, polonium is usually produced in milligram quantities by the neutron irradiation of [[bismuth|Bismuth]]. Due to its intense radioactivity, which results in the radiolysis of chemical bonds and radioactive self-heating, its chemistry has mostly been investigated on the trace scale only.
 wikipedia-link: https://en.wikipedia.org/wiki/Polonium
 year: 1898

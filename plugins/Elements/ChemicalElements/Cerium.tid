@@ -3,8 +3,8 @@ atomic-mass: 140.116
 atomic-number: 58
 atomic-radius: 2.7
 boiling-point: 3716
-created: 20230225002355046
-density: 6.77E+00
+created: 20230227152240597
+density: 6.77
 discoverer: Berzelius
 electronegativity: 1.12
 element: Cerium
@@ -13,10 +13,10 @@ first-ionization: 5.5387
 group: 
 melting-point: 1071.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 58
 number-of-isotopes: 19
 number-of-neutrons: 82

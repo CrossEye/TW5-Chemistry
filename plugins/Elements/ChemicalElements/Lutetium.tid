@@ -3,8 +3,8 @@ atomic-mass: 174.967
 atomic-number: 71
 atomic-radius: 2.3
 boiling-point: 3675
-created: 20230225002355046
-density: 9.84E+00
+created: 20230227152240598
+density: 9.84
 discoverer: Urbain/ von Welsbach
 electronegativity: 1.27
 element: Lutetium
@@ -13,10 +13,10 @@ first-ionization: 5.4259
 group: 
 melting-point: 1936.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 71
 number-of-isotopes: 22
 number-of-neutrons: 104

@@ -3,8 +3,8 @@ atomic-mass: 15.999
 atomic-number: 8
 atomic-radius: 0.65
 boiling-point: 90.2
-created: 20230225002355045
-density: 1.43E-03
+created: 20230227152240597
+density: 0.00143
 discoverer: Priestley/Scheele
 electronegativity: 3.44
 element: Oxygen
@@ -12,9 +12,9 @@ element-type: Nonmetal
 first-ionization: 13.6181
 group: 16
 melting-point: 50.5
-metal: 
-metalloid: 
-modified: 20230225002355045
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 8

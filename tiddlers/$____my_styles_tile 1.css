@@ -1,0 +1,20 @@
+
+table.periodic  div.tile {position: relative; width: 100%; height: 100%; }
+table.periodic div.tile div.number {position: absolute; top: 5cqw; left: 5cqw; font-size: 20cqw;}
+table.periodic div.tile div.mass {position: absolute; top: 5cqw; right: 5cqw; font-size: 12cqw;}
+table.periodic div.tile div.name {position: absolute; bottom: 5cqw; text-align: center; width: 100%; font-size: 12cqw;}
+table.periodic div.tile div.symbol {position: absolute; top: 55cqw; text-align: center; width: 100%; font-size: 60cqw;}
+
+/*
+.element.actinide {background: #fc9;}
+.element.alkali-metal {background: #f9c;}
+.element.alkaline-earth-metal {background: #9cf;}
+.element.halogen {background: #c9f;}
+.element.lanthanide {background: #f9f;}
+.element.metal {background: #9cc;}
+.element.metalloid {background: #ffc;}
+.element.noble-gas {background: #fcc}
+.element.nonmetal {background: #cff;}
+.element.transactinide {background: #f96;}
+.element.transition-metal {background: #cf9;}
+*/

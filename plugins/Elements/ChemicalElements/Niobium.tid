@@ -3,8 +3,8 @@ atomic-mass: 92.906
 atomic-number: 41
 atomic-radius: 2.1
 boiling-point: 5017
-created: 20230225002355045
-density: 8.57E+00
+created: 20230227152240597
+density: 8.57
 discoverer: Hatchett
 electronegativity: 1.6
 element: Niobium
@@ -13,10 +13,10 @@ first-ionization: 6.7589
 group: 5
 melting-point: 2741.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 41
 number-of-isotopes: 24
 number-of-neutrons: 52

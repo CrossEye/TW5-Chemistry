@@ -3,8 +3,8 @@ atomic-mass: 40.078
 atomic-number: 20
 atomic-radius: 2.2
 boiling-point: 1757
-created: 20230225002355045
-density: 1.54E+00
+created: 20230227152240597
+density: 1.54
 discoverer: Davy
 electronegativity: 1
 element: Calcium
@@ -13,10 +13,10 @@ first-ionization: 6.1132
 group: 2
 melting-point: 1112.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 20
 number-of-isotopes: 14
 number-of-neutrons: 20

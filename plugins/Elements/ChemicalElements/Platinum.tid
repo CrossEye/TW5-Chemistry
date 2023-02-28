@@ -3,8 +3,8 @@ atomic-mass: 195.084
 atomic-number: 78
 atomic-radius: 1.8
 boiling-point: 4098
-created: 20230225002355046
-density: 2.15E+01
+created: 20230227152240598
+density: 21.5
 discoverer: Ulloa/Wood
 electronegativity: 2.28
 element: Platinum
@@ -13,10 +13,10 @@ first-ionization: 8.9587
 group: 10
 melting-point: 2045.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 78
 number-of-isotopes: 32
 number-of-neutrons: 117

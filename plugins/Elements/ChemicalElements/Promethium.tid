@@ -3,8 +3,8 @@ atomic-mass: 145
 atomic-number: 61
 atomic-radius: 2.6
 boiling-point: 3273
-created: 20230225002355046
-density: 7.26E+00
+created: 20230227152240597
+density: 7.26
 discoverer: Marinsky et al.
 electronegativity: 1.13
 element: Promethium
@@ -13,10 +13,10 @@ first-ionization: 5.582
 group: 
 melting-point: 1204.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240597
+natural: no
+non-metal: no
 number-of-electrons: 61
 number-of-isotopes: 14
 number-of-neutrons: 84

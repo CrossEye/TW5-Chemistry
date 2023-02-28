@@ -3,8 +3,8 @@ atomic-mass: 192.217
 atomic-number: 77
 atomic-radius: 1.9
 boiling-point: 4701
-created: 20230225002355046
-density: 2.26E+01
+created: 20230227152240598
+density: 22.6
 discoverer: Tennant
 electronegativity: 2.2
 element: Iridium
@@ -13,10 +13,10 @@ first-ionization: 8.967
 group: 9
 melting-point: 2716.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 77
 number-of-isotopes: 25
 number-of-neutrons: 115

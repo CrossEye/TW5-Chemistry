@@ -3,8 +3,8 @@ atomic-mass: 6.941
 atomic-number: 3
 atomic-radius: 2.1
 boiling-point: 1615
-created: 20230225002355044
-density: 5.34E-01
+created: 20230227152240597
+density: 0.534
 discoverer: Arfvedson
 electronegativity: 0.98
 element: Lithium
@@ -13,10 +13,10 @@ first-ionization: 5.3917
 group: 1
 melting-point: 453.85
 metal: yes
-metalloid: 
-modified: 20230225002355044
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 3
 number-of-isotopes: 5
 number-of-neutrons: 4

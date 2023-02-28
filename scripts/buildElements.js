@@ -12,6 +12,7 @@ const main = (elements) =>
     .then (() => Promise .resolve (elements))
     .then (addFields)
     .then (display ('Added title and tags'))
+    .then (map (cleanFields))
     .then (map (addExtract))
     .then (allPromises)
     .then (display ('Added extract from Wikipedia to element tiddlers'))
@@ -20,7 +21,7 @@ const main = (elements) =>
     .then (display (`Added text links to other elements`))
     .then (map (addTimestamps))
     .then (display ('Added created/modified timestamps'))
-    .then (tap (map (writeTiddler ('ChemicalElements'))))
+    .then (tap (map (writeTiddlerTo ('ChemicalElements'))))
     .then (allPromises)
     .then (display (`Wrote ${elements.length} element tiddlers`))
     .then (collectTypes)
@@ -32,7 +33,7 @@ const main = (elements) =>
     .then (allPromises)
     .then (map (addLinks (elements)))
     .then (display (`Added text links to the elements`))
-    .then (tap (map (writeTiddler ('ElementTypes'))))
+    .then (tap (map (writeTiddlerTo ('ElementTypes'))))
     .then (tap ((types) => console .log (`Wrote ${types.length} element type tiddlers`)))
 
 const deleteOutputDir = () => 
@@ -45,6 +46,17 @@ const createOutputDir = () =>
 
 const addFields = (elements) =>
   elements .map (e => ({title: e.element, tags: '[[Chemical Element]]', ...e}))
+
+const cleanFields = ({density, metal, metalloid, natural, 'non-metal': nm, ...rest}) => ({
+  density: density ? Number (density) : '',
+  metal: metal || 'no',
+  metalloid: metalloid || 'no',
+  natural: natural || 'no',
+  'non-metal': nm || 'no',
+  ...rest
+})
+  
+
 
 const addExtract = (e) => 
   fetch (`https://en.wikipedia.org/api/rest_v1/page/summary/${wikipediaTitle (e .title)}`)
@@ -68,7 +80,7 @@ const wikipediaTitle = ((conversions = {
   Mercury: 'Mercury_(element)' // just the one?
 }) => (title) => conversions [title] || title .replace (/ ([A-Z])/g, (_, c) => `_${c.toLowerCase()}`)) ()
 
-const writeTiddler = (folder) => (t) => 
+const writeTiddlerTo = (folder) => (t) => 
   writeFile (`./plugins/Elements/${folder}/${t.title}.tid`, formatTiddler (t))
 
 const formatTiddler = ({title, ...rest}) =>

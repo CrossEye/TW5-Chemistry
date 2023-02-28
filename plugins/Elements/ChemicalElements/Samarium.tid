@@ -3,8 +3,8 @@ atomic-mass: 150.36
 atomic-number: 62
 atomic-radius: 2.6
 boiling-point: 2067
-created: 20230225002355046
-density: 7.52E+00
+created: 20230227152240597
+density: 7.52
 discoverer: Boisbaudran
 electronegativity: 1.17
 element: Samarium
@@ -13,10 +13,10 @@ first-ionization: 5.6437
 group: 
 melting-point: 1345.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 62
 number-of-isotopes: 17
 number-of-neutrons: 88

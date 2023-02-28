@@ -3,8 +3,8 @@ atomic-mass: 127.6
 atomic-number: 52
 atomic-radius: 1.4
 boiling-point: 1261
-created: 20230225002355046
-density: 6.23E+00
+created: 20230227152240597
+density: 6.23
 discoverer: von Reichenstein
 electronegativity: 2.1
 element: Tellurium
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 9.0096
 group: 16
 melting-point: 722.8
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355046
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 52
 number-of-isotopes: 29
 number-of-neutrons: 76

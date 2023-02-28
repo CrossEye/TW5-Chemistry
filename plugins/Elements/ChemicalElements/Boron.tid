@@ -3,8 +3,8 @@ atomic-mass: 10.811
 atomic-number: 5
 atomic-radius: 1.2
 boiling-point: 4200
-created: 20230225002355044
-density: 2.34E+00
+created: 20230227152240597
+density: 2.34
 discoverer: Gay-Lussac
 electronegativity: 2.04
 element: Boron
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 8.298
 group: 13
 melting-point: 2573.15
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355044
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 5
 number-of-isotopes: 6
 number-of-neutrons: 6

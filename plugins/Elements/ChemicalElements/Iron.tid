@@ -3,8 +3,8 @@ atomic-mass: 55.845
 atomic-number: 26
 atomic-radius: 1.7
 boiling-point: 3134
-created: 20230225002355045
-density: 7.87E+00
+created: 20230227152240597
+density: 7.87
 discoverer: Prehistoric
 electronegativity: 1.83
 element: Iron
@@ -13,10 +13,10 @@ first-ionization: 7.9024
 group: 8
 melting-point: 1808.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 26
 number-of-isotopes: 10
 number-of-neutrons: 30

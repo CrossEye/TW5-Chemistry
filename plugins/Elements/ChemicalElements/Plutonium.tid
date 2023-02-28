@@ -3,8 +3,8 @@ atomic-mass: 244
 atomic-number: 94
 atomic-radius: 
 boiling-point: 3501
-created: 20230225002355047
-density: 1.98E+01
+created: 20230227152240598
+density: 19.8
 discoverer: Seaborg et al.
 electronegativity: 1.28
 element: Plutonium
@@ -13,10 +13,10 @@ first-ionization: 6.0262
 group: 
 melting-point: 913.15
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 94
 number-of-isotopes: 163
 number-of-neutrons: 150

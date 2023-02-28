@@ -3,7 +3,7 @@ atomic-mass: 294
 atomic-number: 118
 atomic-radius: 
 boiling-point: 
-created: 20230225002355047
+created: 20230227152240598
 density: 
 discoverer: 
 electronegativity: 
@@ -12,10 +12,10 @@ element-type: Noble Gas
 first-ionization: 
 group: 18
 melting-point: 
-metal: 
-metalloid: 
-modified: 20230225002355047
-natural: 
+metal: no
+metalloid: no
+modified: 20230227152240598
+natural: no
 non-metal: yes
 number-of-electrons: 118
 number-of-isotopes: 

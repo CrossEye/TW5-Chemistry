@@ -3,8 +3,8 @@ atomic-mass: 72.64
 atomic-number: 32
 atomic-radius: 1.5
 boiling-point: 3106
-created: 20230225002355045
-density: 5.32E+00
+created: 20230227152240597
+density: 5.32
 discoverer: Winkler
 electronegativity: 2.01
 element: Germanium
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 7.8994
 group: 14
 melting-point: 1211.45
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355045
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 32
 number-of-isotopes: 17
 number-of-neutrons: 41

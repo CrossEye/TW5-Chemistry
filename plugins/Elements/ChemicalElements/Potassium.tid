@@ -3,8 +3,8 @@ atomic-mass: 39.098
 atomic-number: 19
 atomic-radius: 2.8
 boiling-point: 1032
-created: 20230225002355045
-density: 8.62E-01
+created: 20230227152240597
+density: 0.862
 discoverer: Davy
 electronegativity: 0.82
 element: Potassium
@@ -13,10 +13,10 @@ first-ionization: 4.3407
 group: 1
 melting-point: 336.5
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 19
 number-of-isotopes: 10
 number-of-neutrons: 20

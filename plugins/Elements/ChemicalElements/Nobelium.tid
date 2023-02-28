@@ -3,7 +3,7 @@ atomic-mass: 259
 atomic-number: 102
 atomic-radius: 
 boiling-point: 
-created: 20230225002355047
+created: 20230227152240598
 density: 
 discoverer: Ghiorso et al.
 electronegativity: 1.3
@@ -13,10 +13,10 @@ first-ionization: 6.65
 group: 
 melting-point: 
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 102
 number-of-isotopes: 73
 number-of-neutrons: 157

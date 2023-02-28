@@ -3,8 +3,8 @@ atomic-mass: 98
 atomic-number: 43
 atomic-radius: 2
 boiling-point: 5150
-created: 20230225002355045
-density: 1.15E+01
+created: 20230227152240597
+density: 11.5
 discoverer: Perrier and Segrè
 electronegativity: 1.9
 element: Technetium
@@ -13,10 +13,10 @@ first-ionization: 7.28
 group: 7
 melting-point: 2473.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240597
+natural: no
+non-metal: no
 number-of-electrons: 43
 number-of-isotopes: 23
 number-of-neutrons: 55

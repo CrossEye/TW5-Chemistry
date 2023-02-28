@@ -3,8 +3,8 @@ atomic-mass: 65.38
 atomic-number: 30
 atomic-radius: 1.5
 boiling-point: 1180
-created: 20230225002355045
-density: 7.13E+00
+created: 20230227152240597
+density: 7.13
 discoverer: Prehistoric
 electronegativity: 1.65
 element: Zinc
@@ -13,10 +13,10 @@ first-ionization: 9.3942
 group: 12
 melting-point: 692.88
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 30
 number-of-isotopes: 15
 number-of-neutrons: 35

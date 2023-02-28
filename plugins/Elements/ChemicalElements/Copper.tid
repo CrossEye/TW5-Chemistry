@@ -3,8 +3,8 @@ atomic-mass: 63.546
 atomic-number: 29
 atomic-radius: 1.6
 boiling-point: 2835
-created: 20230225002355045
-density: 8.96E+00
+created: 20230227152240597
+density: 8.96
 discoverer: Prehistoric
 electronegativity: 1.9
 element: Copper
@@ -13,10 +13,10 @@ first-ionization: 7.7264
 group: 11
 melting-point: 1357.75
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 29
 number-of-isotopes: 11
 number-of-neutrons: 35

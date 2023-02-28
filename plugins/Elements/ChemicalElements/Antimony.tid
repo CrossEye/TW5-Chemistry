@@ -3,8 +3,8 @@ atomic-mass: 121.76
 atomic-number: 51
 atomic-radius: 1.5
 boiling-point: 1860
-created: 20230225002355046
-density: 6.69E+00
+created: 20230227152240597
+density: 6.69
 discoverer: Early historic times
 electronegativity: 2.05
 element: Antimony
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 8.6084
 group: 15
 melting-point: 904.05
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355046
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 51
 number-of-isotopes: 29
 number-of-neutrons: 71

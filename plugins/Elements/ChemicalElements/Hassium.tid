@@ -3,8 +3,8 @@ atomic-mass: 267
 atomic-number: 108
 atomic-radius: 
 boiling-point: 
-created: 20230225002355047
-density: 4.10E+01
+created: 20230227152240598
+density: 41
 discoverer: Armbruster and Münzenberg
 electronegativity: 
 element: Hassium
@@ -13,10 +13,10 @@ first-ionization:
 group: 8
 melting-point: 
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 108
 number-of-isotopes: 
 number-of-neutrons: 159

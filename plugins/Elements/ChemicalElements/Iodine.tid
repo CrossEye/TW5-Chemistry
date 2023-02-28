@@ -3,8 +3,8 @@ atomic-mass: 126.904
 atomic-number: 53
 atomic-radius: 1.3
 boiling-point: 457.4
-created: 20230225002355046
-density: 4.93E+00
+created: 20230227152240597
+density: 4.93
 discoverer: Courtois
 electronegativity: 2.66
 element: Iodine
@@ -12,9 +12,9 @@ element-type: Halogen
 first-ionization: 10.4513
 group: 17
 melting-point: 386.65
-metal: 
-metalloid: 
-modified: 20230225002355046
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 53

@@ -3,8 +3,8 @@ atomic-mass: 12.011
 atomic-number: 6
 atomic-radius: 0.91
 boiling-point: 4300
-created: 20230225002355044
-density: 2.27E+00
+created: 20230227152240597
+density: 2.27
 discoverer: Prehistoric
 electronegativity: 2.55
 element: Carbon
@@ -12,9 +12,9 @@ element-type: Nonmetal
 first-ionization: 11.2603
 group: 14
 melting-point: 3948.15
-metal: 
-metalloid: 
-modified: 20230225002355044
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 6

@@ -3,8 +3,8 @@ atomic-mass: 186.207
 atomic-number: 75
 atomic-radius: 2
 boiling-point: 5869
-created: 20230225002355046
-density: 2.10E+01
+created: 20230227152240598
+density: 21
 discoverer: Noddack, Berg, and Tacke
 electronegativity: 1.9
 element: Rhenium
@@ -13,10 +13,10 @@ first-ionization: 7.8335
 group: 7
 melting-point: 3453.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 75
 number-of-isotopes: 21
 number-of-neutrons: 111

@@ -3,8 +3,8 @@ atomic-mass: 1.007
 atomic-number: 1
 atomic-radius: 0.79
 boiling-point: 20.28
-created: 20230225002355043
-density: 8.99E-05
+created: 20230227152240597
+density: 0.0000899
 discoverer: Cavendish
 electronegativity: 2.2
 element: Hydrogen
@@ -12,9 +12,9 @@ element-type: Alkali Metal
 first-ionization: 13.5984
 group: 1
 melting-point: 14.175
-metal: 
-metalloid: 
-modified: 20230225002355043
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 1

@@ -3,8 +3,8 @@ atomic-mass: 167.259
 atomic-number: 68
 atomic-radius: 2.5
 boiling-point: 3503
-created: 20230225002355046
-density: 9.07E+00
+created: 20230227152240598
+density: 9.07
 discoverer: Mosander
 electronegativity: 1.24
 element: Erbium
@@ -13,10 +13,10 @@ first-ionization: 6.1077
 group: 
 melting-point: 1795.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 68
 number-of-isotopes: 16
 number-of-neutrons: 99

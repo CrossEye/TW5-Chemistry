@@ -3,7 +3,7 @@ atomic-mass: 284
 atomic-number: 113
 atomic-radius: 
 boiling-point: 
-created: 20230225002355047
+created: 20230227152240598
 density: 
 discoverer: 
 electronegativity: 
@@ -13,10 +13,10 @@ first-ionization:
 group: 13
 melting-point: 
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 113
 number-of-isotopes: 
 number-of-neutrons: 171

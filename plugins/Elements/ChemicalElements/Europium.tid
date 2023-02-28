@@ -3,8 +3,8 @@ atomic-mass: 151.964
 atomic-number: 63
 atomic-radius: 2.6
 boiling-point: 1802
-created: 20230225002355046
-density: 5.24E+00
+created: 20230227152240597
+density: 5.24
 discoverer: Demarcay
 electronegativity: 1.2
 element: Europium
@@ -13,10 +13,10 @@ first-ionization: 5.6704
 group: 
 melting-point: 1095.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 63
 number-of-isotopes: 21
 number-of-neutrons: 89

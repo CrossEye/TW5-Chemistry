@@ -3,8 +3,8 @@ atomic-mass: 35.453
 atomic-number: 17
 atomic-radius: 0.97
 boiling-point: 239.11
-created: 20230225002355045
-density: 3.21E-03
+created: 20230227152240597
+density: 0.00321
 discoverer: Scheele
 electronegativity: 3.16
 element: Chlorine
@@ -12,9 +12,9 @@ element-type: Halogen
 first-ionization: 12.9676
 group: 17
 melting-point: 172.31
-metal: 
-metalloid: 
-modified: 20230225002355045
+metal: no
+metalloid: no
+modified: 20230227152240597
 natural: yes
 non-metal: yes
 number-of-electrons: 17

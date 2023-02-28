@@ -3,8 +3,8 @@ atomic-mass: 144.242
 atomic-number: 60
 atomic-radius: 2.6
 boiling-point: 3347
-created: 20230225002355046
-density: 7.01E+00
+created: 20230227152240597
+density: 7.01
 discoverer: von Welsbach
 electronegativity: 1.14
 element: Neodymium
@@ -13,10 +13,10 @@ first-ionization: 5.525
 group: 
 melting-point: 1289.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 60
 number-of-isotopes: 16
 number-of-neutrons: 84

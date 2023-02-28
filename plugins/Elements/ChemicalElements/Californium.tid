@@ -3,8 +3,8 @@ atomic-mass: 251
 atomic-number: 98
 atomic-radius: 
 boiling-point: 1173
-created: 20230225002355047
-density: 1.51E+01
+created: 20230227152240598
+density: 15.1
 discoverer: Seaborg et al.
 electronegativity: 1.3
 element: Californium
@@ -13,10 +13,10 @@ first-ionization: 6.2817
 group: 
 melting-point: 1925.15
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 98
 number-of-isotopes: 123
 number-of-neutrons: 153

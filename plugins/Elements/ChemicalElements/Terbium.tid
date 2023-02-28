@@ -3,8 +3,8 @@ atomic-mass: 158.925
 atomic-number: 65
 atomic-radius: 2.5
 boiling-point: 3503
-created: 20230225002355046
-density: 8.23E+00
+created: 20230227152240597
+density: 8.23
 discoverer: Mosander
 electronegativity: 1.2
 element: Terbium
@@ -13,10 +13,10 @@ first-ionization: 5.8638
 group: 
 melting-point: 1630.15
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 65
 number-of-isotopes: 24
 number-of-neutrons: 94

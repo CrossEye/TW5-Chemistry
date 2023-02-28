@@ -3,8 +3,8 @@ atomic-mass: 210
 atomic-number: 85
 atomic-radius: 1.4
 boiling-point: 610
-created: 20230225002355047
-density: 7.00E+00
+created: 20230227152240598
+density: 7
 discoverer: Corson et al.
 electronegativity: 2.2
 element: Astatine
@@ -12,9 +12,9 @@ element-type: Halogen
 first-ionization: 9.3
 group: 17
 melting-point: 575.15
-metal: 
-metalloid: 
-modified: 20230225002355047
+metal: no
+metalloid: no
+modified: 20230227152240598
 natural: yes
 non-metal: yes
 number-of-electrons: 85

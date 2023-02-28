@@ -3,8 +3,8 @@ atomic-mass: 208.98
 atomic-number: 83
 atomic-radius: 1.6
 boiling-point: 1837
-created: 20230225002355046
-density: 9.81E+00
+created: 20230227152240598
+density: 9.81
 discoverer: Geoffroy the Younger
 electronegativity: 2.02
 element: Bismuth
@@ -13,10 +13,10 @@ first-ionization: 7.2856
 group: 15
 melting-point: 544.67
 metal: yes
-metalloid: 
-modified: 20230225002355046
+metalloid: no
+modified: 20230227152240598
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 83
 number-of-isotopes: 19
 number-of-neutrons: 126

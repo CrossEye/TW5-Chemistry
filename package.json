@@ -1,11 +1,12 @@
 {
   "name": "tw5-chemistry",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Periodic Table and other chemistry tools",
   "main": "index.js",
   "scripts": {
     "pkg": "cross-var echo Package $npm_package_version",
-    "build": "tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html"
+    "build": "tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
+    "start": "tiddlywiki . --listen port=8600"
   },
   "repository": {
     "type": "git",

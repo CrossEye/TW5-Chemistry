@@ -3,8 +3,8 @@ atomic-mass: 237
 atomic-number: 93
 atomic-radius: 
 boiling-point: 4273
-created: 20230225002355047
-density: 2.05E+01
+created: 20230227152240598
+density: 20.5
 discoverer: McMillan and Abelson
 electronegativity: 1.36
 element: Neptunium
@@ -13,10 +13,10 @@ first-ionization: 6.2657
 group: 
 melting-point: 913.15
 metal: yes
-metalloid: 
-modified: 20230225002355047
-natural: 
-non-metal: 
+metalloid: no
+modified: 20230227152240598
+natural: no
+non-metal: no
 number-of-electrons: 93
 number-of-isotopes: 153
 number-of-neutrons: 144

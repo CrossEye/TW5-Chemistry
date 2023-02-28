@@ -3,8 +3,8 @@ atomic-mass: 74.922
 atomic-number: 33
 atomic-radius: 1.3
 boiling-point: 887
-created: 20230225002355045
-density: 5.78E+00
+created: 20230227152240597
+density: 5.78
 discoverer: Albertus Magnus
 electronegativity: 2.18
 element: Arsenic
@@ -12,11 +12,11 @@ element-type: Metalloid
 first-ionization: 9.7886
 group: 15
 melting-point: 1090.15
-metal: 
+metal: no
 metalloid: yes
-modified: 20230225002355045
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 33
 number-of-isotopes: 14
 number-of-neutrons: 42

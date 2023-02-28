@@ -3,8 +3,8 @@ atomic-mass: 58.933
 atomic-number: 27
 atomic-radius: 1.7
 boiling-point: 3200
-created: 20230225002355045
-density: 8.86E+00
+created: 20230227152240597
+density: 8.86
 discoverer: Brandt
 electronegativity: 1.88
 element: Cobalt
@@ -13,10 +13,10 @@ first-ionization: 7.881
 group: 9
 melting-point: 1768.15
 metal: yes
-metalloid: 
-modified: 20230225002355045
+metalloid: no
+modified: 20230227152240597
 natural: yes
-non-metal: 
+non-metal: no
 number-of-electrons: 27
 number-of-isotopes: 14
 number-of-neutrons: 32
