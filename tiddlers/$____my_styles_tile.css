@@ -1,4 +1,4 @@
-div.tile {height: 8em; width: 6em; container-type: inline-size;}
+div.tile {height: 8em; width: 6em; line-height: 1em; container-type: inline-size;}
 div.tile div.element {width: 100cqw; height: 133cqw; border: 3.6cqw solid black; }
 div.element {padding: 0; text-align: center; position: relative;}
 div.element div.number {position: absolute; top: 5cqw; left: 5cqw; font-size: 20cqw;}
