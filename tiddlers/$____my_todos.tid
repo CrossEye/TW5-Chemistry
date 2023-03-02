@@ -1,18 +1,33 @@
 created: 20230207203725986
-modified: 20230301045447173
+modified: 20230301200441411
 tags: 
 title: $:/_/my/todos
 type: text/vnd.tiddlywiki
 
-|!idea |!status |!version |
+|!idea |!status |!notes |
+|Make table-generation into a configurable macro |In-progress | |
+|Write some learning games, first up would be find the element on blank table |Soon | |
+| &nbsp; | | |
+| &nbsp; | | |
+|Add note-taking feature, with something like Mohammad's small tidders plug-in |To-do | |
+|Add tiddlers for each chemical property, refactor to use them in footers, give them sorting tables |To-do | |
+| &nbsp; | | |
+| &nbsp; | | |
+|Add important fields just below the element page's titles in some readable format. Symbol, Number, Weight, and Element Type |Possibly | |
+|Remove `$:_/my/table` and derive the layout information from the periods and groups in the elements. |Consideration |The trouble is to figure out what to do with the `f-block` lines, and how to do the more complex logic necessary in wiki text. |
+|Add tiddlers for period, group, and block, Wikipedia-style.  Link in buildElement |Consideration | |
+|Add neighbors for the elements, N, E, S, W |Consideration | |
+|A hover-able key, fading those that don't match the hovered type |Consideration | |
+| &nbsp; | | |
+| &nbsp; | | |
+|Add key regarding tile information and element types.  The tile is simple, just a demonstration. |Probably not | |
+|Generate this ui as a secondary plugin/tiddler-group |Much later, as it will make development awkward | |
+|Add row and column headers mentioning periods and groups |Low priority | |
+| &nbsp; | | |
+| &nbsp; | | |
 |Add spacers after first two columns and before last two rows. |Completed |0.2.0|
 |Figure out complete scalability, remove hardcoded `transform: scale (0.45, 0.45);` |Completed |0.2.0 |
 |Add spacers after first two columns and before last two rows |Completed |0.2.0 |
-|Add row and column headers mentioning periods and groups |Low priority | |
-|CSS to make the hover border not change layout |Completed |0.4.0 |
 |Trim the tiles' atomic weight to fit better in mobile.  Five significant figures should be enough |Completed |0.3.0 (?) |
-|Remove `$:_/my/table` and derive the layout information from the periods and groups in the elements.  The trouble is to figure out what to do with the `f-block` lines, and how to do the more complex logic necessary in wiki text. |Consideration | |
-|Add key regarding tile information and element types.  The tile is simple, just a demonstration. |Probably not | |
-|A hover-able key, fading those that don't match the hovered type |Consideration | |
-|Add important fields just below the element page's titles in some readable format. Symbol, Number, Weight, and Element Type |Possibly | |
-|Generate this ui as a secondary plugin/tiddler-group |Much later, as it will make development awkward | |
+|CSS to make the hover border not change layout |Completed |0.4.0 |
+

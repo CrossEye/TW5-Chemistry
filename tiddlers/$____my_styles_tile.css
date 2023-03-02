@@ -1,20 +1,29 @@
-div.tile {height: 8em; width: 6em; line-height: 1em; container-type: inline-size;}
+div.tile {height: 8em; width: 6em; line-height: 1em; container-type: inline-size; color: #555;}
+div.tile div {line-height: 1em;}
 div.tile div.element {width: 100cqw; height: 133cqw; border: 3.6cqw solid black; }
 div.element {padding: 0; text-align: center; position: relative;}
-div.element div.number {position: absolute; top: 5cqw; left: 5cqw; font-size: 20cqw;}
-div.element div.mass   {position: absolute; top: 5cqw; right: 5cqw; font-size: 12cqw;}
-div.element div.symbol {position: absolute; top: 41cqw; text-align: center; width: 100%; font-size: 50cqw;}
-div.element div.name   {position: absolute; bottom: 5cqw; text-align: center; width: 100%; font-size: 12cqw;}
+div.element div.number {position: absolute; top: 5cqw; left: 5cqw; font-size: 25cqw;}
+div.element div.mass   {position: absolute; top: 5cqw; right: 5cqw; font-size: 15cqw;}
+div.element div.symbol {position: absolute; top: 39cqw; text-align: center; width: 100%; font-size: 50cqw;}
+div.element div.name   {position: absolute; bottom: 5cqw; text-align: center; width: 100%; font-size: 14cqw;}
 a:hover div.tile div.element {border-width: 6cqw}
 
-.element.actinide             {background: #fc9;}
-.element.alkali-metal         {background: #f9c;}
-.element.alkaline-earth-metal {background: #9cf;}
-.element.halogen              {background: #c9f;}
-.element.lanthanide           {background: #f9f;}
-.element.metal                {background: #9cc;}
-.element.metalloid            {background: #ffc;}
-.element.noble-gas            {background: #fcc}
-.element.nonmetal             {background: #cff;}
-.element.transactinide        {background: #f96;}
-.element.transition-metal     {background: #cf9;}
+@container (max-width: 37px) {
+  table.periodic div.element .name, table.periodic div.element .mass{display: none;}
+}
+@container (max-width: 29px) {
+  table.periodic div.element .number {display: none;}
+}
+
+
+.actinide             {background: #fc9;}
+.alkali-metal         {background: #f9c;}
+.alkaline-earth-metal {background: #9cf;}
+.halogen              {background: #c9f;}
+.lanthanide           {background: #f9f;}
+.metal                {background: #9cc;}
+.metalloid            {background: #ffc;}
+.noble-gas            {background: #fcc}
+.nonmetal             {background: #cff;}
+.transactinide        {background: #f96;}
+.transition-metal     {background: #cf9;}

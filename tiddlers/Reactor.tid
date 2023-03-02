@@ -1,0 +1,35 @@
+created: 20230301195850693
+elements: 
+modified: 20230302014133977
+tags: 
+title: Reactor
+type: text/vnd.tiddlywiki
+
+\define drop-actions() 
+<$list filter="[<actionTiddler>has[element]has[atomic-mass]]" variable="element">
+<$action-listops $field="elements" $subfilter="[<element>]"/>
+</$list>
+\end
+
+<$droppable actions=<<drop-actions>>>
+Drop elements in there to make molecules :
+<div style="border: 1px solid #ccc; min-height: 10em; min-width: 20em;">
+<p>
+<$list filter="[list[!!elements]]">
+<div class="tile" style="display:inline-flex;width: 6em; height: 8em;">
+<$macrocall $name="tile" className={{{ [{!!element-type}lowercase[]] +[search-replace:g[ ],[-]] }}} />
+</div>
+</$list>
+</p>
+</div>
+
+
+With this, you can create..
+
+<p>
+<$list filter="[list[!!elements]get[symbol]join[ ]]:map[[molecule]tagging[]search:formula{!!title}]">
+{{!!title}} ({{!!formula}})
+</$list>
+</p>
+
+</$droppable>
