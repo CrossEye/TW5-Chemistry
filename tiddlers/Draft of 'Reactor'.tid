@@ -1,8 +1,10 @@
 created: 20230301195850693
+draft.of: Reactor
+draft.title: Reactor
 elements: Carbon Oxygen
-modified: 20230304033927931
+modified: 20230304034858275
 tags: 
-title: Reactor
+title: Draft of 'Reactor'
 type: text/vnd.tiddlywiki
 
 \define drop-actions() 
