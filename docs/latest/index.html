@@ -221,13 +221,9 @@ Error message and password prompt
 
 <li>Chemical Element</li>
 
-<li>Draft of 'Reactor'</li>
-
 <li>Element Type</li>
 
 <li>Elements by Year</li>
-
-<li>New Tiddler</li>
 
 <li>Periodic Table</li>
 
@@ -331,17 +327,13 @@ Error message and password prompt
 
 {"title":"Chemical Element","caption":"Elements","created":"20230212200835282","modified":"20230212200856460","tags":"TableOfContents","type":"text/vnd.tiddlywiki","revision":"0","bag":"default"},
 
-{"title":"Draft of 'Reactor'","created":"20230301195850693","draft.of":"Reactor","draft.title":"Reactor","elements":"Carbon Oxygen","modified":"20230304034858275","tags":"","type":"text/vnd.tiddlywiki","text":"\\define drop-actions() \n\u003C$list filter=\"[\u003CactionTiddler>has[element]has[atomic-mass]]\" variable=\"element\">\n\u003C$action-listops $field=\"elements\" $subfilter=\"[\u003Celement>]\"/>\n\u003C/$list>\n\\end\n\n\u003C$droppable actions=\u003C\u003Cdrop-actions>>>\nDrop elements in there to make molecules :\n\u003Cdiv style=\"border: 1px solid #ccc; min-height: 10em; min-width: 20em;\">\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]]\">\n\u003Cdiv class=\"tile\" style=\"display:inline-flex;width: 6em; height: 8em;\">\n\u003C$macrocall $name=\"tile\" className={{{ [{!!element-type}lowercase[]] +[search-replace:g[ ],[-]] }}} />\n\u003C/div>\n\u003C/$list>\n\u003C/p>\n\u003C/div>\n\n\nWith this, you can create..\n\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]get[symbol]join[ ]]:map[[molecule]tagging[]search:formula{!!title}]\">\n{{!!title}} ({{!!formula}})\n\u003C/$list>\n\u003C/p>\n\n\u003C/$droppable>\n","revision":"0","bag":"default"},
-
 {"title":"Element Type","caption":"Element Types","created":"20230213161328909","modified":"20230213161410152","tags":"TableOfContents","type":"text/vnd.tiddlywiki","revision":"0","bag":"default"},
 
 {"title":"Elements by Year","caption":"By Year","created":"20230213005448896","modified":"20230213013319224","tags":"TableOfContents","type":"text/vnd.tiddlywiki","text":"!! Prehistory\r\n\u003Cul>  \u003C!-- hacking with Antimony, as it's the only \"Early historic times\"  -->\r\n\u003C$list filter=\"[all[shadows+tiddlers]tag[Chemical Element]!has[year]] -[[Antimony]] +[nsort[element]] [[Antimony]]\" >\r\n\u003Cdiv class=\"tc-menu-list-item\">\u003C$link /> -- {{!!discoverer}}\u003C/div>\r\n\u003C/$list>\r\n\u003C/ul>\n\n!! Historical\r\n\u003Cul>\r\n\u003C$list filter=\"[all[shadows+tiddlers]tag[Chemical Element]has[year]] +[nsort[year]]\" >\r\n\u003Cdiv class=\"tc-menu-list-item\">\u003C$link /> ({{!!year}}) \u003C$list filter=\"[\u003CcurrentTiddler>has[discoverer]]\" variable=\"_\">-- {{!!discoverer}}\u003C/$list>\u003C/div>\r\n\u003C/$list>\r\n\u003C/ul>\r\n","revision":"0","bag":"default"},
 
-{"title":"New Tiddler","created":"20230302144806787","modified":"20230302144908023","tags":"","type":"text/vnd.tiddlywiki","text":"//K//\u003Csub>a\u003Csub>1\u003C/sub>\u003C/sub>\n","revision":"0","bag":"default"},
-
 {"title":"Periodic Table","created":"20230226235708544","modified":"20230228211319748","tags":"TableOfContents","type":"text/vnd.tiddlywiki","text":"\u003Cdiv class=\"periodic-table-container\">\n\u003Ctable class=\"periodic\">\n\u003C$list filter=\"[{$:/_/my/data/table}jsonindexes[]]\" variable=\"row\">\n\u003Ctr>\n\u003C$list filter=\"[{$:/_/my/data/table}jsonget\u003Crow>]\" variable=\"currentTiddler\"> \n\u003Ctd>\n\u003C$list filter=\"[\u003CcurrentTiddler>is[shadow]]\" variable=\"_\">\n\u003C$set name=\"className\" filter=\"[\u003CcurrentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]\">\n\u003C$link to=\u003C\u003CcurrentTiddler>> >\n\u003Cdiv class=\"tile\">\n\u003C$macrocall $name=\"tile\" className=\u003C\u003CclassName>> />\n\u003C/div>\n\u003C/$link>\n\u003C/$set>\n\u003C/$list>\n\u003C/td>\n\u003C/$list>\n\u003C/tr>\n\u003C/$list>\n\u003C/table>\n\u003C/div>","revision":"0","bag":"default"},
 
-{"title":"Reactor","created":"20230301195850693","elements":"Carbon Oxygen","modified":"20230304033927931","tags":"","type":"text/vnd.tiddlywiki","text":"\\define drop-actions() \n\u003C$list filter=\"[\u003CactionTiddler>has[element]has[atomic-mass]]\" variable=\"element\">\n\u003C$action-listops $field=\"elements\" $subfilter=\"[\u003Celement>]\"/>\n\u003C/$list>\n\\end\n\n\u003C$droppable actions=\u003C\u003Cdrop-actions>>>\nDrop elements in there to make molecules :\n\u003Cdiv style=\"border: 1px solid #ccc; min-height: 10em; min-width: 20em;\">\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]]\">\n\u003Cdiv class=\"tile\" style=\"display:inline-flex;width: 6em; height: 8em;\">\n\u003C$macrocall $name=\"tile\" className={{{ [{!!element-type}lowercase[]] +[search-replace:g[ ],[-]] }}} />\n\u003C/div>\n\u003C/$list>\n\u003C/p>\n\u003C/div>\n\n\nWith this, you can create..\n\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]get[symbol]join[ ]]:map[[molecule]tagging[]search:formula{!!title}]\">\n{{!!title}} ({{!!formula}})\n\u003C/$list>\n\u003C/p>\n\n\u003C/$droppable>\n","revision":"0","bag":"default"},
+{"title":"Reactor","created":"20230301195850693","elements":"Carbon Oxygen","modified":"20230304202907742","tags":"","type":"text/vnd.tiddlywiki","text":"\\define drop-actions() \n\u003C$list filter=\"[\u003CactionTiddler>has[element]has[atomic-mass]]\" variable=\"element\">\n\u003C$action-listops $field=\"elements\" $subfilter=\"[\u003Celement>]\"/>\n\u003C/$list>\n\\end\n\n\u003C$droppable actions=\u003C\u003Cdrop-actions>>>\nDrop elements in there to make molecules :\n\u003Cdiv style=\"border: 1px solid #ccc; min-height: 10em; min-width: 20em;\">\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]]\">\n\u003Cdiv class=\"tile\" style=\"display:inline-flex;width: 6em; height: 8em;\">\n\u003C$macrocall $name=\"tile\" className={{{ [{!!element-type}lowercase[]] +[search-replace:g[ ],[-]] }}} />\n\u003C/div>\n\u003C/$list>\n\u003C/p>\n\u003C/div>\n\n\nWith this, you can create..\n\n\u003Cp>\n\u003C$list filter=\"[list[!!elements]get[symbol]join[ ]]:map[[molecule]tagging[]search:formula{!!title}]\">\n{{!!title}} ({{!!formula}})\n\u003C/$list>\n\u003C/p>\n\n\u003C/$droppable>\n","revision":"0","bag":"default"},
 
 {"title":"TableOfContents","caption":"Contents","created":"20230212200629440","list":"[[Periodic Table]] [[Chemical Element]]","modified":"20230212201022642","tags":"$:/tags/SideBar","type":"text/vnd.tiddlywiki","text":"\u003Cdiv class=\"tc-table-of-contents\">\n\n\u003C\u003Ctoc-selective-expandable 'TableOfContents'>>\n\n\u003C/div>","revision":"0","bag":"default"},
 
