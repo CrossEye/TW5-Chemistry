@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/CrossEye/TW5-Chemistry#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "tiddlywiki": "^5.2.5"
   },
   "devDependencies": {

@@ -1,0 +1,4 @@
+/* restyling to the default when using Move-to-top link */  /* TODO: derive this from theme variables */
+a.tc-tiddlylink .tc-title, a.tc-tiddlylink:hover .tc-title, :is(a.tc-tiddlylink):has(+ :is(.tc-title)) { /*TODO: make underline darker: last selector not working.  */
+  color: rgb(24, 41, 85);
+}
