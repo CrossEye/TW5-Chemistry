@@ -1,0 +1,9 @@
+created: 20230312225850921
+modified: 20230314020618293
+notes: 
+status: $:/plugins/crosseye/ideas/state/In-progress
+tags: Idea
+title: Idea: Macroize table
+type: text/vnd.tiddlywiki
+
+Make table-generation into a configurable macro

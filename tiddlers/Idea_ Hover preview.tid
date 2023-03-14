@@ -1,0 +1,9 @@
+created: 20230313013507044
+modified: 20230314021257461
+notes: Interesting would be to use the Tile for hover everywhere but on the table itself, but use some properties/text template on the table.
+status: $:/plugins/crosseye/ideas/state/Likely
+tags: Idea
+title: Idea: Hover preview
+type: text/vnd.tiddlywiki
+
+Add hoverable preview (tobibeer's implementation?) of links, at least element links

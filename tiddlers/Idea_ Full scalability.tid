@@ -1,0 +1,9 @@
+created: 20230313015610483
+modified: 20230314021422112
+notes: 0.2.0
+status: $:/plugins/crosseye/ideas/state/Completed
+tags: Idea
+title: Idea: Full scalability
+type: text/vnd.tiddlywiki
+
+Figure out complete scalability, remove hardcoded `transform: scale (0.45, 0.45);`

@@ -1,0 +1,9 @@
+created: 20230313014257839
+modified: 20230314021328558
+notes: The trouble is to figure out what to do with the `f-block` lines, and how to do the more complex logic necessary in wiki text.
+status: $:/plugins/crosseye/ideas/state/Under Consideration
+tags: Idea
+title: Idea: Chemical derivation
+type: text/vnd.tiddlywiki
+
+Remove `$:_/my/table` and derive the layout information from the periods and groups in the elements.

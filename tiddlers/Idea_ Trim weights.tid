@@ -1,0 +1,9 @@
+created: 20230313015123697
+modified: 20230314021422112
+notes: 0.3.0
+status: $:/plugins/crosseye/ideas/state/Completed
+tags: Idea
+title: Idea: Trim weights
+type: text/vnd.tiddlywiki
+
+Trim the tiles' atomic weight to fit better in mobile. Five significant figures should be enough

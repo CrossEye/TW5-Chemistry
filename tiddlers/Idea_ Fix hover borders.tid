@@ -1,0 +1,9 @@
+created: 20230313015324262
+modified: 20230314021422112
+notes: 0.4.0
+status: $:/plugins/crosseye/ideas/state/Completed
+tags: Idea
+title: Idea: Fix hover borders
+type: text/vnd.tiddlywiki
+
+CSS to make the hover border not change layout
