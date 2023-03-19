@@ -8,4 +8,4 @@ plugin-type: plugin
 source: https://github.com/CrossEye/TW5-ideas
 title: $:/plugins/crosseye/ideas
 type: application/json
-version: 0.1.0
+version: 0.1.1

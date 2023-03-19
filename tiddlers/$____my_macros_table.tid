@@ -1,0 +1,34 @@
+created: 20230319173600672
+modified: 20230319181257118
+tags: $:/tags/Macro
+title: $:/_/my/macros/table
+type: text/vnd.tiddlywiki
+
+\define complete-tile-link()
+<$list filter="[<currentTiddler>is[shadow]]" variable="_">
+<$set name="className" filter="[<currentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
+<$link to=<<currentTiddler>> >
+<div class="tile">
+<$macrocall $name="tile" className=<<className>> />
+</div>
+</$link>
+</$set>
+</$list>
+\end
+
+
+\define periodic-table(tile:complete-tile-link)
+<div class="periodic-table-container">
+<table class="periodic">
+<$list filter="[{$:/_/my/data/table}jsonindexes[]]" variable="row">
+<tr>
+<$list filter="[{$:/_/my/data/table}jsonget<row>]" variable="currentTiddler"> 
+<td>
+<$macrocall $name=$tile$ />
+</td>
+</$list>
+</tr>
+</$list>
+</table>
+</div>
+\end
