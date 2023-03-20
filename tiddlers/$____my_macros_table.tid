@@ -1,5 +1,5 @@
-created: 20230319173600672
-modified: 20230319181257118
+created: 20230320002338506
+modified: 20230320030027582
 tags: $:/tags/Macro
 title: $:/_/my/macros/table
 type: text/vnd.tiddlywiki
@@ -16,17 +16,40 @@ type: text/vnd.tiddlywiki
 </$list>
 \end
 
+\define blank-tile()
+.. &nbsp; ..
+\end
 
-\define periodic-table(tile:complete-tile-link)
+\define test-tile()
+This space intentionally left blank
+\end
+
+\define periodic-table(northwest:blank-tile north:blank-tile northeast:blank-tile southwest:blank-tile southeast:blank-tile tile:complete-tile-link )
 <div class="periodic-table-container">
 <table class="periodic">
 <$list filter="[{$:/_/my/data/table}jsonindexes[]]" variable="row">
 <tr>
-<$list filter="[{$:/_/my/data/table}jsonget<row>]" variable="currentTiddler"> 
+  <$list filter="[{$:/_/my/data/table}jsonget<row>]" variable="currentTiddler"> 
+    <$set name="foo" value={{{ [<currentTiddler>regexp[-]] }}}>
+      <$list filter={{{ [<foo>compare:string:eq[]then[yes]] }}} variable="_">
 <td>
 <$macrocall $name=$tile$ />
 </td>
-</$list>
+      </$list>
+      <$list filter={{{ [<foo>compare:string:ne[]then[yes]] }}} variable="_">
+        <$let
+          block={{{ [all[current]split[-]nth[1]] }}}
+          cols={{{ [all[current]split[-]nth[2]] }}}
+          rows={{{ [all[current]split[-]nth[3]] }}}
+        >
+<td colspan=<<cols>> rowspan=<<rows>> class=<<block>> >
+  <<block>>
+  <$macrocall $name="$(block)$"/>
+</td>
+        </$let>
+      </$list>
+    </$set>
+  </$list>
 </tr>
 </$list>
 </table>

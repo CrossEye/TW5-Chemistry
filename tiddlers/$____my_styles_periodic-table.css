@@ -3,6 +3,8 @@ table.periodic, table.periodic td {border: none; padding: 0;}
 table.periodic div.tile {height: 6.4cqw; width: 4.8cqw; margin: 0.3cqw; container-type: inline-size;}
 table.periodic a, table.periodic a:hover {color: black; text-decoration: none;}
 table.periodic a.tc-tiddlylink-shadow {font-weight: normal;}
-table.periodic tr td:nth-child(3) div.tile {margin-left: 2.5cqw;}
+table.periodic tr:is(:nth-child(4), :nth-child(5), :nth-child(6), :nth-child(7)) td:nth-child(3) div.tile {margin-left: 2.5cqw;}
+table.periodic tr:nth-child(8) td:nth-child(2) div.tile {margin-left: 2.5cqw;}
+table.periodic tr:nth-child(9) td:nth-child(1) div.tile {margin-left: 2.5cqw;}
 table.periodic tr:nth-child(8) div.tile {margin-top: 2.5cqw;}
 
