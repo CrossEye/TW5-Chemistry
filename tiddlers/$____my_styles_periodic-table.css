@@ -7,4 +7,8 @@ table.periodic tr:is(:nth-child(4), :nth-child(5), :nth-child(6), :nth-child(7))
 table.periodic tr:nth-child(8) td:nth-child(2) div.tile {margin-left: 2.5cqw;}
 table.periodic tr:nth-child(9) td:nth-child(1) div.tile {margin-left: 2.5cqw;}
 table.periodic tr:nth-child(8) div.tile {margin-top: 2.5cqw;}
+table.periodic div.free-space {margin: 0.3cqw; container-type: inline-size; }
+table.periodic div.free-space:is(.northwest, .northeast) {height: 6.4cqw;}
+table.periodic div.free-space:is(.north) {height: 19.8cqw; margin-left: 2.5cqw;}
+table.periodic div.free-space:is(.southwest, .southeast) {height: 13.1cqw; margin-top: 2.5cqw}
 

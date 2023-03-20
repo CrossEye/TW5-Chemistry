@@ -1,5 +1,5 @@
 created: 20230320002338506
-modified: 20230320030027582
+modified: 20230320183752320
 tags: $:/tags/Macro
 title: $:/_/my/macros/table
 type: text/vnd.tiddlywiki
@@ -17,11 +17,15 @@ type: text/vnd.tiddlywiki
 \end
 
 \define blank-tile()
-.. &nbsp; ..
+  &nbsp;
 \end
 
 \define test-tile()
+
+@@color:red;font-size:6cqw;
 This space intentionally left blank
+@@
+
 \end
 
 \define periodic-table(northwest:blank-tile north:blank-tile northeast:blank-tile southwest:blank-tile southeast:blank-tile tile:complete-tile-link )
@@ -43,8 +47,9 @@ This space intentionally left blank
           rows={{{ [all[current]split[-]nth[3]] }}}
         >
 <td colspan=<<cols>> rowspan=<<rows>> class=<<block>> >
-  <<block>>
-  <$macrocall $name="$(block)$"/>
+<div class={{{ [[free-space]] [<block>] +[join[ ]]}}} >
+<$macrocall $name={{{ =[[__]] [<block>] =[[__]] +[join[]getvariable[]] }}}/>
+</div>
 </td>
         </$let>
       </$list>
