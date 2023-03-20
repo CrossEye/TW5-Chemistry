@@ -1,11 +1,11 @@
 created: 20230227003859199
-modified: 20230302013457955
+modified: 20230320195942564
 tags: $:/tags/Macro
 title: $:/_/my/macros/tile
 type: text/vnd.tiddlywiki
 
 \define tile(className)
-<div class="element $className$">
+<div class={{{ [[element]] [<className>] [<currentTiddler>get[period]addprefix[period-]] [<currentTiddler>get[group]addprefix[group-]] +[join[ ]] }}}>
   <div class="number">{{!!atomic-number}}</div>
   <div class="mass"><$text text={{{ [<currentTiddler>get[atomic-mass]round[]] }}} /></div>
   <div class="symbol">{{!!symbol}}</div>
