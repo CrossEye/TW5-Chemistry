@@ -1,5 +1,5 @@
 created: 20230320002338506
-modified: 20230320193435653
+modified: 20230321021414338
 tags: $:/tags/Macro
 title: $:/_/my/macros/table
 type: text/vnd.tiddlywiki
@@ -18,14 +18,6 @@ type: text/vnd.tiddlywiki
 
 \define blank-tile()
   &nbsp;
-\end
-
-\define test-tile()
-
-@@color:#ccc;font-size:6cqw;
-This space intentionally left blank
-@@
-
 \end
 
 \define periodic-table(northwest:blank-tile north:blank-tile northeast:blank-tile southwest:blank-tile southeast:blank-tile tile:complete-tile-link )

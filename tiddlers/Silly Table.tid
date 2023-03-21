@@ -1,0 +1,34 @@
+created: 20230321012256316
+modified: 20230321023247404
+tags: [[Periodic Table]]
+title: Silly Table
+type: text/vnd.tiddlywiki
+
+\define silly-tile()
+@@color:#ccc;font-size:6cqw;
+This space intentionally left blank
+@@
+\end
+
+\define our-sponsor()
+<div style="color:blue; line-height:1.2; font-size:12cqw; text-align: center">This table brought to you by the number</div>
+<div style="color:blue; line-height:1.2; margin: 6cqw 0; font-size:24cqw; text-align: center;">92</div>
+<div style="color:blue; line-height:1.2; font-size:12cqw; text-align: center;">Anything more is just unstable!</div>
+\end
+
+\define your-logo()
+<div style="text-align:center;">
+[img[logo.svg]]<br/>
+Your logo here!
+</div>
+\end
+
+\define what()
+<div style="font-size: 75cqw; text-align: center; margin-top: 50cqw;">?</div>
+\end
+
+\define recur()
+{{$:/_/my/data/alt-table}}
+\end
+
+<<periodic-table northwest:"what" north:"recur"  northeast:"silly-tile" southeast:"our-sponsor" southwest:"your-logo">>
