@@ -1,5 +1,5 @@
 created: 20230322015951996
-modified: 20230322173944102
+modified: 20230322174243586
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
@@ -44,6 +44,7 @@ table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opa
 </div>
 
 <style>
+.type-annotation a { writing-mode: vertical-rl; transform: rotate(180deg); padding: .25em;}
 table.periodic:has(.focus-type-actinide:hover) .element:not(.actinide) {opacity: .3}
 </style>
 \end
