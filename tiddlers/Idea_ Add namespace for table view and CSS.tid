@@ -1,0 +1,9 @@
+created: 20230322021118552
+modified: 20230322021407313
+notes: This should also help make the system more modular
+status: $:/plugins/crosseye/ideas/state/Likely
+tags: Idea
+title: Idea: Add namespace for table view and CSS
+type: text/vnd.tiddlywiki
+
+The various tables are going to need CSS associated.  We don't want them interfering with one another, so add a class-name property to the macro definition that will go at the table level, or one above it.

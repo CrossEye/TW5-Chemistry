@@ -1,0 +1,42 @@
+created: 20230322015951996
+modified: 20230322034036192
+tags: [[Periodic Table]]
+title: Annotated Periodic Table
+type: text/vnd.tiddlywiki
+
+\define focus-period()
+<div class="period-annotation">
+''Period''<hr/>
+<$list filter=[range[1],[7]] variable="idx">
+<a href="#" class={{{ focus [<idx>addprefix[focus-period-]] +[join[ ]] }}} ><<idx>></a>
+</$list>
+</div>
+<style>
+.period-annotation {margin-top: -1em; line-height: 1}
+.period-annotation .focus {border: 1px solid #ccc; padding:.25em; margin:.125em; display: inline-block;}
+.period-annotation .focus:hover {background: #eee;}
+<$list filter=[range[1],[7]] variable="idx">
+table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {opacity: .3}
+</$list>
+</style>
+\end
+
+\define focus-group()
+<div class="group-annotation">
+''Group''<hr/>
+<$list filter=[range[1],[18]] variable="idx">
+<a href="#" class={{{ focus[<idx>addprefix[focus-group-]] +[join[ ]] }}} ><<idx>></a>
+</$list>
+</div>
+<style>
+.group-annotation {margin-top: -1em; line-height: 1; margin-right: -1em;} /* TODO: should be in cqw units */
+.group-annotation .focus {border: 1px solid #ccc; padding:1cqw; margin:1.5cqw .75cqw; display: inline-block;}
+.group-annotation .focus:hover {background: #eee;}
+<$list filter=[range[1],[18]] variable="idx">
+table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opacity: .3}
+</$list>
+</style>
+\end
+
+
+<<periodic-table southeast:"focus-period" southwest:"focus-group">>

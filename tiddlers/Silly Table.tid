@@ -1,5 +1,5 @@
 created: 20230321012256316
-modified: 20230321023247404
+modified: 20230322024655047
 tags: [[Periodic Table]]
 title: Silly Table
 type: text/vnd.tiddlywiki
@@ -28,7 +28,10 @@ Your logo here!
 \end
 
 \define recur()
+
+@@line-height:1;font-size:3cqw;margin-top:2cqw;
 {{$:/_/my/data/alt-table}}
 \end
+@@
 
 <<periodic-table northwest:"what" north:"recur"  northeast:"silly-tile" southeast:"our-sponsor" southwest:"your-logo">>

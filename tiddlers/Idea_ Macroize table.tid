@@ -1,7 +1,7 @@
 created: 20230312225850921
-modified: 20230314020618293
-notes: 
-status: $:/plugins/crosseye/ideas/state/In-progress
+modified: 20230321141553434
+notes: 0.7.0
+status: $:/plugins/crosseye/ideas/state/Completed
 tags: Idea
 title: Idea: Macroize table
 type: text/vnd.tiddlywiki
