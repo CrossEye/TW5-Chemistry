@@ -1,8 +1,29 @@
 created: 20230322015951996
-modified: 20230322174243586
+modified: 20230322184045602
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
+
+\define focus-type()
+<div class="type-annotation">
+<$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
+<$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
+<a href="#" class={{{ [<slug>]  [<slug>addprefix[focus-type-]] +[join[ ]] }}}> &nbsp; <<name>></a>
+</$set>
+</$list>
+</div>
+
+<style>
+table.periodic .type-annotation {margin-left: 15cqw;}
+table.periodic .type-annotation a { writing-mode: vertical-rl; transform: rotate(180deg); padding: .5cqw; font-weight: bold; color: #666; /*height: 35cqw;*/}
+<$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
+<$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
+table.periodic:has(.focus-type-<<slug>>:hover) .element:not(.<<slug>>) {opacity: .25}
+</$set>
+</$list>
+</style>
+\end
+
 
 \define focus-period()
 <div class="period-annotation">
@@ -16,10 +37,11 @@ type: text/vnd.tiddlywiki
 .period-annotation .focus {border: 1px solid #ccc; padding:.25em; margin:.125em; display: inline-block;}
 .period-annotation .focus:hover {background: #eee;}
 <$list filter=[range[1],[7]] variable="idx">
-table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {opacity: .3}
+table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {opacity: .25}
 </$list>
 </style>
 \end
+
 
 \define focus-group()
 <div class="group-annotation">
@@ -33,20 +55,10 @@ table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {o
 .group-annotation .focus {border: 1px solid #ccc; padding:1cqw; margin:1.5cqw .75cqw; display: inline-block;}
 .group-annotation .focus:hover {background: #eee;}
 <$list filter=[range[1],[18]] variable="idx">
-table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opacity: .3}
+table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opacity: .25}
 </$list>
 </style>
 \end
 
-\define focus-type()
-<div class="type-annotation">
-<a href="#" class="actinide focus-type-actinide">Actinide</a>
-</div>
 
-<style>
-.type-annotation a { writing-mode: vertical-rl; transform: rotate(180deg); padding: .25em;}
-table.periodic:has(.focus-type-actinide:hover) .element:not(.actinide) {opacity: .3}
-</style>
-\end
-
-<<periodic-table southeast:"focus-period" southwest:"focus-group" north:"focus-type">>
+<<periodic-table north:"focus-type" southeast:"focus-period" southwest:"focus-group">>

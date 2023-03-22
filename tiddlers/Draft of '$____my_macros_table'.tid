@@ -1,0 +1,56 @@
+created: 20230320002338506
+draft.of: $:/_/my/macros/table
+draft.title: $:/_/my/macros/table
+modified: 20230322175413902
+tags: $:/tags/Macro
+title: Draft of '$:/_/my/macros/table'
+type: text/vnd.tiddlywiki
+
+\define complete-tile-link()
+<$list filter="[<currentTiddler>is[shadow]]" variable="_">
+<$set name="className" filter="[<currentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
+<$link to=<<currentTiddler>> >
+<div class="tile">
+<$macrocall $name="tile" className=<<className>> />
+</div>
+</$link>
+</$set>
+</$list>
+\end
+
+\define blank-tile()
+  &nbsp;
+\end
+
+\define periodic-table(northwest:blank-tile north:blank-tile northeast:blank-tile southwest:blank-tile southeast:blank-tile tile:complete-tile-link )
+<div class="periodic-table-container">
+<table class="periodic">
+<$list filter="[{$:/_/my/data/table}jsonindexes[]]" variable="row">
+<tr>
+  <$list filter="[{$:/_/my/data/table}jsonget<row>]" variable="currentTiddler"> 
+    <$set name="foo" value={{{ [<currentTiddler>regexp[-]] }}}>
+      <$list filter={{{ [<foo>compare:string:eq[]then[yes]] }}} variable="_">
+<td>
+<$macrocall $name=$tile$ />
+</td>
+      </$list>
+      <$list filter={{{ [<foo>compare:string:ne[]then[yes]] }}} variable="_">
+        <$let
+          block={{{ [all[current]split[-]nth[1]] }}}
+          cols={{{ [all[current]split[-]nth[2]] }}}
+          rows={{{ [all[current]split[-]nth[3]] }}}
+        >
+<td colspan=<<cols>> rowspan=<<rows>> class=<<block>> >
+<div class={{{ [[free-space]] [<block>] +[join[ ]]}}} >
+<$macrocall $name={{{ =[[__]] [<block>] =[[__]] +[join[]getvariable[]] }}}/>
+</div>
+</td>
+        </$let>
+      </$list>
+    </$set>
+  </$list>
+</tr>
+</$list>
+</table>
+</div>
+\end
