@@ -1,5 +1,5 @@
 created: 20230322015951996
-modified: 20230322034036192
+modified: 20230322173944102
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
@@ -38,5 +38,14 @@ table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opa
 </style>
 \end
 
+\define focus-type()
+<div class="type-annotation">
+<a href="#" class="actinide focus-type-actinide">Actinide</a>
+</div>
 
-<<periodic-table southeast:"focus-period" southwest:"focus-group">>
+<style>
+table.periodic:has(.focus-type-actinide:hover) .element:not(.actinide) {opacity: .3}
+</style>
+\end
+
+<<periodic-table southeast:"focus-period" southwest:"focus-group" north:"focus-type">>
