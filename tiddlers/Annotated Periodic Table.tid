@@ -1,5 +1,5 @@
 created: 20230322015951996
-modified: 20230324020255181
+modified: 20230324022106392
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
@@ -37,10 +37,10 @@ table.periodic:has(.focus-type-<<slug>>:hover) .element:not(.<<slug>>) {opacity:
 </$list>
 </div>
 <style>
-.period-annotation {width: 90px; height: 90px; display: grid; grid-template-columns: 33% 33% 33%; grid-template-rows: 33% 33% 33%; border-top: 1px solid #ccc; border-left: 1px solid #ccc}
+.period-annotation {width: 135cqw; height: 135cqw; display: grid; grid-template-columns: 33% 33% 33%; grid-template-rows: 33% 33% 33%; border-top: 1.125cqw solid #ccc; border-left: 1.125cqw solid #ccc; margin-top:-5cqw; margin-right:-17cqw; font-size:15cqw;}
 .period-annotation  div.header {grid-column: 1 / 3;}
-.period-annotation  div {border-bottom: 1px solid #ccc; border-right: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
-.period-annotation  div a, .period-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 3px;}
+.period-annotation  div {border-bottom: 1.125cqw solid #ccc; border-right: 1.125cqw solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
+.period-annotation  div a, .period-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 6cqw;}
 .period-annotation  div a:hover {background-color: #ccc; width:100%; height: 100%;}
 table.periodic:has(.period-annotation .focus:hover) .type-annotation {opacity: .25}
 table.periodic:has(.period-annotation .focus:hover) .group-annotation {opacity: .25}
@@ -59,10 +59,10 @@ table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {o
 </$list>
 </div>
 <style>
-.group-annotation {width: 135cqw; height: 120px; display: grid; grid-template-columns: 25% 25% 25% 25%; grid-template-rows: 20% 20% 20% 20% 20%; border-top: 1px solid #ccc; border-left: 1px solid #ccc; margin-top:-15px; margin-left:-15px}
+.group-annotation {width: 135cqw; height: 135cqw; display: grid; grid-template-columns: 25% 25% 25% 25%; grid-template-rows: 20% 20% 20% 20% 20%; border-top: 1.125cqw solid #ccc; border-left: 1.125cqw solid #ccc; margin-top:-5cqw; margin-left:-17cqw; font-size:15cqw;}
 .group-annotation  div.header {grid-column: 1 / 3;}
-.group-annotation  div {border-bottom: 1px solid #ccc; border-right: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
-.group-annotation  div a, .group-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 1px;}
+.group-annotation  div {border-bottom: 1.125cqw solid #ccc; border-right: 1.125cqw solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
+.group-annotation  div a, .group-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 1.125cqw;}
 .group-annotation  div a:hover {background-color: #ccc; width:100%; height: 100%;}
 table.periodic:has(.group-annotation .focus:hover) .type-annotation {opacity: .25}
 table.periodic:has(.group-annotation .focus:hover) .period-annotation {opacity: .25}
