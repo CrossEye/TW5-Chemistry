@@ -1,5 +1,5 @@
 created: 20230322015951996
-modified: 20230322190332420
+modified: 20230324020255181
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
@@ -28,17 +28,20 @@ table.periodic:has(.focus-type-<<slug>>:hover) .element:not(.<<slug>>) {opacity:
 \end
 
 
+
 \define focus-period()
 <div class="period-annotation">
-''Period''<hr/>
+  <div class="header"><b>Period</b></div>
 <$list filter=[range[1],[7]] variable="idx">
-<a href="#" class={{{ focus [<idx>addprefix[focus-period-]] +[join[ ]] }}} ><<idx>></a>
+  <div><a href="#" class={{{ focus [<idx>addprefix[focus-period-]] +[join[ ]] }}} ><<idx>></a></div>
 </$list>
 </div>
 <style>
-.period-annotation {margin-top: -1em; line-height: 1}
-.period-annotation .focus {border: 1px solid #ccc; padding:.25em; margin:.125em; display: inline-block;}
-.period-annotation .focus:hover {background: #eee;}
+.period-annotation {width: 90px; height: 90px; display: grid; grid-template-columns: 33% 33% 33%; grid-template-rows: 33% 33% 33%; border-top: 1px solid #ccc; border-left: 1px solid #ccc}
+.period-annotation  div.header {grid-column: 1 / 3;}
+.period-annotation  div {border-bottom: 1px solid #ccc; border-right: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
+.period-annotation  div a, .period-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 3px;}
+.period-annotation  div a:hover {background-color: #ccc; width:100%; height: 100%;}
 table.periodic:has(.period-annotation .focus:hover) .type-annotation {opacity: .25}
 table.periodic:has(.period-annotation .focus:hover) .group-annotation {opacity: .25}
 <$list filter=[range[1],[7]] variable="idx">
@@ -50,15 +53,17 @@ table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {o
 
 \define focus-group()
 <div class="group-annotation">
-''Group''<hr/>
+<div class="header"><b>Group</b></div>
 <$list filter=[range[1],[18]] variable="idx">
-<a href="#" class={{{ focus[<idx>addprefix[focus-group-]] +[join[ ]] }}} ><<idx>></a>
+<div><a href="#" class={{{ focus[<idx>addprefix[focus-group-]] +[join[ ]] }}} ><<idx>></a></div>
 </$list>
 </div>
 <style>
-.group-annotation {margin-top: -1em; line-height: 1; margin-right: -1em;} /* TODO: should be in cqw units */
-.group-annotation .focus {border: 1px solid #ccc; padding:1cqw; margin:1.5cqw .75cqw; display: inline-block;}
-.group-annotation .focus:hover {background: #eee;}
+.group-annotation {width: 135cqw; height: 120px; display: grid; grid-template-columns: 25% 25% 25% 25%; grid-template-rows: 20% 20% 20% 20% 20%; border-top: 1px solid #ccc; border-left: 1px solid #ccc; margin-top:-15px; margin-left:-15px}
+.group-annotation  div.header {grid-column: 1 / 3;}
+.group-annotation  div {border-bottom: 1px solid #ccc; border-right: 1px solid #ccc; text-align: center; vertical-align: middle; padding: 0;}
+.group-annotation  div a, .group-annotation  div b {text-decoration: none; display: inline-block; margin: 0; padding-top: 1px;}
+.group-annotation  div a:hover {background-color: #ccc; width:100%; height: 100%;}
 table.periodic:has(.group-annotation .focus:hover) .type-annotation {opacity: .25}
 table.periodic:has(.group-annotation .focus:hover) .period-annotation {opacity: .25}
 <$list filter=[range[1],[18]] variable="idx">
