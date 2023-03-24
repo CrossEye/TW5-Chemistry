@@ -1,5 +1,5 @@
 created: 20230321012256316
-modified: 20230322024655047
+modified: 20230324030038863
 tags: [[Periodic Table]]
 title: Silly Table
 type: text/vnd.tiddlywiki
@@ -17,8 +17,8 @@ This space intentionally left blank
 \end
 
 \define your-logo()
-<div style="text-align:center;">
-[img[logo.svg]]<br/>
+<div style="text-align:center; font-size:12cqw; width:90cqw; border:1.125cqw solid #eee;">
+<br/>@@width:18cqw;{{$:/core/images/picture}}@@<br/>
 Your logo here!
 </div>
 \end
