@@ -3,7 +3,7 @@ atomic-mass: 223
 atomic-number: 87
 atomic-radius: 
 boiling-point: 950
-created: 20230227152240598
+created: 20230325222518768
 density: 1.87
 discoverer: Perey
 electronegativity: 0.7
@@ -14,7 +14,7 @@ group: 1
 melting-point: 300.15
 metal: yes
 metalloid: no
-modified: 20230227152240598
+modified: 20230325222518768
 natural: yes
 non-metal: no
 number-of-electrons: 87
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 
 symbol: Fr
 tags: [[Chemical Element]]
-wikipedia-extract: Francium is a chemical element with the symbol Fr and atomic number 87. It is extremely radioactive; its most stable isotope, francium-223, has a half-life of only 22 minutes. It is the second-most electropositive element, behind only caesium, and is the second rarest naturally occurring element. The isotopes of francium decay quickly into [[astatine|Astatine]], [[radium|Radium]], and [[radon|Radon]]. The electronic structure of a francium atom is [Rn] 7s1, and so the element is classed as an alkali metal.
+wikipedia-extract: Francium is a chemical element with the symbol Fr and atomic number 87. It is extremely radioactive; its most stable isotope, francium-223, has a half-life of only 22 minutes. It is the second-most electropositive element, behind only caesium, and is the second rarest naturally occurring element. Francium's isotopes decay quickly into [[astatine|Astatine]], [[radium|Radium]], and [[radon|Radon]]. The electronic structure of a francium atom is [Rn] 7s1; thus, the element is classed as an alkali metal.
 wikipedia-link: https://en.wikipedia.org/wiki/Francium
 year: 1939

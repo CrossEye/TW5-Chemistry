@@ -1,6 +1,6 @@
 {
   "name": "tw5-chemistry",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "description": "Periodic Table and other chemistry tools",
   "main": "index.js",
   "scripts": {

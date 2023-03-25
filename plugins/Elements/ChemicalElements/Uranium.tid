@@ -3,7 +3,7 @@ atomic-mass: 238.029
 atomic-number: 92
 atomic-radius: 
 boiling-point: 4404
-created: 20230227152240598
+created: 20230325222518768
 density: 19
 discoverer: Peligot
 electronegativity: 1.38
@@ -14,7 +14,7 @@ group:
 melting-point: 1405.15
 metal: yes
 metalloid: no
-modified: 20230227152240598
+modified: 20230325222518768
 natural: yes
 non-metal: no
 number-of-electrons: 92
@@ -29,6 +29,6 @@ radioactive: yes
 specific-heat: 0.116
 symbol: U
 tags: [[Chemical Element]]
-wikipedia-extract: Uranium is a chemical element with symbol U and atomic number 92. It is a silvery-grey metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium is weakly radioactive because all isotopes of uranium are unstable; the half-lives of its naturally occurring isotopes range between 159,200 years and 4.5 billion years. The most common isotopes in natural uranium are uranium-238 and uranium-235. Uranium has the highest atomic weight of the primordially occurring elements. Its density is about 70% higher than that of [[lead|Lead]], and slightly lower than that of [[gold|Gold]] or [[tungsten|Tungsten]]. It occurs naturally in low concentrations of a few parts per million in soil, rock and water, and is commercially extracted from uranium-bearing minerals such as uraninite.
+wikipedia-extract: Uranium is a chemical element with symbol U and atomic number 92. It is a silvery-grey metal in the actinide series of the periodic table. A uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. Uranium radioactively decays by emitting an alpha particle. The half-life of this decay varies between 159,200 and 4.5 billion years for different isotopes, making them useful for dating the age of the Earth. The most common isotopes in natural uranium are uranium-238 and uranium-235. Uranium has the highest atomic weight of the primordially occurring elements. Its density is about 70% higher than that of [[lead|Lead]], and slightly lower than that of [[gold|Gold]] or [[tungsten|Tungsten]]. It occurs naturally in low concentrations of a few parts per million in soil, rock and water, and is commercially extracted from uranium-bearing minerals such as uraninite.
 wikipedia-link: https://en.wikipedia.org/wiki/Uranium
 year: 1841
