@@ -1,0 +1,14 @@
+created: 20230325154923454
+modified: 20230325160951147
+tags: Miscellanous
+title: Jokes
+type: text/vnd.tiddlywiki
+
+<br /><hr /> <br />
+<$list filter="[tag[Joke]]">
+<h2><$link>{{!!caption}}</$link></h2>
+{{||$:/_/my/templates/Joke}}
+<br/><br/>
+{{!!text}}
+<br /><br/><hr /> <br />
+</$list>

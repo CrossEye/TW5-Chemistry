@@ -1,0 +1,9 @@
+created: 20230325161518123
+modified: 20230325161947416
+notes: Will require interesting specificity work, I think, and a dynamically generated state tiddler that is also a stylesheet
+status: $:/plugins/crosseye/ideas/state/Soon
+tags: Idea
+title: Idea: Multi-select annotations
+type: text/vnd.tiddlywiki
+
+Allow user to multi-select types, periods, or groups on the annotations page, by clicking on them.

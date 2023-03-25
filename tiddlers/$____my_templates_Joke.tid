@@ -1,0 +1,31 @@
+created: 20230325154616103
+list-before: $:/core/ui/ViewTemplate/body
+modified: 20230325154733730
+tags: $:/tags/ViewTemplate
+title: $:/_/my/templates/Joke
+type: text/vnd.tiddlywiki
+
+<$list filter="[<currentTiddler>tag[Joke]]" variable="_">
+<$list filter="[<currentTiddler>has[url]]" variable="_">
+<$list filter="[<currentTiddler>has[image]]" variable="_">
+<$list filter="[<currentTiddler>has[alt-text]]" variable="_">
+<a href={{!!url}} title={{!!alt-text}}><img src={{!!image}} title={{!!alt-text}} class=" tc-image-loaded"></a>
+</$list>
+<$list filter="[<currentTiddler>!has[alt-text]]" variable="_">
+<a href={{!!url}}><img src={{!!image}} class=" tc-image-loaded"></a>
+</$list>
+<br/><br/>
+</$list>
+//Source://  {{!!url}}
+</$list>
+<$list filter="[<currentTiddler>!has[url]]" variable="_">
+<$list filter="[<currentTiddler>has[image]]" variable="_">
+<$list filter="[<currentTiddler>has[alt-text]]" variable="_">
+<img src={{!!image}} title={{!!alt-text}} class=" tc-image-loaded">
+</$list>
+<$list filter="[<currentTiddler>!has[alt-text]]" variable="_">
+<img src={{!!image}} class=" tc-image-loaded">
+</$list>
+</$list>
+</$list>
+</$list>

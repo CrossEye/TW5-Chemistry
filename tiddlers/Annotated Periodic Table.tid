@@ -1,5 +1,5 @@
 created: 20230322015951996
-modified: 20230324154754808
+modified: 20230325162720148
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 <div class="type-annotation">
 <$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
 <$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
-<a href="#" class={{{ [[focus]] [<slug>addprefix[focus-type-]] +[join[ ]] }}}> <span class=<<slug>>>&nbsp; <<name>> &nbsp;</span></a>
+<a href="javascript:void(0)" class={{{ [[focus]] [<slug>addprefix[focus-type-]] +[join[ ]] }}}> <span class=<<slug>>>&nbsp; <<name>> &nbsp;</span></a>
 </$set>
 </$list>
 </div>
@@ -34,7 +34,7 @@ table.periodic:has(.focus-type-<<slug>>:hover) .element:not(.<<slug>>) {opacity:
 <div class="period-annotation">
   <a class="header"><b>Period</b></a>
 <$list filter=[range[1],[7]] variable="idx">
-  <a href="#" class={{{ focus [<idx>addprefix[focus-period-]] +[join[ ]] }}} ><<idx>></a>
+  <a href="javascript:void(0)" class={{{ focus [<idx>addprefix[focus-period-]] +[join[ ]] }}} ><<idx>></a>
 </$list>
 </div>
 <style>
@@ -55,7 +55,7 @@ table.periodic:has(.focus-period-<<idx>>:hover) .element:not(.period-<<idx>>) {o
 <div class="group-annotation">
 <a class="header"><b>Group</b></a>
 <$list filter=[range[1],[18]] variable="idx">
-<a href="#" class={{{ focus[<idx>addprefix[focus-group-]] +[join[ ]] }}} ><<idx>></a>
+<a href="javascript:void(0)" class={{{ focus[<idx>addprefix[focus-group-]] +[join[ ]] }}} ><<idx>></a>
 </$list>
 </div>
 <style>
