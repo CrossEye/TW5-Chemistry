@@ -1,7 +1,8 @@
 created: 20230320002403959
-modified: 20230321012432457
+list: [[Plain Periodic Table]] [[Annotated Periodic Table]] [[Silly Table]]
+modified: 20230324152205855
 tags: TableOfContents
 title: Periodic Table
 type: text/vnd.tiddlywiki
 
-<<periodic-table>>
+{{Plain Periodic Table}}

@@ -1,46 +1,23 @@
 created: 20230322015951996
-modified: 20230324032346100
+modified: 20230324154754808
 tags: [[Periodic Table]]
 title: Annotated Periodic Table
 type: text/vnd.tiddlywiki
 
-\define focus-type2()
+\define focus-type()
 <div class="type-annotation">
 <$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
 <$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
-<a href="#" class={{{ [[focus]] [<slug>]  [<slug>addprefix[focus-type-]] +[join[ ]] }}}> &nbsp; <<name>> &nbsp;</a>
+<a href="#" class={{{ [[focus]] [<slug>addprefix[focus-type-]] +[join[ ]] }}}> <span class=<<slug>>>&nbsp; <<name>> &nbsp;</span></a>
 </$set>
 </$list>
 </div>
 
 <style>
 table.periodic .type-annotation {margin-left: 13cqw; margin-top: 5cqw; width: 75cqw; height: 30cqw; font-size: 2.5cqw; display: grid; grid-template-columns: 9% 9% 9% 9% 9% 9% 9% 9% 9% 9% 9%; }
-table.periodic .type-annotation a { writing-mode: vertical-rl; transform: rotate(180deg); padding: .3cqw; font-weight: bold; color: #666; display: inline-block; border: .1cqw solid transparent; margin: 0;}
-table.periodic .type-annotation a:hover { border-color: black}
-table.periodic:has(.type-annotation .focus:hover) .period-annotation {opacity: .25}
-table.periodic:has(.type-annotation .focus:hover) .group-annotation {opacity: .25}
-<$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
-<$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
-table.periodic:has(.focus-type-<<slug>>:hover) .element:not(.<<slug>>) {opacity: .25}
-</$set>
-</$list>
-</style>
-\end
-
-
-\define focus-type()
-<div class="type-annotation">
-<$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
-<$set name="slug" value={{{ [<name>lowercase[]] +[search-replace:g[ ],[-]] }}}>
-<a href="#" class={{{ [[focus]] [<slug>]  [<slug>addprefix[focus-type-]] +[join[ ]] }}}> &nbsp; <<name>> &nbsp;</a>
-</$set>
-</$list>
-</div>
-
-<style>
-table.periodic .type-annotation {margin-left: 15cqw;}
-table.periodic .type-annotation a { writing-mode: vertical-rl; transform: rotate(180deg); padding: .5cqw; font-weight: bold; color: #666; display: inline-block; border: .2cqw solid transparent; margin: 0;/}
-table.periodic .type-annotation a:hover { border-color: black}
+table.periodic .type-annotation a{ writing-mode: vertical-rl; transform: rotate(180deg); padding: .3cqw; font-weight: bold; color: #666; display: inline-block; margin: 0; }
+table.periodic .type-annotation a span {display: inline-block; width: 100%; border: .1cqw solid transparent; }
+table.periodic .type-annotation a:hover span {border-color: black}
 table.periodic:has(.type-annotation .focus:hover) .period-annotation {opacity: .25}
 table.periodic:has(.type-annotation .focus:hover) .group-annotation {opacity: .25}
 <$list filter="[all[tiddlers+shadows]tag[Element Type]]" variable="name">
@@ -95,4 +72,4 @@ table.periodic:has(.focus-group-<<idx>>:hover) .element:not(.group-<<idx>>) {opa
 \end
 
 
-<<periodic-table north:"focus-type2" southeast:"focus-period" southwest:"focus-group">>
+<<periodic-table north:"focus-type" southeast:"focus-period" southwest:"focus-group">>
