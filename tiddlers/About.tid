@@ -1,10 +1,10 @@
-caption: About (version 0.7.8)
+caption: About (version 0.7.8+)
 created: 20230326150914405
 modified: 20230326151956109
 tags: TableOfContents TODO
 title: About
 type: text/vnd.tiddlywiki
-version: 0.7.8
+version: 0.7.8+
 
 @@font-size:150%;Chemistry Wiki@@, version {{!!version}}
 
