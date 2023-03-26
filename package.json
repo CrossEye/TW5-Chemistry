@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "pkg": "cross-var echo Package $npm_package_version",
-    "build": "node scripts/updateVersion latest && tiddlywiki . --output docs/latest --build index",
-    "release": "node scripts/updateVersion $npm_package_version && tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
+    "build": "cross-var node scripts/updateVersion latest && tiddlywiki . --output docs/latest --build index",
+    "release": "cross-var node scripts/updateVersion $npm_package_version && tiddlywiki . --output docs --build index && cross-var shx mkdir -p docs/$npm_package_version && cross-var shx cp docs/index.html docs/$npm_package_version/index.html",
     "start": "tiddlywiki . --listen port=8600"
   },
   "repository": {
