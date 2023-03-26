@@ -1,0 +1,9 @@
+created: 20230326160820514
+modified: 20230326161032118
+notes: Chief idea is showing something like serial annotations hovering, but without the hover controls.
+status: $:/plugins/crosseye/ideas/state/Likely
+tags: Idea
+title: Idea: Add splash screen
+type: text/vnd.tiddlywiki
+
+The loading is not horrible, but a splash screen would still be appropriate.
