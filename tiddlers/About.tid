@@ -1,0 +1,11 @@
+caption: About (version $npm_package_version)
+created: 20230326150914405
+modified: 20230326151956109
+tags: TableOfContents TODO
+title: About
+type: text/vnd.tiddlywiki
+version: $npm_package_version
+
+@@font-size:150%;Chemistry Wiki@@, version {{!!version}}
+
+TODO: Describe project, include shout-outs to all the great help on talk.tiddlywiki.org, offer links to focused behavior, explain basics of TW.
