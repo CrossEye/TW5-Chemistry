@@ -1,11 +1,36 @@
 caption: About (version 0.7.8+)
 created: 20230326150914405
-modified: 20230326151956109
+modified: 20230327013846707
 tags: TableOfContents TODO
 title: About
 type: text/vnd.tiddlywiki
 version: 0.7.8+
 
-@@font-size:150%;Chemistry Wiki@@, version {{!!version}}
+This wiki collects interactive versions of the Periodic Table to help learn about Chemistry, take notes, play games, and impress your friends.
 
-TODO: Describe project, include shout-outs to all the great help on talk.tiddlywiki.org, offer links to focused behavior, explain basics of TW.
+Some places you might want to visit:
+
+  * The main [[Periodic Table]], in its classic format, with links to all the elements
+  * The [[Annotated Periodic Table]], which lets you quickly visualize the periods, groups, and types of the elements
+  * The [[Reactor]], where you can see what compounds you can make with various elements
+  * The complete [[list of Elements|Chemical Element]]
+  * The list of [[Element Types|Element Type|]]
+  * [[Properties|Element Properties]] of the elements
+  * A small collection of Periodic Table [[Jokes]]
+
+!! History
+
+Originally intended just as a simple demonstration of the power of [[TiddlyWiki]], the author was encouraged to turn this into a tool for Chemistry students and other interested in the periodic table.  This has slowly grown into what you have now.
+
+!! Credits
+
+The primary author of this is [[Scott Sauyet]].  Eventually we will add a [[Credits]] page to celebrate the many people who have helped.
+
+!! Technology
+
+{{TiddlyWiki}}
+
+!! Version
+
+{{!!version}}
+

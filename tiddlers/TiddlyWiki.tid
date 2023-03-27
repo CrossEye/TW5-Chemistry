@@ -1,0 +1,23 @@
+created: 20230326225204422
+modified: 20230327013956704
+tags: 
+title: TiddlyWiki
+type: text/vnd.tiddlywiki
+
+<div style="float: right; margin-left: .5em; width: 6em; height: 8em;">
+<div class="tile">
+<div class="element lanthanide">
+  <div class="number">42</div>
+  <div class="mass">100</div>
+  <div class="symbol">Tw</div>
+  <div class="name">TiddlyWiki</div>
+</div>
+</div>
+</div>
+
+This page is built atop [[TiddlyWiki|https://tiddlywiki.com/]], which is described as "a unique [[non-linear|https://tiddlywiki.com/#Philosophy%20of%20Tiddlers]] notebook for [[capturing|https://tiddlywiki.com/#Creating%20and%20editing%20tiddlers]], [[organising|https://tiddlywiki.com/#Structuring%20TiddlyWiki]] 
+and [[sharing|https://tiddlywiki.com/#Sharing%20your%20tiddlers%20with%20others]] complex information."
+
+It is a single-page wiki, a user-defined database, a note-taking tool, and much more.  It seems a good fit to capture the Periodic Table and general Chemistry information.
+
+Everything is editable.  Users can add [[Notes]] to [[Elements|Chemical Element]], create new [[Element Properties]] they want to track, add their own [[Jokes]], compose their own [[Games]] and reorganize the entire view if they choose.
