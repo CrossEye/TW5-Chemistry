@@ -1,18 +1,16 @@
 created: 20230320002338506
-modified: 20230322184918213
+modified: 20230403005055607
 tags: $:/tags/Macro
 title: $:/_/my/macros/table
 type: text/vnd.tiddlywiki
 
 \define complete-tile-link()
 <$list filter="[<currentTiddler>is[shadow]]" variable="_">
-<$set name="className" filter="[<currentTiddler>get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
 <$link to=<<currentTiddler>> >
 <div class="tile">
-<$macrocall $name="tile" className=<<className>> />
+<$macrocall $name="tile" />
 </div>
 </$link>
-</$set>
 </$list>
 \end
 

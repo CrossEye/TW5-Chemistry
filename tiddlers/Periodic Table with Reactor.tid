@@ -1,0 +1,9 @@
+created: 20230402005719690
+modified: 20230408231253940
+tags: [[Periodic Table]]
+title: Periodic Table with Reactor
+type: text/vnd.tiddlywiki
+
+\define reactor() {{Reactor}}
+
+<<periodic-table north:"reactor">>

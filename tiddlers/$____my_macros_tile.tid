@@ -1,10 +1,11 @@
 created: 20230227003859199
-modified: 20230322184913814
+modified: 20230403004840692
 tags: $:/tags/Macro
 title: $:/_/my/macros/tile
 type: text/vnd.tiddlywiki
 
-\define tile(className)
+\define tile()
+<$set name="className" filter="[all[current]get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
 <div class={{{ [[element]] [<className>] [<currentTiddler>get[period]addprefix[period-]] [<currentTiddler>get[group]addprefix[group-]] +[join[ ]] }}}>
   <div class="number">{{!!atomic-number}}</div>
   <div class="mass"><$text text={{{ [<currentTiddler>get[atomic-mass]round[]] }}} /></div>
@@ -12,3 +13,4 @@ type: text/vnd.tiddlywiki
   <div class="name">{{!!element}}</div>
 </div>
 \end
+</$set>

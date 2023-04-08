@@ -1,8 +1,10 @@
-const names = require ('./../RawData/compoundNames.json')
+const names = require ('../RawData/compoundNames.json')
 const parseCompound = require ('./../scripts/parseCompound')
 
 const main = (names) =>
-  Promise .all (Object .entries (names) .map (([k, v]) => parseCompound (v)))
+ // console .log (names)
+ // names .forEach (console .log) && Promise.resolve ('done')
+   Promise .all (Object .entries (names) .map (([k, v]) => parseCompound (v)))
     // .then (console .log)
     
 

@@ -6,7 +6,6 @@ const parse = (name) =>
     .then (cheerio .load)
     .then (getProps)
     .then (o => ({name, ...o}))
-    .catch
 
 
 const getProps = ((props) => ($, cells = [ ... $('.infobox td')]) => {
@@ -24,15 +23,19 @@ const getProps = ((props) => ($, cells = [ ... $('.infobox td')]) => {
 
 const getProp = ($, cells, keys) => {
   const idx = cells .findIndex (td => keys .includes ($(td) .text() .trim()))
-  return idx > -1 ? $(cells [ idx + 1]) .text() .trim() : undefined
+  if (idx < 0) {return undefined}
+  cell = $(cells [ idx + 1])
+  // cell('span') .forEach (s => s .remove())
+  return cell .text() .trim()
 }
 
 module .exports = parse
 
 
-/*
-parse ('Adenosine triphosphate')
+///*
+// parse ('Adenosine triphosphate')
+parse ('Acetic Acid')
   .then (console .log)
   .catch (console .warn)
-*/
+//*/
 

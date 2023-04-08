@@ -1,6 +1,6 @@
 created: 20230301195850693
-elements: Carbon Oxygen Hydrogen
-modified: 20230326225712969
+elements: Hydrogen Oxygen
+modified: 20230408231115346
 tags: 
 title: Reactor
 type: text/vnd.tiddlywiki
@@ -13,11 +13,11 @@ type: text/vnd.tiddlywiki
 
 <$droppable actions=<<drop-actions>>>
 Drop elements in there to make molecules :
-<div style="border: 1px solid #ccc; min-height: 10em; min-width: 20em;">
+<div class="reactor" style="">
 <p>
 <$list filter="[list[!!elements]]">
-<div class="tile" style="display:inline-flex;width: 6em; height: 8em;">
-<$macrocall $name="tile" className={{{ [{!!element-type}lowercase[]] +[search-replace:g[ ],[-]] }}} />
+<div class="tile">
+<$macrocall $name="tile" />
 </div>
 </$list>
 </p>
@@ -27,9 +27,20 @@ Drop elements in there to make molecules :
 With this, you can create..
 
 <p>
-<$list filter="[list[!!elements]get[symbol]join[ ]]:map[[molecule]tagging[]search:formula{!!title}]">
+<$list filter="[list[!!elements]get[symbol]join[ ]]:map[[Compound]tagging[]search:formula{!!title}]">
 {{!!title}} ({{!!formula}})
 </$list>
 </p>
 
 </$droppable>
+
+<style>
+div.reactor {
+  border: 1px solid #ccc; 
+  min-height: 10em; 
+  min-width: 20em;
+}
+div.reactor div.tile {
+  display:inline-block; 
+}
+</style>
