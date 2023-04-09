@@ -1,9 +1,35 @@
 created: 20230402005719690
-modified: 20230408231253940
+modified: 20230409000114898
 tags: [[Periodic Table]]
 title: Periodic Table with Reactor
 type: text/vnd.tiddlywiki
 
 \define reactor() {{Reactor}}
 
-<<periodic-table north:"reactor">>
+\define instructions()
+<div class="instructions">🠄 Drag elements to the box to make compounds.  Double-click to remove.</div>
+
+<style>
+.instructions {
+    width: 100cqw;
+    height: 26cqw;
+    font-size: 6cqw;
+    line-height: 1;
+    padding: 3cqw 1cqw 0;
+    animation: fadeoutBg 2s; 
+}
+
+@keyframes fadeoutBg {
+    from {background-color: #ff6;}
+    to { background-color: white; }
+}
+</style>
+
+\end
+
+\define react()
+{{Reactioner}}
+</style>
+\end
+
+<<periodic-table northeast:"instructions" north:"reactor">>

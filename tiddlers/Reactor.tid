@@ -1,6 +1,6 @@
 created: 20230301195850693
-elements: Hydrogen Oxygen
-modified: 20230408231115346
+elements: Hydrogen Oxygen Carbon Copper
+modified: 20230409000548511
 tags: 
 title: Reactor
 type: text/vnd.tiddlywiki
@@ -12,15 +12,12 @@ type: text/vnd.tiddlywiki
 \end
 
 <$droppable actions=<<drop-actions>>>
-Drop elements in there to make molecules :
 <div class="reactor" style="">
-<p>
 <$list filter="[list[!!elements]]">
 <div class="tile">
 <$macrocall $name="tile" />
 </div>
 </$list>
-</p>
 </div>
 
 
@@ -36,9 +33,10 @@ With this, you can create..
 
 <style>
 div.reactor {
-  border: 1px solid #ccc; 
-  min-height: 10em; 
-  min-width: 20em;
+  border: .1cqw solid #ccc; 
+  padding: .5cqw;
+  height: 38cqw;
+  width: 100cqw;
 }
 div.reactor div.tile {
   display:inline-block; 
