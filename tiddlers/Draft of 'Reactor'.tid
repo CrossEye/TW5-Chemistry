@@ -1,14 +1,20 @@
 created: 20230301195850693
+draft.of: Reactor
+draft.title: Reactor
 elements: Hydrogen Oxygen Carbon
-modified: 20230409010808674
+modified: 20230409011148430
 tags: 
-title: Reactor
+title: Draft of 'Reactor'
 type: text/vnd.tiddlywiki
 
 \define drop-actions() 
 <$list filter="[<actionTiddler>has[element]has[atomic-mass]]" variable="element">
 <$action-listops $field="elements" $subfilter="[<element>]"/>
 </$list>
+\end
+
+\define remove-element()
+<$action-listops $field="elements" $subfilter="-[<element>]"/>
 \end
 
 <$droppable actions=<<drop-actions>>>
