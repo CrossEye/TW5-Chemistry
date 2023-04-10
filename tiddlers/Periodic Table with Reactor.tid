@@ -1,5 +1,5 @@
 created: 20230402005719690
-modified: 20230409004341044
+modified: 20230409024141633
 tags: [[Periodic Table]]
 title: Periodic Table with Reactor
 type: text/vnd.tiddlywiki
@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 \define reactor() {{Reactor}}
 
 \define instructions()
-<div class="instructions">🠄 Drag elements to the box to make compounds.  Double-click to remove.</div>
+<div class="instructions">🠄 Drag elements to the box to make compounds.  Click to remove.</div>
 
 <style>
 .instructions {

@@ -1,6 +1,6 @@
 created: 20230301195850693
-elements: Hydrogen Oxygen Carbon
-modified: 20230409010808674
+elements: Hydrogen Oxygen
+modified: 20230410002448961
 tags: 
 title: Reactor
 type: text/vnd.tiddlywiki
@@ -9,6 +9,10 @@ type: text/vnd.tiddlywiki
 <$list filter="[<actionTiddler>has[element]has[atomic-mass]]" variable="element">
 <$action-listops $field="elements" $subfilter="[<element>]"/>
 </$list>
+\end
+
+\define remove-element()
+<$action-listops $field="elements" $subfilter="-[<element>]"/>
 \end
 
 <$droppable actions=<<drop-actions>>>
@@ -22,10 +26,14 @@ With this, you can create...
 </ul>
 </div>
 <div class="elements">
-<$list filter="[list[!!elements]]">
+<$list filter="[list[!!elements]]" variable="element">
+<$button tag="div" class="button" actions=<<remove-element>>>
+<$tiddler tiddler=<<element>>>
 <div class="tile">
-<$macrocall $name="tile" />
+<$macrocall $name="tile" className={{{ [{!!elementtype}lowercase[]search-replace[ ],[-]]  }}} />
 </div>
+</$tiddler>
+</$button>
 </$list>
 </div>
 </div>
@@ -67,6 +75,7 @@ div.reactor div.results ul {
 table.periodic div.reactor div.tile {
   height: 12cqw;
   width: 9cqw;
+  cursor: not-allowed;
 }
 
 </style>
