@@ -1,5 +1,5 @@
 created: 20230402005719690
-modified: 20230410004550344
+modified: 20230410025416370
 tags: [[Periodic Table]]
 title: Periodic Table with Reactor
 type: text/vnd.tiddlywiki
@@ -16,11 +16,15 @@ type: text/vnd.tiddlywiki
     font-size: 6cqw;
     line-height: 1;
     padding: 3cqw 1cqw 0;
-    animation: fadeoutBg 2s; 
+    animation: fadeoutBg 4s; 
 }
 
 @keyframes fadeoutBg {
     from {background-color: #ff6;}
+    20% { background-color: white; }
+    40% {background-color: #ff6;}
+    60% { background-color: white; }
+    80% {background-color: #ff6;}
     to { background-color: white; }
 }
 </style>

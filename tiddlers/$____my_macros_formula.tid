@@ -1,0 +1,12 @@
+created: 20230410021802175
+modified: 20230410025359661
+tags: $:/tags/Macro
+title: $:/_/my/macros/formula
+type: text/vnd.tiddlywiki
+
+\define formula(form)
+<$text text=[[H2O]search-replace:g:regexp<\d+>,[<sub>!&</sub>]] />
+\end
+
+* Water: <<formula "H2O">>
+* Aspirin: <<formula "C9H8O4">>
