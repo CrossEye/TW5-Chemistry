@@ -1,8 +1,10 @@
 created: 20230301195850693
+draft.of: Reactor
+draft.title: Reactor
 elements: Oxygen Carbon Hydrogen
-modified: 20230410004506546
+modified: 20230410004613674
 tags: 
-title: Reactor
+title: Draft of 'Reactor'
 type: text/vnd.tiddlywiki
 
 \define drop-actions() 
@@ -19,13 +21,7 @@ type: text/vnd.tiddlywiki
 <div class="reactor" style="">
 <div class="results">
 With this, you can create...
-<!---
-<ul>
-<$list filter="[list[!!elements]get[symbol]join[ ]]:map[[Compound]tagging[]search:formula{!!title}]">
-<li>{{!!title}} ({{!!formula}})</li>
-</$list>
-</ul>
--->
+
 <$let 
 elements={{{ [list[!!elements]get[symbol]join[ ]] }}}
 element="([A-Z][a-z]?)"
