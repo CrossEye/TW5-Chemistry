@@ -1,6 +1,6 @@
 created: 20230301195850693
-elements: Carbon Oxygen Hydrogen
-modified: 20230410025435314
+elements: 
+modified: 20230410031032289
 tags: 
 title: Reactor
 type: text/vnd.tiddlywiki
@@ -68,7 +68,7 @@ div.reactor {
   height: 38cqw;
   width: 100cqw;
 }
-div.reactor div.tile {
+div.reactor div.button {
   display:inline-block; 
 }
 div.reactor div.elements, div.reactor div.results {
