@@ -1,14 +1,23 @@
 const cheerio = require ('cheerio')
 
 const parse = (name) =>
-  fetch (`https://en.wikipedia.org/wiki/${name .trim () .replace (/\s/g, '_')}`)
+  import ('node-fetch')  
+    // .then (({default: fetch}) => fetch (`https://en.wikipedia.org/wiki/${name .trim () .replace (/\s/g, '_')}`))
+    .then (({default: fetch}) => fetch (wpLink (name)))
     .then (r => r .text())
     .then (cheerio .load)
     .then (getProps)
-    .then (o => ({name, ...o}))
+    .then (o => ({'common-name': name, ...o}))
+
+const wpLink = (s, t = s.trim()) => {
+  const url = `https://en.wikipedia.org/wiki/${t .replace (/\s([A-Z])/g, (_, c) => `_${c .toLowerCase ()}`)}`
+  // console .log (`Fetching "${url}"`)
+  return url
+}
+  
 
 
-const getProps = ((props) => ($, cells = [ ... $('.infobox td')]) => {
+const getProps = ((props) => ($, cells = [ ... $('.infobox td'), ...$('.infobox th')]) => {
   return Object .fromEntries (Object .entries (props) .flatMap (([k, vs]) => {
     const res = getProp ($, cells, vs)
     return res ? [[k, res]] : []
@@ -24,18 +33,17 @@ const getProps = ((props) => ($, cells = [ ... $('.infobox td')]) => {
 const getProp = ($, cells, keys) => {
   const idx = cells .findIndex (td => keys .includes ($(td) .text() .trim()))
   if (idx < 0) {return undefined}
-  cell = $(cells [ idx + 1])
-  // cell('span') .forEach (s => s .remove())
-  return cell .text() .trim()
+  [...$(cells [idx + 1]).find('style')].forEach(c => $(c).remove())
+  return $(cells [idx + 1]) .text() .trim() .replaceAll('\u00A0', ' ') .replaceAll('−', '-') // That's a Unicode minus sign.  Don't know why `\u8722` doesn't work.
 }
 
 module .exports = parse
 
 
-///*
-// parse ('Adenosine triphosphate')
-parse ('Acetic Acid')
+/*
+//parse ('Adenosine triphosphate')
+parse ('Caffeine')
   .then (console .log)
   .catch (console .warn)
-//*/
+*/
 

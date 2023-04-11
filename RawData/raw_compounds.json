@@ -1,0 +1,846 @@
+[
+    {
+        "chemical-name": "Acetic Acid",
+        "compound-name": "Acetic Acid",
+        "boiling-point": "118 to 119 °C; 244 to 246 °F; 391 to 392 K",
+        "density": "1.049 g/cm3 (liquid); 1.27 g/cm3 (solid)",
+        "formula": "CH3COOH",
+        "melting-point": "16 to 17 °C; 61 to 62 °F; 289 to 290 K",
+        "molar-mass": "60.052 g·mol-1"
+    },
+    {
+        "chemical-name": "Acetone",
+        "compound-name": "Acetone",
+        "boiling-point": "56.08 °C (132.94 °F; 329.23 K)[10]",
+        "density": "0.7845 g/cm3 (25 °C)[10]",
+        "formula": "C3H6O",
+        "melting-point": "-94.9 °C (-138.8 °F; 178.2 K)[10]",
+        "molar-mass": "58.080 g·mol-1"
+    },
+    {
+        "chemical-name": "Acetylene",
+        "compound-name": "Acetylene",
+        "boiling-point": "",
+        "density": "1.1772 g/L = 1.1772 kg/m3 (0 °C, 101.3 kPa)[3]",
+        "formula": "C2H2",
+        "melting-point": "-80.8 °C (-113.4 °F; 192.3 K) Triple point at 1.27 atm",
+        "molar-mass": "26.038 g·mol-1"
+    },
+    {
+        "chemical-name": "Adenine",
+        "compound-name": "Adenine",
+        "boiling-point": "",
+        "density": "1.6 g/cm3 (calculated)",
+        "formula": "C5H5N5",
+        "melting-point": "360 to 365 °C (680 to 689 °F; 633 to 638 K) decomposes",
+        "molar-mass": "135.13 g/mol"
+    },
+    {
+        "chemical-name": "Adipic Acid",
+        "compound-name": "Adipic Acid",
+        "boiling-point": "337.5 °C (639.5 °F; 610.6 K)",
+        "density": "1.360 g/cm3",
+        "formula": "C6H10O4",
+        "melting-point": "152.1 °C (305.8 °F; 425.2 K)",
+        "molar-mass": "146.142 g·mol-1"
+    },
+    {
+        "chemical-name": "Aluminium oxide",
+        "compound-name": "Aluminium oxide",
+        "boiling-point": "2,977 °C (5,391 °F; 3,250 K)[4]",
+        "density": "3.987 g/cm3",
+        "formula": "Al2O3",
+        "melting-point": "2,072 °C (3,762 °F; 2,345 K)[3]",
+        "molar-mass": "101.960 g·mol-1"
+    },
+    {
+        "chemical-name": "Ammonia",
+        "compound-name": "Ammonia",
+        "boiling-point": "-33.34 °C (-28.01 °F; 239.81 K)",
+        "density": "0.86 kg/m3 (1.013 bar at boiling point)0.769 kg/m3 (STP)[2]0.73 kg/m3 (1.013 bar at 15 °C)0.6819 g/cm3 at -33.3 °C (liquid)[3] See also Ammonia (data page)0.817 g/cm3 at -80 °C (transparent solid)[4]",
+        "formula": "NH3",
+        "melting-point": "-77.73 °C (-107.91 °F; 195.42 K) (Triple point at 6.060 kPa, 195.4 K)",
+        "molar-mass": "17.031 g·mol-1"
+    },
+    {
+        "chemical-name": "Ascorbic Acid",
+        "compound-name": "Vitamin C",
+        "boiling-point": "552.7 °C (1,026.9 °F)",
+        "density": "1.694 g/cm3",
+        "formula": "C6H8O6",
+        "melting-point": "190 to 192 °C (374 to 378 °F) (some decomposition)",
+        "molar-mass": "176.124 g·mol−1"
+    },
+    {
+        "chemical-name": "Aspartame",
+        "compound-name": "Aspartame",
+        "boiling-point": "Decomposes",
+        "density": "1.347 g/cm3",
+        "formula": "C14H18N2O5",
+        "melting-point": "246.5 °C (475.7 °F; 519.6 K)[3]",
+        "molar-mass": "294.307 g·mol-1"
+    },
+    {
+        "chemical-name": "Acetylsalicylic Acid",
+        "compound-name": "Aspirin",
+        "boiling-point": "140 °C (284 °F) (decomposes)",
+        "density": "1.40 g/cm3",
+        "formula": "C9H8O4",
+        "melting-point": "136 °C (277 °F) ",
+        "molar-mass": "180.159 g·mol−1"
+    },
+    {
+        "chemical-name": "Adenosine Triphosphate",
+        "compound-name": "ATP",
+        "boiling-point": "",
+        "density": "1.04 g/cm3 (disodium salt)",
+        "formula": "C10H16N5O13P3",
+        "melting-point": "187 °C (369 °F; 460 K) disodium salt; decomposes",
+        "molar-mass": "507.18 g/mol"
+    },
+    {
+        "chemical-name": "Benzene",
+        "compound-name": "Benzene",
+        "boiling-point": "80.1 °C (176.2 °F; 353.2 K)",
+        "density": "0.8765(20) g/cm3[2]",
+        "formula": "C6H6",
+        "melting-point": "5.53 °C (41.95 °F; 278.68 K)",
+        "molar-mass": "78.114 g·mol-1"
+    },
+    {
+        "chemical-name": "Benzoic Acid",
+        "compound-name": "Benzoic Acid",
+        "boiling-point": "250 °C (482 °F; 523 K)[7]",
+        "density": "1.2659 g/cm3 (15 °C) 1.0749 g/cm3 (130 °C)[2]",
+        "formula": "C7H6O2",
+        "melting-point": "122 °C (252 °F; 395 K)[7]",
+        "molar-mass": "122.123 g/mol"
+    },
+    {
+        "chemical-name": "Biphenyl",
+        "compound-name": "Biphenyl",
+        "boiling-point": "255 °C (491 °F; 528 K)",
+        "density": "1.04 g/cm",
+        "formula": "C12H10",
+        "melting-point": "69.2 °C (156.6 °F; 342.3 K)",
+        "molar-mass": "154.212 g·mol−1"
+    },
+    {
+        "chemical-name": "Butane",
+        "compound-name": "Butane",
+        "boiling-point": "-1 to 1 °C; 30 to 34 °F; 272 to 274 K",
+        "density": "2.48 kg/m3 (at 15 °C (59 °F))",
+        "formula": "C4H10",
+        "melting-point": "-140 to -134 °C; -220 to -209 °F; 133 to 139 K",
+        "molar-mass": "58.124 g·mol-1"
+    },
+    {
+        "chemical-name": "1-Butene",
+        "compound-name": "1-Butene",
+        "boiling-point": "−6.47 °C (20.35 °F; 266.68 K)",
+        "density": "0.62 g/cm3",
+        "formula": "C4H8",
+        "melting-point": "−185.3 °C (−301.5 °F; 87.8 K)",
+        "molar-mass": "56.108 g·mol−1"
+    },
+    {
+        "chemical-name": "Butyric Acid",
+        "compound-name": "Butyric Acid",
+        "boiling-point": "163.75 °C (326.75 °F; 436.90 K)[3]",
+        "density": "1.135 g/cm3 (-43 °C)[2] 0.9528 g/cm3 (25 °C)[3]",
+        "formula": "C3H7COOH",
+        "melting-point": "-5.1 °C (22.8 °F; 268.0 K)[3]",
+        "molar-mass": "88.106 g·mol-1"
+    },
+    {
+        "chemical-name": "Caffeine",
+        "compound-name": "Caffeine",
+        "boiling-point": "178 °C (sublimes)",
+        "density": "1.23 g/cm3",
+        "formula": "C8H10N4O2",
+        "melting-point": "235 to 238 °C (455 to 460 °F) (anhydrous)",
+        "molar-mass": "194.194 g·mol−1"
+    },
+    {
+        "chemical-name": "Calcium Carbonate",
+        "compound-name": "Calcium Carbonate",
+        "boiling-point": "decomposes",
+        "density": "2.711 g/cm3 (calcite)2.83 g/cm3 (aragonite)",
+        "formula": "CaCO3",
+        "melting-point": "1,339 °C (2,442 °F; 1,612 K) (calcite)  825 °C (1,517 °F; 1,098 K) (aragonite)[4][5]",
+        "molar-mass": "100.0869 g/mol"
+    },
+    {
+        "chemical-name": "Carbon Dioxide",
+        "compound-name": "Carbon Dioxide",
+        "boiling-point": "178 °C (sublimes)",
+        "density": "1562 kg/m3 (solid at 1 atm (100 kPa) and -78.5 °C (-109.3 °F))\n1101 kg/m3 (liquid at saturation -37 °C (-35 °F))\n1.977 kg/m3 (gas at 1 atm (100 kPa) and 0 °C (32 °F))",
+        "formula": "CO2",
+        "melting-point": "",
+        "molar-mass": "44.009 g·mol-1"
+    },
+    {
+        "chemical-name": "Carbon Monoxide",
+        "compound-name": "Carbon Monoxide",
+        "boiling-point": "-191.5 °C (-312.7 °F; 81.6 K)",
+        "density": "789 kg/m3, liquid1.250 kg/m3 at 0 °C, 1 atm1.145 kg/m3 at 25 °C, 1 atm",
+        "formula": "CO",
+        "melting-point": "-205.02 °C (-337.04 °F; 68.13 K)",
+        "molar-mass": "28.010 g/mol"
+    },
+    {
+        "chemical-name": "Dichlorodifluoromethane",
+        "compound-name": "Freon-12",
+        "boiling-point": "−29.8 °C (−21.6 °F; 243.3 K)",
+        "density": "1.486 g/cm3 (−29.8 °C (−21.6 °F))",
+        "formula": "CCl2F2",
+        "melting-point": "",
+        "molar-mass": "120.91 g·mol−1"
+    },
+    {
+        "chemical-name": "Chloroform",
+        "compound-name": "Chloroform",
+        "boiling-point": "61.15 °C (142.07 °F; 334.30 K)  decomposes at 450 °C",
+        "density": "1.564 g/cm3 (-20 °C) 1.489 g/cm3 (25 °C) 1.394 g/cm3 (60 °C)",
+        "formula": "CHCl3",
+        "melting-point": "-63.5 °C (-82.3 °F; 209.7 K)",
+        "molar-mass": "119.37 g·mol-1"
+    },
+    {
+        "chemical-name": "Chlorophyll a",
+        "compound-name": "Chlorophyll a",
+        "boiling-point": "",
+        "density": "1.079 g/cm3",
+        "formula": "C55H72MgN4O5",
+        "melting-point": "~ 152.3 °C (306.1 °F; 425.4 K) decomposes",
+        "molar-mass": "893.509 g·mol−1"
+    },
+    {
+        "chemical-name": "Cholesterol",
+        "compound-name": "Cholesterol",
+        "boiling-point": "360 °C (680 °F; 633 K) (decomposes)",
+        "density": "1.052 g/cm3",
+        "formula": "C27H46O",
+        "melting-point": "148 to 150 °C (298 to 302 °F; 421 to 423 K)[2]",
+        "molar-mass": "386.65 g/mol"
+    },
+    {
+        "chemical-name": "Citric Acid",
+        "compound-name": "Citric Acid",
+        "boiling-point": "310 °C (590 °F; 583 K) decomposes from 175 °C[3]",
+        "density": "1.665 g/cm3 (anhydrous) 1.542 g/cm3 (18 °C, monohydrate)",
+        "formula": "C6H8O7",
+        "melting-point": "156 °C (313 °F; 429 K)",
+        "molar-mass": "192.123 g/mol (anhydrous), 210.14 g/mol (monohydrate)[2]"
+    },
+    {
+        "chemical-name": "Cocaine",
+        "compound-name": "Cocaine",
+        "boiling-point": "187 °C (369 °F)",
+        "density": "",
+        "formula": "C17H21NO4",
+        "melting-point": "98 °C (208 °F)",
+        "molar-mass": "303.358 g·mol−1"
+    },
+    {
+        "chemical-name": "Cytosine",
+        "compound-name": "Cytosine",
+        "density": "1.55 g/cm3 (calculated)",
+        "formula": "C4H5N3O",
+        "melting-point": "320 to 325 °C (608 to 617 °F; 593 to 598 K) (decomposes)",
+        "molar-mass": "111.10 g/mol"
+    },
+    {
+        "chemical-name": "DDT",
+        "compound-name": "DDT",
+        "boiling-point": "260 °C (500 °F; 533 K) (decomposes)",
+        "density": "0.99 g/cm3",
+        "formula": "C14H9Cl5",
+        "melting-point": "108.5 °C (227.3 °F; 381.6 K)",
+        "molar-mass": "354.48 g·mol-1"
+    },
+    {
+        "chemical-name": "DEET",
+        "compound-name": "DEET",
+        "boiling-point": "288 to 292 °C (550 to 558 °F; 561 to 565 K)",
+        "density": "0.998 g/mL",
+        "formula": "C12H17NO",
+        "melting-point": "-33 °C (-27 °F; 240 K)",
+        "molar-mass": "191.27 g/mol"
+    },
+    {
+        "chemical-name": "Dopamine",
+        "compound-name": "Dopamine",
+        "boiling-point": "",
+        "density": "",
+        "formula": "C8H11NO2",
+        "melting-point": "",
+        "molar-mass": "153.181 g·mol−1"
+    },
+    {
+        "chemical-name": "Ethylenediaminetetraacetic Acid",
+        "compound-name": "EDTA",
+        "density": "0.860 g cm-3 (at 20 °C)",
+        "formula": "C10H16N2O8",
+        "molar-mass": "292.244 g·mol-1"
+    },
+    {
+        "chemical-name": "Epinephrine",
+        "compound-name": "Adrenaline",
+        "boiling-point": "",
+        "density": "1.283±0.06 g/cm3 @ 20 °C, 760 Torr",
+        "formula": "C9H13NO3",
+        "melting-point": "",
+        "molar-mass": "183.207 g·mol−1"
+    },
+    {
+        "chemical-name": "Ethane",
+        "compound-name": "Ethane",
+        "boiling-point": "-88.5 °C; -127.4 °F; 184.6 K",
+        "density": "1.3562 kg/m3 (gas at 0 °C)[3]\n544.0 kg/m3 (liquid at -88,5 °C)\n206 kg/m3 (at critical point 305.322 K)",
+        "formula": "C2H6",
+        "melting-point": "-182.8 °C; -296.9 °F; 90.4 K",
+        "molar-mass": "30.070 g·mol-1"
+    },
+    {
+        "chemical-name": "Ethyl Alcohol",
+        "compound-name": "Ethanol",
+        "boiling-point": "78.23 ± 0.09[3] °C (172.81 ± 0.16 °F; 351.38 ± 0.09 K)",
+        "density": "0.78945 g/cm3 (at 20 °C)[3]",
+        "formula": "C2H6O",
+        "melting-point": "-114.14 ± 0.03[3] °C (-173.45 ± 0.05 °F; 159.01 ± 0.03 K)",
+        "molar-mass": "46.069 g·mol-1"
+    },
+    {
+        "chemical-name": "Ethylene",
+        "compound-name": "Ethene",
+        "boiling-point": "-103.7 °C (-154.7 °F; 169.5 K)",
+        "density": "1.178 kg/m3 at 15 °C, gas[2]",
+        "formula": "C2H4",
+        "melting-point": "-169.2 °C (-272.6 °F; 104.0 K)",
+        "molar-mass": "28.054 g·mol-1"
+    },
+    {
+        "chemical-name": "Diethyl ether",
+        "compound-name": "Ether",
+        "boiling-point": "34.6 °C (94.3 °F; 307.8 K)",
+        "density": "0.7134 g/cm3, liquid",
+        "formula": "(CH3CH2)2O",
+        "melting-point": "−116.3 °C (−177.3 °F; 156.8 K)",
+        "molar-mass": "74.123 g·mol−1"
+    },
+    {
+        "chemical-name": "Fluoxetine",
+        "compound-name": "Prozac",
+        "boiling-point": "395 °C (743 °F)",
+        "density": "",
+        "formula": "C17H18F3NO",
+        "melting-point": "179 to 182 °C (354 to 360 °F)",
+        "molar-mass": "309.332 g·mol−1"
+    },
+    {
+        "chemical-name": "Formaldehyde",
+        "compound-name": "Formaldehyde",
+        "boiling-point": "-19 °C (-2 °F; 254 K)[2]",
+        "density": "0.8153 g/cm3 (-20 °C)[2] (liquid)",
+        "formula": "CH2O",
+        "melting-point": "-92 °C (-134 °F; 181 K)",
+        "molar-mass": "30.026 g·mol-1"
+    },
+    {
+        "chemical-name": "Formic Acid",
+        "compound-name": "Formic Acid",
+        "boiling-point": "100.8 °C (213.4 °F; 373.9 K)",
+        "density": "1.220 g/mL",
+        "formula": "CH2O2",
+        "melting-point": "8.4 °C (47.1 °F; 281.5 K)",
+        "molar-mass": "46.025 g·mol-1"
+    },
+    {
+        "chemical-name": "Glucose",
+        "compound-name": "Glucose",
+        "density": "1.54 g/cm3",
+        "formula": "C6H12O6",
+        "melting-point": "α-d-Glucose: 146 °C (295 °F; 419 K) β-d-Glucose: 150 °C (302 °F; 423 K)",
+        "molar-mass": "180.156 g/mol"
+    },
+    {
+        "chemical-name": "Glycerol",
+        "compound-name": "Glycerin",
+        "boiling-point": "290 °C (554 °F; 563 K)[5]",
+        "density": "1.261 g/cm3",
+        "formula": "C3H8O3",
+        "melting-point": "17.8 °C (64.0 °F; 290.9 K)",
+        "molar-mass": "92.094 g·mol-1"
+    },
+    {
+        "chemical-name": "Guanine",
+        "compound-name": "Guanine",
+        "boiling-point": "Sublimes",
+        "density": "2.200 g/cm3 (calculated)",
+        "formula": "C5H5N5O",
+        "melting-point": "360 °C (680 °F; 633 K) decomposes",
+        "molar-mass": "151.13 g/mol"
+    },
+    {
+        "chemical-name": "Calcium Sulfate",
+        "compound-name": "Gypsum",
+        "boiling-point": "",
+        "density": "96 g/cm3 (anhydrous), 2.32 g/cm3 (dihydrate)",
+        "formula": "CaSO4",
+        "melting-point": "1,460 °C (2,660 °F; 1,730 K) (anhydrous)",
+        "molar-mass": "136.14 g/mol (anhydrous), 145.15 g/mol (hemihydrate), 172.172 g/mol (dihydrate)"
+    },
+    {
+        "chemical-name": "Hydrochloric Acid",
+        "compound-name": "Hydrochloric Acid",
+        "boiling-point": "Concentration-dependent – see table",
+        "density": "",
+        "formula": "HCl",
+        "melting-point": "Concentration-dependent – see table",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Hydrogen Peroxide",
+        "compound-name": "Hydrogen Peroxide",
+        "boiling-point": "150.2 °C (302.4 °F; 423.3 K) (decomposes)",
+        "density": "1.11 g/cm3 (20 °C, 30% (w/w) solution)[1]1.450 g/cm3 (20 °C, pure)",
+        "formula": "H2O2",
+        "melting-point": "-0.43 °C (31.23 °F; 272.72 K)",
+        "molar-mass": "34.0147 g/mol"
+    },
+    {
+        "chemical-name": "Hydrogen Sulfide",
+        "compound-name": "Hydrogen Sulfide",
+        "boiling-point": "-59.55[3] °C (-75.19 °F; 213.60 K)",
+        "density": "1.539 g.L-1 (0°C)[2]",
+        "formula": "H2S",
+        "melting-point": "-85.5[3] °C (-121.9 °F; 187.7 K)",
+        "molar-mass": "34.08 g·mol-1"
+    },
+    {
+        "chemical-name": "Ibuprofen",
+        "compound-name": "Ibuprofen",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Indigo",
+        "compound-name": "Indigo",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Insulin",
+        "compound-name": "Insulin",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "IronIII Oxide",
+        "compound-name": "IronIII Oxide",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Isooctane",
+        "compound-name": "Isooctane",
+        "boiling-point": "99.30 °C; 210.74 °F; 372.45 K",
+        "density": "0.692 g cm-3",
+        "formula": "C8H18",
+        "melting-point": "-107.38 °C; -161.28 °F; 165.77 K",
+        "molar-mass": "114.232 g·mol-1"
+    },
+    {
+        "chemical-name": "Isoprene",
+        "compound-name": "Isoprene",
+        "boiling-point": "34.067 °C (93.321 °F; 307.217 K)",
+        "density": "0.681 g/cm3",
+        "formula": "C5H8",
+        "melting-point": "-143.95 °C (-227.11 °F; 129.20 K)",
+        "molar-mass": "68.12 g/mol"
+    },
+    {
+        "chemical-name": "LDopa",
+        "compound-name": "LDopa",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Calcium Oxide",
+        "compound-name": "Lime",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Methyl Alcohol",
+        "compound-name": "Methanol",
+        "boiling-point": "64.7 °C (148.5 °F; 337.8 K)",
+        "density": "0.792 g/cm3[2]",
+        "formula": "CH3OH or CH4O",
+        "melting-point": "-97.6 °C (-143.7 °F; 175.6 K)",
+        "molar-mass": "32.04 g mol-1"
+    },
+    {
+        "chemical-name": "Monosodium Glutamate",
+        "compound-name": "Monosodium Glutamate",
+        "formula": "C5H8NO4Na",
+        "melting-point": "232 °C (450 °F; 505 K)",
+        "molar-mass": "169.111 g/mol (anhydrous), 187.127 g/mol (monohydrate)"
+    },
+    {
+        "chemical-name": "Morphine",
+        "compound-name": "Morphine",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Naphthalene",
+        "compound-name": "Naphthalene",
+        "boiling-point": "217.97 °C (424.35 °F; 491.12 K)  at 760 mmHg[3][4]",
+        "density": "1.145 g/cm3 (15.5 °C)[3] 1.0253 g/cm3 (20 °C)[4] 0.9625 g/cm3 (100 °C)[3]",
+        "formula": "C10H8",
+        "melting-point": "78.2 °C (172.8 °F; 351.3 K)  80.26 °C (176.47 °F; 353.41 K) at 760 mmHg[4]",
+        "molar-mass": "128.174 g·mol-1"
+    },
+    {
+        "chemical-name": "Nicotine",
+        "compound-name": "Nicotine",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Nitric Acid",
+        "compound-name": "Nitric Acid",
+        "boiling-point": "83 °C (181 °F; 356 K) 68% solution boils at 121 °C (250 °F; 394 K)",
+        "density": "1.51 g/cm3, 1.41 g/cm3 [68% w/w]",
+        "formula": "HNO3",
+        "melting-point": "-42 °C (-44 °F; 231 K)",
+        "molar-mass": "63.012 g·mol-1"
+    },
+    {
+        "chemical-name": "Nitric Oxide",
+        "compound-name": "Nitric Oxide",
+        "boiling-point": "-152 °C (-242 °F; 121 K)",
+        "density": "1.3402 g/L",
+        "formula": "NO",
+        "melting-point": "-164 °C (-263 °F; 109 K)",
+        "molar-mass": "30.006 g·mol-1"
+    },
+    {
+        "chemical-name": "Nitroglycerin",
+        "compound-name": "Nitroglycerin",
+        "boiling-point": "50 °C (122 °F; 323 K) Explodes",
+        "density": "1.6 g⋅cm-3 (at 15 °C)",
+        "formula": "C3H5N3O9",
+        "melting-point": "14 °C (57 °F; 287 K)",
+        "molar-mass": "227.085 g·mol-1"
+    },
+    {
+        "chemical-name": "Norethindrone",
+        "compound-name": "Norethindrone",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Penicillin",
+        "compound-name": "Penicillin",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Phenol",
+        "compound-name": "Phenol",
+        "boiling-point": "181.7 °C (359.1 °F; 454.8 K)",
+        "density": "1.07 g/cm3",
+        "formula": "C6H6O",
+        "melting-point": "40.5 °C (104.9 °F; 313.6 K)",
+        "molar-mass": "94.113 g/mol"
+    },
+    {
+        "chemical-name": "Phosphoric Acid",
+        "compound-name": "Phosphoric Acid",
+        "boiling-point": "212 °C (414 °F)[3](only water evaporates)[4]",
+        "density": "1.6845 g/cm3 (25 °C, 85%),[1] 1.834 g/cm3 (solid)[2]",
+        "formula": "H3PO4",
+        "melting-point": "42.35 °C (108.23 °F; 315.50 K) anhydrous[12]29.32 °C (84.78 °F; 302.47 K) hemihydrate[13]",
+        "molar-mass": "97.994 g·mol-1"
+    },
+    {
+        "chemical-name": "Piperine",
+        "compound-name": "Piperine",
+        "boiling-point": "Decomposes",
+        "density": "1.193 g/cm3",
+        "formula": "C17H19NO3",
+        "melting-point": "130 °C (266 °F; 403 K)",
+        "molar-mass": "285.343 g·mol-1"
+    },
+    {
+        "chemical-name": "Potassium Carbonate",
+        "compound-name": "Potassium Carbonate",
+        "boiling-point": "Decomposes",
+        "density": "2.43 g/cm3",
+        "formula": "K2CO3",
+        "melting-point": "891 °C (1,636 °F; 1,164 K)",
+        "molar-mass": "138.205 g/mol"
+    },
+    {
+        "chemical-name": "Potassium Nitrate",
+        "compound-name": "Potassium Nitrate",
+        "boiling-point": "400 °C (752 °F; 673 K) (decomposes)",
+        "density": "2.109 g/cm3 (16 °C)",
+        "formula": "KNO3",
+        "melting-point": "334 °C (633 °F; 607 K)",
+        "molar-mass": "101.1032 g/mol"
+    },
+    {
+        "chemical-name": "Propane",
+        "compound-name": "Propane",
+        "boiling-point": "-42.25 to -42.04 °C; -44.05 to -43.67 °F; 230.90 to 231.11 K",
+        "density": "2.0098 kg/m3 (at 0 °C, 101.3 kPa)",
+        "formula": "C3H8",
+        "melting-point": "-187.7 °C; -305.8 °F; 85.5 K",
+        "molar-mass": "44.097 g·mol-1"
+    },
+    {
+        "chemical-name": "Propylene",
+        "compound-name": "Propylene",
+        "boiling-point": "-47.6 °C (-53.7 °F; 225.6 K)",
+        "density": "1.81 kg/m3, gas (1.013 bar, 15 °C) 1.745 kg/m3, gas (1.013 bar, 25 °C)613.9 kg/m3, liquid",
+        "formula": "C3H6",
+        "melting-point": "-185.2 °C (-301.4 °F; 88.0 K)",
+        "molar-mass": "42.081 g·mol-1"
+    },
+    {
+        "chemical-name": "Quinine",
+        "compound-name": "Quinine",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Methylphenidate",
+        "compound-name": "Ritalin",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Saccharin",
+        "compound-name": "Saccharin",
+        "density": "0.828 g/cm3",
+        "formula": "C7H5NO3S",
+        "melting-point": "228.8 to 229.7 °C (443.8 to 445.5 °F; 501.9 to 502.8 K)",
+        "molar-mass": "183.18 g·mol-1"
+    },
+    {
+        "chemical-name": "Silicon Dioxide",
+        "compound-name": "Silica",
+        "boiling-point": "2,950 °C (5,340 °F; 3,220 K)[1]",
+        "density": "2.648 (α-quartz), 2.196 (amorphous) g·cm-3[1]",
+        "formula": "SiO2",
+        "melting-point": "1,713 °C (3,115 °F; 1,986 K) (amorphous)[1]: 4.88  to",
+        "molar-mass": "60.08 g/mol"
+    },
+    {
+        "chemical-name": "Sodium Bicarbonate",
+        "compound-name": "Sodium Bicarbonate",
+        "density": "2.20 g/cm3[1]",
+        "formula": "NaHCO3",
+        "melting-point": "(Decomposes to sodium carbonate starting at 50 °C[1][6])",
+        "molar-mass": "84.0066 g mol-1"
+    },
+    {
+        "chemical-name": "Sodium Carbonate",
+        "compound-name": "Sodium Carbonate",
+        "density": "2.54 g/cm3 (25 °C, anhydrous)1.92 g/cm3 (856 °C)2.25 g/cm3 (monohydrate)[1]1.51 g/cm3 (heptahydrate)1.46 g/cm3 (decahydrate)[2]",
+        "formula": "Na2CO3",
+        "melting-point": "851 °C (1,564 °F; 1,124 K) (Anhydrous) 100 °C (212 °F; 373 K) decomposes (monohydrate) 33.5 °C (92.3 °F; 306.6 K) decomposes (heptahydrate) 34 °C (93 °F; 307 K) (decahydrate)[2][7]",
+        "molar-mass": "105.9888 g/mol (anhydrous)286.1416 g/mol (decahydrate)"
+    },
+    {
+        "chemical-name": "Sodium Chloride",
+        "compound-name": "Sodium Chloride",
+        "boiling-point": "1,465 °C (2,669 °F; 1,738 K)[2]",
+        "density": "2.17 g/cm3[2]",
+        "formula": "NaCl",
+        "melting-point": "800.7 °C (1,473.3 °F; 1,073.8 K)[2]",
+        "molar-mass": "58.443 g/mol[2]"
+    },
+    {
+        "chemical-name": "Sodium Hydroxide",
+        "compound-name": "Sodium Hydroxide",
+        "boiling-point": "1,388 °C (2,530 °F; 1,661 K)[4]",
+        "density": "2.13 g/cm3[4]",
+        "formula": "NaOH",
+        "melting-point": "323 °C (613 °F; 596 K)[4]",
+        "molar-mass": "39.9971 g/mol"
+    },
+    {
+        "chemical-name": "Sodium Hypochlorite",
+        "compound-name": "Sodium Hypochlorite",
+        "boiling-point": "101 °C (214 °F; 374 K) (decomposes)",
+        "density": "1.11 g/cm3",
+        "formula": "NaOCl",
+        "melting-point": "18 °C (64 °F; 291 K) pentahydrate",
+        "molar-mass": "74.442 g/mol"
+    },
+    {
+        "chemical-name": "Strychnine",
+        "compound-name": "Strychnine",
+        "boiling-point": "284 to 286 °C; 543 to 547 °F; 557 to 559 K",
+        "density": "1.36 g cm-3",
+        "formula": "C21H22N2O2",
+        "melting-point": "270 °C; 518 °F; 543 K",
+        "molar-mass": "334.419 g·mol-1"
+    },
+    {
+        "chemical-name": "Styrene",
+        "compound-name": "Styrene",
+        "boiling-point": "145 °C (293 °F; 418 K)",
+        "density": "0.909 g/cm3",
+        "formula": "C8H8",
+        "melting-point": "-30 °C (-22 °F; 243 K)",
+        "molar-mass": "104.15 g/mol"
+    },
+    {
+        "chemical-name": "Sucrose",
+        "compound-name": "Sucrose",
+        "density": "1.587 g/cm3 (0.0573 lb/cu in), solid",
+        "formula": "C12H22O11",
+        "melting-point": "None; decomposes at 186 °C (367 °F; 459 K)",
+        "molar-mass": "342.30 g/mol"
+    },
+    {
+        "chemical-name": "Sulfuric Acid",
+        "compound-name": "Sulfuric Acid",
+        "boiling-point": "337[1] °C (639 °F; 610 K) When sulfuric acid is above 300 °C (572 °F; 573 K), it gradually decomposes to SO3 + H2O",
+        "density": "1.8302 g/cm3, liquid[1]",
+        "formula": "H2SO4",
+        "melting-point": "10.31[1] °C (50.56 °F; 283.46 K)",
+        "molar-mass": "98.079 g/mol"
+    },
+    {
+        "chemical-name": "Tetrafluoroethylene",
+        "compound-name": "Tetrafluoroethylene",
+        "boiling-point": "-76.3 °C (-105.3 °F; 196.8 K)",
+        "density": "1.519 g/cm3 at -76 °C",
+        "formula": "C2F4",
+        "melting-point": "-142.5 °C (-224.5 °F; 130.7 K)",
+        "molar-mass": "100.02 g/mol"
+    },
+    {
+        "chemical-name": "Tetrahydrocannabinol",
+        "compound-name": "THC",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    },
+    {
+        "chemical-name": "Thymine",
+        "compound-name": "Thymine",
+        "boiling-point": "335 °C (635 °F; 608 K) (decomposes)",
+        "density": "1.223 g cm-3 (calculated)",
+        "formula": "C5H6N2O2",
+        "melting-point": "316 to 317 °C (601 to 603 °F; 589 to 590 K)",
+        "molar-mass": "126.115 g·mol-1"
+    },
+    {
+        "chemical-name": "Toluene",
+        "compound-name": "Toluene",
+        "boiling-point": "110.60 °C (231.08 °F; 383.75 K)[1]",
+        "density": "0.8623 g/mL (25 °C)[1]",
+        "formula": "C7H8",
+        "melting-point": "-95.0 °C (-139.0 °F; 178.2 K)[1]",
+        "molar-mass": "92.141 g·mol-1"
+    },
+    {
+        "chemical-name": "Triuranium Octaoxide",
+        "compound-name": "Triuranium Octaoxide",
+        "boiling-point": "decomposes to UO2 at 1,300 °C (2,370 °F; 1,570 K)",
+        "formula": "U3O8",
+        "melting-point": "1,150 °C (2,100 °F; 1,420 K)",
+        "molar-mass": "842.1 g/mol"
+    },
+    {
+        "chemical-name": "Uracil",
+        "compound-name": "Uracil",
+        "boiling-point": "N/A – decomposes",
+        "density": "1.32 g/cm3",
+        "formula": "C4H4N2O2",
+        "melting-point": "335 °C (635 °F; 608 K)[1]",
+        "molar-mass": "112.08676 g/mol"
+    },
+    {
+        "chemical-name": "Vanillin",
+        "compound-name": "Vanillin",
+        "boiling-point": "285 °C (545 °F; 558 K)[3]",
+        "density": "1.056 g/cm3[3]",
+        "formula": "C8H8O3",
+        "melting-point": "81 °C (178 °F; 354 K)[3]",
+        "molar-mass": "152.149 g·mol-1"
+    },
+    {
+        "chemical-name": "Vinyl Chloride",
+        "compound-name": "Vinyl Chloride",
+        "boiling-point": "-13.4 °C (7.9 °F; 259.8 K)",
+        "density": "0.911 g/cc",
+        "formula": "C2H3Cl",
+        "melting-point": "-153.8 °C (-244.8 °F; 119.3 K)",
+        "molar-mass": "62.50 g·mol-1"
+    },
+    {
+        "chemical-name": "Water",
+        "compound-name": "Water",
+        "boiling-point": "99.98 °C (211.96 °F; 373.13 K)",
+        "density": "Liquid:0.9998396 g/mL at 0 °C0.999972 at ~4 °C (Max.)0.9970474 g/mL at 25 °CSolid: 0.9167 g/mL at 0 °C",
+        "formula": "H2O",
+        "melting-point": "0.00 °C (32.00 °F; 273.15 K)",
+        "molar-mass": "18.015 g·mol-1"
+    },
+    {
+        "chemical-name": "Xylene",
+        "compound-name": "Xylene",
+        "boiling-point": "",
+        "density": "",
+        "formula": "",
+        "melting-point": "",
+        "molar-mass": ""
+    }
+]
