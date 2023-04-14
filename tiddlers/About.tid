@@ -1,6 +1,6 @@
 caption: About (version 0.8.0)
 created: 20230326150914405
-modified: 20230327013846707
+modified: 20230414031029039
 tags: TableOfContents TODO
 title: About
 type: text/vnd.tiddlywiki
@@ -12,10 +12,8 @@ Some places you might want to visit:
 
   * The main [[Periodic Table]], in its classic format, with links to all the elements
   * The [[Annotated Periodic Table]], which lets you quickly visualize the periods, groups, and types of the elements
-  * The [[Reactor]], where you can see what compounds you can make with various elements
-  * The complete [[list of Elements|Chemical Element]]
-  * The list of [[Element Types|Element Type|]]
-  * [[Properties|Element Properties]] of the elements
+  * The [[Reactor|Periodic Table with Reactor]], where you can see what compounds you can make with various elements
+
   * A small collection of Periodic Table [[Jokes]]
 
 !! History
