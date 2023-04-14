@@ -6,6 +6,9 @@ dl.compact-excerpt {
   padding: 1em;
   margin-top: 2em;
 }
+dl.compact-excerpt.wide {
+  column-count: 2;
+}
 .compact-excerpt dt {
   color: steelblue;
   font-weight: bold;

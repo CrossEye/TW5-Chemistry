@@ -1,0 +1,5 @@
+created: 20230414005817952
+list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/my/templates/Joke $:/core/ui/ViewTemplate/body $:/_/my/templates/CompoundBody $:/_/my/templates/element-properties $:/_/my/templates/compound-properties $:/_/my/templates/ElementType
+modified: 20230414005817952
+title: $:/tags/ViewTemplate
+type: text/vnd.tiddlywiki

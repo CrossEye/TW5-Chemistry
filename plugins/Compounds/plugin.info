@@ -1,0 +1,11 @@
+{
+    "title": "$:/plugins/ScottSauyet/Chemistry/Compounds",
+    "name": "Compounds",
+    "description": "Data plugin containing chemical compound information",
+    "author": "Scott Sauyet",
+    "version": "0.8.0",
+    "core-version": ">=5.2.5",
+    "source": "https://github.com/CrossEye/Chemistry",
+    "list": "readme license",
+    "plugin-type": "plugin"
+}

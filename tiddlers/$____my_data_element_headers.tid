@@ -1,0 +1,33 @@
+atomic-mass: Atomic Mass
+atomic-number: Atomic Number
+atomic-radius: Atomic Radius
+boiling-point: Boiling Point
+created: 20230213001132354
+density: Density
+discoverer: Discoverer
+electronegativity: Electronegativity
+element: Element
+element-type: Element Type
+first-ionization: First Ionization
+group: Group
+melting-point: Melting Point
+metal: Metal
+metalloid: Metalloid
+modified: 20230414005154342
+natural: Natural
+non-metal: Nonmetal
+number-of-electrons: Number of Electrons
+number-of-isotopes: Number of Isotopes
+number-of-neutrons: Number of Neutrons
+number-of-protons: Number of Protons
+number-of-shells: Number of Shells
+number-of-valence: Number of Valence
+period: Period
+phase: Phase
+radioactive: Radioactive
+specific-heat: Specific Heat
+symbol: Symbol
+tags: 
+title: $:/_/my/data/element/headers
+type: text/vnd.tiddlywiki
+year: Year Discovered

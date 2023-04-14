@@ -1,0 +1,14 @@
+created: 20230414004055795
+modified: 20230414010942731
+tags: $:/tags/ViewTemplate
+title: $:/_/my/templates/CompoundBody
+type: text/vnd.tiddlywiki
+
+\define more-link() <a href={{!!wikipedia-link}} class="tc-tiddlylink-external">More info from wikipedia</a>
+
+<$list filter="[<currentTiddler>has[chemical-name]]" variable="_">
+<blockquote><$macrocall $name="formula" form={{!!wikipedia-extract}}/>
+<br/><br/>
+<<more-link>>
+</blockquote>
+</$list>

@@ -1,13 +1,13 @@
 created: 20230205025255046
-modified: 20230213175533919
+modified: 20230414014405244
 tags: $:/tags/ViewTemplate
 title: $:/_/my/templates/element-properties
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]has[atomic-mass]] -[[$:/_/my/data/headers]] +[first[]]" variable="_">
+<$list filter="[all[current]has[atomic-mass]] -[[$:/_/my/data/element/headers]] +[first[]]" variable="_">
 <dl class="compact-excerpt">
-<$list filter="[[$:/_/my/data/headers]fields[]] -tags -title -revisions -bag -created -modified -list -text -type -revision +[sort[]]" variable="fld">
-<dt><$view tiddler="$:/_/my/data/headers" field=<<fld>> />: </dt>
+<$list filter="[[$:/_/my/data/element/headers]fields[]] -tags -title -revisions -bag -created -modified -list -text -type -revision +[sort[]]" variable="fld">
+<dt><$view tiddler="$:/_/my/data/element/headers" field=<<fld>> />: </dt>
 <dd><$view field=<<fld>> /></dd>
 </$list>
 </dl>
