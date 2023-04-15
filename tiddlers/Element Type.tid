@@ -1,6 +1,14 @@
 caption: Element Types
 created: 20230213161328909
-modified: 20230213161410152
+modified: 20230415013918640
 tags: TableOfContents
 title: Element Type
 type: text/vnd.tiddlywiki
+
+Element types (or //families//) are collections of different elements with similar chemical properties.  There is a great variety of how the elements are grouped into families.  (Astronomers have [[an extremely simple|$:/_/my/jokes/Astronomer's view]] version!).  The main [[tables|Periodic Table]] here use a fairly common version that divides the elements into the following groups:
+
+!! Types
+
+<div style="column-width: 15em;">
+<<list-links filter:[all[shadows+tiddlers]tag<currentTiddler>] >>
+</div>

@@ -1,7 +1,7 @@
 created: 20230325161518123
-modified: 20230325161947416
+modified: 20230415025001019
 notes: Will require interesting specificity work, I think, and a dynamically generated state tiddler that is also a stylesheet
-status: $:/plugins/crosseye/ideas/state/Soon
+status: $:/plugins/crosseye/ideas/state/To-do
 tags: Idea
 title: Idea: Multi-select annotations
 type: text/vnd.tiddlywiki

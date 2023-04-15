@@ -1,10 +1,10 @@
-caption: About (version 0.8.0)
+caption: About (version 0.8.1)
 created: 20230326150914405
-modified: 20230414031029039
+modified: 20230415024707188
 tags: TableOfContents TODO
 title: About
 type: text/vnd.tiddlywiki
-version: 0.8.0
+version: 0.8.1
 
 This wiki collects interactive versions of the Periodic Table to help learn about Chemistry, take notes, play games, and impress your friends.
 
@@ -13,8 +13,8 @@ Some places you might want to visit:
   * The main [[Periodic Table]], in its classic format, with links to all the elements
   * The [[Annotated Periodic Table]], which lets you quickly visualize the periods, groups, and types of the elements
   * The [[Reactor|Periodic Table with Reactor]], where you can see what compounds you can make with various elements
-
   * A small collection of Periodic Table [[Jokes]]
+  * [[Elements|Chemical Element]]
 
 !! History
 

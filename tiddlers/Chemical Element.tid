@@ -1,8 +1,16 @@
 caption: Elements
 created: 20230212200835282
-modified: 20230414030855839
+modified: 20230415020917770
 tags: TableOfContents
 title: Chemical Element
 type: text/vnd.tiddlywiki
 
-<<list-links filter:[tag[Chemical Element]]>>
+Chemical elements are the ingredients that make up normal matter in the universe.  In our day-to-day world, atoms, the basic units of an element, do not break down into smaller bits.  But they can be combined in various proportions to make [[Compounds|Compound]].  There are 92 naturally-occurring elements and -- so far -- 26 additional ones synthesized in laboratories.
+
+The most common way to describe the organization of elements is in the [[Periodic Table]].
+
+!! Element Names
+
+<div style="column-width: 10em;">
+<<list-links filter:[all[shadows+tiddlers]tag<currentTiddler>] >>
+</div>

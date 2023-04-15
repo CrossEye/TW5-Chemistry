@@ -1,5 +1,5 @@
 created: 20230326225204422
-modified: 20230327013956704
+modified: 20230414234202558
 tags: 
 title: TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -19,5 +19,3 @@ This page is built atop [[TiddlyWiki|https://tiddlywiki.com/]], which is describ
 and [[sharing|https://tiddlywiki.com/#Sharing%20your%20tiddlers%20with%20others]] complex information."
 
 It is a single-page wiki, a user-defined database, a note-taking tool, and much more.  It seems a good fit to capture the Periodic Table and general Chemistry information.
-
-Everything is editable.  Users can add [[Notes]] to [[Elements|Chemical Element]], create new [[Element Properties]] they want to track, add their own [[Jokes]], compose their own [[Games]] and reorganize the entire view if they choose.

@@ -1,5 +1,17 @@
 created: 20230325160653254
-modified: 20230325160714526
+modified: 20230415015549143
 tags: TableOfContents
 title: Element Properties
 type: text/vnd.tiddlywiki
+
+This page is a placeholder for now.  At the moment there is only an entry for [[Year|Elements by Year]]  But we will eventually have pages for a number of [[element|Chemical Element]] properties:
+
+!! Properties
+
+<ul style="column-width: 10em;" >
+<$list filter="[[$:/_/my/data/element/headers]fields[]] -tags -title -revisions -bag -created -modified -list -text -type -revision -year +[sort[]]" variable="fld">
+<li><$view tiddler="$:/_/my/data/element/headers" field=<<fld>> /></li>
+</$list>
+<li>[[Elements by Year]]</li>
+</ul>
+

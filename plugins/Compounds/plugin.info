@@ -3,7 +3,7 @@
     "name": "Compounds",
     "description": "Data plugin containing chemical compound information",
     "author": "Scott Sauyet",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "core-version": ">=5.2.5",
     "source": "https://github.com/CrossEye/Chemistry",
     "list": "readme license",

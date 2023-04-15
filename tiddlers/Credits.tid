@@ -1,0 +1,10 @@
+created: 20230415022251099
+modified: 20230415023458333
+title: Credits
+type: text/vnd.tiddlywiki
+
+Although so far, the bulk of the work on this project has been done by [[Scott Sauyet]], a great number of people have offered ideas, encouragement, and a massive amounts of technical help.  Before this is spread beyond the TiddlyWiki community, we will try to collect a list of names of those people.  But even before that, there are two that I must mention right away:
+
+  * [[Jeremy Ruston|https://github.com/Jermolene]] created and continues to maintain [[TiddlyWiki]], an amazing tool that lets us build such things as a personal Periodic Table wiki... and //so// much more.
+
+  * [[Télumire|https://github.com/Telumire]] offered the suggestion for the [[Reactor|Periodic Table with Reactor]], as well as much of the code that it uses as well as in-depth technical help and encouragement.
