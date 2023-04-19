@@ -14,7 +14,7 @@ const main = (elements, compounds) =>
     .then (addElementFields)
     .then (display ('Added title and tags to elements'))
     .then (map (cleanFields))
-    .then (map (addExtract))
+    .then (map (addExtract('title')))
     .then (allPromises)
     .then (display ('Added extract from Wikipedia to element tiddlers'))
     .then (allPromises)
@@ -30,7 +30,7 @@ const main = (elements, compounds) =>
     .then (display (`Gathered element types`))
     .then (map (addTimestamps))
     .then (display (`Added created/modified timestamps`))
-    .then (map (addExtract))
+    .then (map (addExtract('title')))
     .then (display (`Added text from Wikipedia extracts to element type tiddlers`))
     .then (allPromises)
     .then (map (addLinks (elements, compounds)))
@@ -42,7 +42,7 @@ const main = (elements, compounds) =>
     .then (() => Promise .resolve (compounds))
     .then (addCompoundFields)
     .then (display ('Added title and tags'))
-    .then (map (addExtract))
+    .then (map (addExtract('chemical-name')))
     .then (allPromises)
     .then (display ('Added extract from Wikipedia compound tiddlers'))
     .then (allPromises)
@@ -85,8 +85,8 @@ const cleanFields = ({density, metal, metalloid, natural, 'non-metal': nm, ...re
   
 
 
-const addExtract = (e) => 
-  fetch (`https://en.wikipedia.org/api/rest_v1/page/summary/${wikipediaTitle (e .title)}`)
+const addExtract = (prop) => (e) => 
+  fetch (`https://en.wikipedia.org/api/rest_v1/page/summary/${wikipediaTitle (e [prop])}`)
     .then(r => r.json()) 
     .then (o => ({
       ... e,

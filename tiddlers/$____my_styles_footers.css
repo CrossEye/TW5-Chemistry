@@ -8,6 +8,7 @@ dl.compact-excerpt {
 }
 dl.compact-excerpt.wide {
   column-count: 2;
+  margin-left: 0;
 }
 .compact-excerpt dt {
   color: steelblue;
