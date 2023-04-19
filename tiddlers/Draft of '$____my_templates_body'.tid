@@ -1,0 +1,25 @@
+created: 20230131031519944
+draft.of: $:/_/my/templates/body
+draft.title: $:/_/my/templates/body
+modified: 20230419110153962
+tags: 
+title: Draft of '$:/_/my/templates/body'
+type: text/vnd.tiddlywiki
+
+\define more-link() <a href={{!!wikipedia-link}} class="tc-tiddlylink-external">More info from wikipedia</a>
+
+<$list filter="[<currentTiddler>has[element]has[atomic-mass]]" variable="_">
+<$set name="className" filter="[all[current]get[element-type]lowercase[]] +[search-replace:g[ ],[-]]">
+<div style="float: right; margin-left: .5em; width: 6em; height: 8em;">
+<div class="tile">
+<$macrocall $name="tile" className=<<className>> />
+</div>
+</div>
+</$set>
+</$list>
+<blockquote>{{!!wikipedia-extract}}
+<br/><br/>
+<<more-link>>
+</blockquote>
+<div style="clear: both;"/>
+{{||$:/core/ui/ViewTemplate/body/default}}
