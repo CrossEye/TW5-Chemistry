@@ -1,0 +1,10 @@
+created: 20230418020950657
+modified: 20230419011035139
+tags: $:/tags/ViewTemplate
+title: $:/_/my/templates/compound-elements
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]has[chemical-name]] -[[$:/_/my/data/compound/headers]] +[first[]]" variable="compound">
+<br/><br/><hr />
+Constituent Elements: <$macrocall $name="constituent-elements"  form={{!!formula}} />
+</$list>

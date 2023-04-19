@@ -1,0 +1,15 @@
+created: 20230416143117338
+modified: 20230419032617433
+tags: $:/tags/Macro
+title: $:/_/my/macros/constituent-elements
+type: text/vnd.tiddlywiki
+
+\define constituent-elements(form)
+<$let
+  element="([A-Z][a-z]?)"
+  not-a-letter="[^A-Za-z]"
+  split-to-symbols="[splitregexp:m<not-a-letter>splitregexp:m<element>!is[blank]]"
+ >
+<$list filter="[[$form$]subfilter<split-to-symbols>] +[unique[]]" counter="counter">{{{ [all[shadows+tiddlers]tag[Chemical Element]symbol<currentTiddler>] }}}<$text text={{{ [<counter-last>!match[yes]then[, ]]}}} /></$list>
+</$let>
+\end

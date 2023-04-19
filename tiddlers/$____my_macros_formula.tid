@@ -1,13 +1,17 @@
 created: 20230411200126888
-modified: 20230413232530176
+modified: 20230419013449772
 tags: $:/tags/Macro
 title: $:/_/my/macros/formula
 type: text/vnd.tiddlywiki
 
 \define formula(form)
 \whitespace trim
-<$let tv-wikilinks=no digits="([A-Za-z])(\d+)" replacement="$1<sub>$2</sub>"
-   out={{{ [<__form__>search-replace:g:regexp<digits>,<replacement>search-replace:g:[->],[→]] }}}>
+<$let 
+  tv-wikilinks=no
+  section="([A-Za-z\)])(\d+)"
+  replacement="$1<sub>$2</sub>"
+  out={{{ [<__form__>search-replace:g:regexp<section>,<replacement>search-replace:g:[->],[→]] }}}
+>
 <<out>>
 </$let>
 \end
@@ -16,5 +20,6 @@ type: text/vnd.tiddlywiki
 * Water: <<formula "H2O">>
 * Aspirin: <<formula "C9H8O4" >>
 * Salt: <<formula "NaCl">>
+* Acetone: <<formula "(CH3)2CO">>
 * First Equation: <<formula "2H2+O2 -> 2H2O">>
 * Second Equation: <<formula "SiCl4 + 4H2O → H4SiO4 + 4HCl" >>

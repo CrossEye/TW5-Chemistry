@@ -1,6 +1,6 @@
 created: 20230301195850693
-elements: 
-modified: 20230414023648463
+elements: Hydrogen Oxygen Carbon
+modified: 20230416175234974
 tags: 
 title: $:/_/my/tools/Reactor
 type: text/vnd.tiddlywiki
@@ -23,9 +23,9 @@ type: text/vnd.tiddlywiki
 elements={{{ [list[!!elements]get[symbol]join[ ]] }}}
 element="([A-Z][a-z]?)"
 not-a-letter="[^A-Za-z]"
-split-to-elements="[splitregexp:m<not-a-letter>splitregexp:m<element>!is[blank]]"
-is-missing-elements="[enlist<elements>]-[subfilter<split-to-elements>]"
-contains-wrong-elements="[subfilter<split-to-elements>]:filter[!enlist<elements>]"
+split-to-symbols="[splitregexp:m<not-a-letter>splitregexp:m<element>!is[blank]]"
+is-missing-elements="[enlist<elements>]-[subfilter<split-to-symbols>]"
+contains-wrong-elements="[subfilter<split-to-symbols>]:filter[!enlist<elements>]"
 exact-match="[!filter<contains-wrong-elements>!filter<is-missing-elements>]"
 >
 
@@ -62,7 +62,7 @@ Add more elements <$text text={{{ [list[!!elements]count[]!match[1]then[or remov
 </$droppable>
 
 <style>
-div.reactor {
+table.periosdic div.reactor {
   border: .1cqw solid #ccc; 
   padding: .5cqw;
   height: 38cqw;
