@@ -1,0 +1,10 @@
+caption: arrow-left-short
+collection: 
+library: Bootstrap
+library_version: 1.3.0
+revision: 0
+tags: $:/tags/Image Icons Images SVG
+title: $:/images/bootstrap/arrow-left-short
+type: text/vnd.tiddlywiki
+
+<svg width="22pt" height="22pt" class="tc-image-bts-arrow-left-short tc-image-button" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z"/></svg>

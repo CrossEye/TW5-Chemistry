@@ -3,6 +3,7 @@ created: 20210313151647704
 description: every link click opens or moves tiddler to the top
 modified: 20230304000001135
 name: move to top
+revision: 0
 tags: $:/tags/Layout
 title: $:/_/needCredit/PageTemplate_link_click_move_to_top
 type: text/vnd.tiddlywiki

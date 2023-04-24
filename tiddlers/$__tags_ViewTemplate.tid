@@ -1,5 +1,5 @@
 created: 20230414005817952
-list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/my/templates/Joke $:/core/ui/ViewTemplate/body $:/_/my/templates/CompoundBody $:/_/my/templates/element-properties $:/_/my/templates/compound-elements $:/_/my/templates/compound-properties $:/_/my/templates/ElementType [[Draft of '$:/_/my/templates/compound-elements']]
-modified: 20230418021339304
+list: $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/_/my/templates/Joke $:/core/ui/ViewTemplate/body $:/_/my/templates/CompoundBody $:/_/my/templates/element-compounds $:/_/my/templates/element-properties $:/_/my/templates/compound-elements $:/_/my/templates/compound-properties $:/_/my/templates/ElementType
+modified: 20230424012728737
 title: $:/tags/ViewTemplate
 type: text/vnd.tiddlywiki

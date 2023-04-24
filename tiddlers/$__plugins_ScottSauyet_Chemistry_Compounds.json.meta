@@ -1,0 +1,12 @@
+author: Scott Sauyet
+core-version: >=5.2.5
+dependents: 
+description: Data plugin containing chemical compound information
+list: readme license
+name: Compounds
+plugin-type: plugin
+revision: 0
+source: https://github.com/CrossEye/Chemistry
+title: $:/plugins/ScottSauyet/Chemistry/Compounds
+type: application/json
+version: 0.8.1

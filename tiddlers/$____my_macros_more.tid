@@ -1,0 +1,15 @@
+created: 20230424015748243
+modified: 20230424020554419
+tags: 
+title: $:/_/my/macros/more
+type: text/vnd.tiddlywiki
+
+\define more(filter, size:"10")
+<$let 
+  name="results" filter="[subfilter<__filter__>]">
+  first="[subfilter<__filter__>limit<size>]"
+>
+[[first]]
+</$let>
+\end
+<<more "One Two Three Four Five Six Seven Eight Nine Ten" 4>>

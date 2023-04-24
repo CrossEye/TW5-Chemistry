@@ -1,0 +1,27 @@
+created: 20230421182937493
+modified: 20230424013605509
+tags: $:/tags/Macro
+title: $:/_/my/macros/containing-compounds
+type: text/vnd.tiddlywiki
+
+\define containing-compounds(symb)
+<$let
+  element="([A-Z][a-z]?)"
+  not-a-letter="[^A-Za-z]"
+  split-to-symbols="[splitregexp:m<not-a-letter>splitregexp:m<element>!is[blank]]"
+  matcher="\b$symb$\b"
+ >
+<$list filter="[all[shadows+tiddlers]tag[Compound]sort[]] :filter[get[formula]subfilter<split-to-symbols>regexp<matcher>]" counter="counter">
+<$link /><$text text={{{ [<counter-last>!match[yes]then[, ]]}}} />
+</$list>
+</$let>
+\end
+
+
+!! Examples
+
+* Na: <<containing-compounds "Na">>
+
+* S: <<containing-compounds "S">>
+
+* O: <<containing-compounds "O">> 

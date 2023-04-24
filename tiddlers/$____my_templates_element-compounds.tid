@@ -1,0 +1,10 @@
+created: 20230424012336190
+modified: 20230424012651007
+tags: $:/tags/ViewTemplate
+title: $:/_/my/templates/element-compounds
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tag[Chemical Element]]" variable="_">
+<br/><br/><hr /><br/>
+Containing Compounds: <$macrocall $name="containing-compounds"  symb={{!!symbol}} />
+</$list>

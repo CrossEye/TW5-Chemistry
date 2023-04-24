@@ -5,6 +5,7 @@ description: Simple tool to track ideas
 list: readme license
 name: Idea Tracking
 plugin-type: plugin
+revision: 0
 source: https://github.com/CrossEye/TW5-ideas
 title: $:/plugins/crosseye/ideas
 type: application/json

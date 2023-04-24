@@ -1,6 +1,7 @@
 created: 20230301195850693
-elements: Hydrogen Oxygen Carbon
-modified: 20230416175234974
+elements: 
+modified: 20230421161929824
+revision: 0
 tags: 
 title: $:/_/my/tools/Reactor
 type: text/vnd.tiddlywiki
@@ -28,10 +29,6 @@ is-missing-elements="[enlist<elements>]-[subfilter<split-to-symbols>]"
 contains-wrong-elements="[subfilter<split-to-symbols>]:filter[!enlist<elements>]"
 exact-match="[!filter<contains-wrong-elements>!filter<is-missing-elements>]"
 >
-
-<$list filter="[all[tiddlers+shadows]tag[Compound]]:filter[get[formula]filter<exact-match>] +[first[]]" variable="">
-With this, you can create...
-</$list>
 
 <$list filter="[all[tiddlers+shadows]tag[Compound]]:filter[get[formula]filter<exact-match>] +[first[]else[no-elements]match[no-elements]]" variable="">
 Add more elements <$text text={{{ [list[!!elements]count[]!match[1]then[or remove some]] }}} />
@@ -62,7 +59,7 @@ Add more elements <$text text={{{ [list[!!elements]count[]!match[1]then[or remov
 </$droppable>
 
 <style>
-table.periosdic div.reactor {
+table.periodic div.reactor {
   border: .1cqw solid #ccc; 
   padding: .5cqw;
   height: 38cqw;

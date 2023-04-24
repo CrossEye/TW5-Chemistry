@@ -1,6 +1,7 @@
 created: 20230322021118552
 modified: 20230322021407313
 notes: This should also help make the system more modular
+revision: 0
 status: $:/plugins/crosseye/ideas/state/Likely
 tags: Idea
 title: Idea: Add namespace for table view and CSS
