@@ -1,5 +1,5 @@
 created: 20230421182937493
-modified: 20230424013605509
+modified: 20230424024201709
 tags: $:/tags/Macro
 title: $:/_/my/macros/containing-compounds
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
   matcher="\b$symb$\b"
  >
 <$list filter="[all[shadows+tiddlers]tag[Compound]sort[]] :filter[get[formula]subfilter<split-to-symbols>regexp<matcher>]" counter="counter">
-<$link /><$text text={{{ [<counter-last>!match[yes]then[, ]]}}} />
+<$link>{{!!caption}}</$link><$text text={{{ [<counter-last>!match[yes]then[, ]]}}} />
 </$list>
 </$let>
 \end
